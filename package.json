@@ -11,6 +11,7 @@
     "build": "node build > emojilib.json"
   },
   "devDependencies": {
+    "skin-tone": "^2.0.0",
     "standard": "^14.3.1"
   }
 }

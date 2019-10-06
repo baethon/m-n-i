@@ -1,7 +1,8 @@
 const https = require('https')
+const skinTone = require('skin-tone')
 
 const libUrl = 'https://raw.githubusercontent.com/muan/emojilib/master/emojis.json'
-const fitzpatrickScaleModifiers = ['🏻', '🏼', '🏽', '🏾', '🏿']
+const skinTonesList = ['none', 'white', 'creamWhite', 'lightBrown', 'brown', 'darkBrown']
 
 const getLibrary = () => {
   return new Promise((resolve) => {
@@ -23,8 +24,8 @@ const expandByFitzpatrickScale = (carry, item) => {
   const { char, fitzpatrick_scale: fitzpatrickScale, category, keywords } = item
   return (fitzpatrickScale === false)
     ? carry.concat([{ char, category, keywords }])
-    : carry.concat(fitzpatrickScaleModifiers.map((modifier) => ({
-      char: char + modifier,
+    : carry.concat(skinTonesList.map((tone) => ({
+      char: skinTone(char, tone),
       category,
       keywords
     })))
