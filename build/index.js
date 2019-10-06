@@ -40,6 +40,13 @@ const addPersonCategory = (list) => {
 }
 
 const stripKeywords = (list) => list.map(({ keywords, ...item }) => item)
+const splitByCategory = (list) => list.reduce(
+  (carry, { category, char }) => ({
+    ...carry,
+    [category]: (carry[category] || []).concat(char)
+  }),
+  {}
+)
 
 getLibrary()
   .then((data) => {
@@ -50,5 +57,6 @@ getLibrary()
   })
   .then(addPersonCategory)
   .then(stripKeywords)
+  .then(splitByCategory)
   .then((list) => JSON.stringify(list, null, 2))
   .then(console.log)
