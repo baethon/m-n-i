@@ -1,0 +1,16 @@
+{
+  "name": "@baethon/string-to-emoji",
+  "version": "1.0.0",
+  "description": "Convert string to emoji",
+  "main": "index.js",
+  "author": "Radoslaw Mejer <radmen@baethon.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix",
+    "build": "node build > emojilib.json"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
