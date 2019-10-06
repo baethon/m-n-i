@@ -19,22 +19,36 @@ const getLibrary = () => {
   })
 }
 
+const expandByFitzpatrickScale = (carry, item) => {
+  const { char, fitzpatrick_scale: fitzpatrickScale, category, keywords } = item
+  return (fitzpatrickScale === false)
+    ? carry.concat([{ char, category, keywords }])
+    : carry.concat(fitzpatrickScaleModifiers.map((modifier) => ({
+      char: char + modifier,
+      category,
+      keywords
+    })))
+}
+
+const addPersonCategory = (list) => {
+  const persons = list.filter(({ keywords }) => keywords.includes('female') || keywords.includes('male'))
+
+  return list.concat(persons.map((item) => ({
+    ...item,
+    category: 'person'
+  })))
+}
+
+const stripKeywords = (list) => list.map(({ keywords, ...item }) => item)
+
 getLibrary()
   .then((data) => {
     const mappedList = Object.values(data)
-      .reduce(
-        (carry, { char, fitzpatrick_scale: fitzpatrickScale, category }) => {
-          return (fitzpatrickScale === false)
-            ? carry.concat([{ char, category }])
-            : carry.concat(fitzpatrickScaleModifiers.map((modifier) => ({
-              char: char + modifier,
-              category
-            })))
-        },
-        []
-      )
+      .reduce(expandByFitzpatrickScale, [])
 
     return mappedList
   })
+  .then(addPersonCategory)
+  .then(stripKeywords)
   .then((list) => JSON.stringify(list, null, 2))
   .then(console.log)
