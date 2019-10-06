@@ -1,0 +1,10678 @@
+[
+  {
+    "char": "💯",
+    "category": "symbols"
+  },
+  {
+    "char": "🔢",
+    "category": "symbols"
+  },
+  {
+    "char": "😀",
+    "category": "people"
+  },
+  {
+    "char": "😬",
+    "category": "people"
+  },
+  {
+    "char": "😁",
+    "category": "people"
+  },
+  {
+    "char": "😂",
+    "category": "people"
+  },
+  {
+    "char": "🤣",
+    "category": "people"
+  },
+  {
+    "char": "🥳",
+    "category": "people"
+  },
+  {
+    "char": "😃",
+    "category": "people"
+  },
+  {
+    "char": "😄",
+    "category": "people"
+  },
+  {
+    "char": "😅",
+    "category": "people"
+  },
+  {
+    "char": "😆",
+    "category": "people"
+  },
+  {
+    "char": "😇",
+    "category": "people"
+  },
+  {
+    "char": "😉",
+    "category": "people"
+  },
+  {
+    "char": "😊",
+    "category": "people"
+  },
+  {
+    "char": "🙂",
+    "category": "people"
+  },
+  {
+    "char": "🙃",
+    "category": "people"
+  },
+  {
+    "char": "☺️",
+    "category": "people"
+  },
+  {
+    "char": "😋",
+    "category": "people"
+  },
+  {
+    "char": "😌",
+    "category": "people"
+  },
+  {
+    "char": "😍",
+    "category": "people"
+  },
+  {
+    "char": "🥰",
+    "category": "people"
+  },
+  {
+    "char": "😘",
+    "category": "people"
+  },
+  {
+    "char": "😗",
+    "category": "people"
+  },
+  {
+    "char": "😙",
+    "category": "people"
+  },
+  {
+    "char": "😚",
+    "category": "people"
+  },
+  {
+    "char": "😜",
+    "category": "people"
+  },
+  {
+    "char": "🤪",
+    "category": "people"
+  },
+  {
+    "char": "🤨",
+    "category": "people"
+  },
+  {
+    "char": "🧐",
+    "category": "people"
+  },
+  {
+    "char": "😝",
+    "category": "people"
+  },
+  {
+    "char": "😛",
+    "category": "people"
+  },
+  {
+    "char": "🤑",
+    "category": "people"
+  },
+  {
+    "char": "🤓",
+    "category": "people"
+  },
+  {
+    "char": "😎",
+    "category": "people"
+  },
+  {
+    "char": "🤩",
+    "category": "people"
+  },
+  {
+    "char": "🤡",
+    "category": "people"
+  },
+  {
+    "char": "🤠",
+    "category": "people"
+  },
+  {
+    "char": "🤗",
+    "category": "people"
+  },
+  {
+    "char": "😏",
+    "category": "people"
+  },
+  {
+    "char": "😶",
+    "category": "people"
+  },
+  {
+    "char": "😐",
+    "category": "people"
+  },
+  {
+    "char": "😑",
+    "category": "people"
+  },
+  {
+    "char": "😒",
+    "category": "people"
+  },
+  {
+    "char": "🙄",
+    "category": "people"
+  },
+  {
+    "char": "🤔",
+    "category": "people"
+  },
+  {
+    "char": "🤥",
+    "category": "people"
+  },
+  {
+    "char": "🤭",
+    "category": "people"
+  },
+  {
+    "char": "🤫",
+    "category": "people"
+  },
+  {
+    "char": "🤬",
+    "category": "people"
+  },
+  {
+    "char": "🤯",
+    "category": "people"
+  },
+  {
+    "char": "😳",
+    "category": "people"
+  },
+  {
+    "char": "😞",
+    "category": "people"
+  },
+  {
+    "char": "😟",
+    "category": "people"
+  },
+  {
+    "char": "😠",
+    "category": "people"
+  },
+  {
+    "char": "😡",
+    "category": "people"
+  },
+  {
+    "char": "😔",
+    "category": "people"
+  },
+  {
+    "char": "😕",
+    "category": "people"
+  },
+  {
+    "char": "🙁",
+    "category": "people"
+  },
+  {
+    "char": "☹",
+    "category": "people"
+  },
+  {
+    "char": "😣",
+    "category": "people"
+  },
+  {
+    "char": "😖",
+    "category": "people"
+  },
+  {
+    "char": "😫",
+    "category": "people"
+  },
+  {
+    "char": "😩",
+    "category": "people"
+  },
+  {
+    "char": "🥺",
+    "category": "people"
+  },
+  {
+    "char": "😤",
+    "category": "people"
+  },
+  {
+    "char": "😮",
+    "category": "people"
+  },
+  {
+    "char": "😱",
+    "category": "people"
+  },
+  {
+    "char": "😨",
+    "category": "people"
+  },
+  {
+    "char": "😰",
+    "category": "people"
+  },
+  {
+    "char": "😯",
+    "category": "people"
+  },
+  {
+    "char": "😦",
+    "category": "people"
+  },
+  {
+    "char": "😧",
+    "category": "people"
+  },
+  {
+    "char": "😢",
+    "category": "people"
+  },
+  {
+    "char": "😥",
+    "category": "people"
+  },
+  {
+    "char": "🤤",
+    "category": "people"
+  },
+  {
+    "char": "😪",
+    "category": "people"
+  },
+  {
+    "char": "😓",
+    "category": "people"
+  },
+  {
+    "char": "🥵",
+    "category": "people"
+  },
+  {
+    "char": "🥶",
+    "category": "people"
+  },
+  {
+    "char": "😭",
+    "category": "people"
+  },
+  {
+    "char": "😵",
+    "category": "people"
+  },
+  {
+    "char": "😲",
+    "category": "people"
+  },
+  {
+    "char": "🤐",
+    "category": "people"
+  },
+  {
+    "char": "🤢",
+    "category": "people"
+  },
+  {
+    "char": "🤧",
+    "category": "people"
+  },
+  {
+    "char": "🤮",
+    "category": "people"
+  },
+  {
+    "char": "😷",
+    "category": "people"
+  },
+  {
+    "char": "🤒",
+    "category": "people"
+  },
+  {
+    "char": "🤕",
+    "category": "people"
+  },
+  {
+    "char": "🥴",
+    "category": "people"
+  },
+  {
+    "char": "😴",
+    "category": "people"
+  },
+  {
+    "char": "💤",
+    "category": "people"
+  },
+  {
+    "char": "💩",
+    "category": "people"
+  },
+  {
+    "char": "😈",
+    "category": "people"
+  },
+  {
+    "char": "👿",
+    "category": "people"
+  },
+  {
+    "char": "👹",
+    "category": "people"
+  },
+  {
+    "char": "👺",
+    "category": "people"
+  },
+  {
+    "char": "💀",
+    "category": "people"
+  },
+  {
+    "char": "👻",
+    "category": "people"
+  },
+  {
+    "char": "👽",
+    "category": "people"
+  },
+  {
+    "char": "🤖",
+    "category": "people"
+  },
+  {
+    "char": "😺",
+    "category": "people"
+  },
+  {
+    "char": "😸",
+    "category": "people"
+  },
+  {
+    "char": "😹",
+    "category": "people"
+  },
+  {
+    "char": "😻",
+    "category": "people"
+  },
+  {
+    "char": "😼",
+    "category": "people"
+  },
+  {
+    "char": "😽",
+    "category": "people"
+  },
+  {
+    "char": "🙀",
+    "category": "people"
+  },
+  {
+    "char": "😿",
+    "category": "people"
+  },
+  {
+    "char": "😾",
+    "category": "people"
+  },
+  {
+    "char": "🤲🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤲🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤲🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤲🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤲🏿",
+    "category": "people"
+  },
+  {
+    "char": "🙌🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙌🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙌🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙌🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙌🏿",
+    "category": "people"
+  },
+  {
+    "char": "👏🏻",
+    "category": "people"
+  },
+  {
+    "char": "👏🏼",
+    "category": "people"
+  },
+  {
+    "char": "👏🏽",
+    "category": "people"
+  },
+  {
+    "char": "👏🏾",
+    "category": "people"
+  },
+  {
+    "char": "👏🏿",
+    "category": "people"
+  },
+  {
+    "char": "👋🏻",
+    "category": "people"
+  },
+  {
+    "char": "👋🏼",
+    "category": "people"
+  },
+  {
+    "char": "👋🏽",
+    "category": "people"
+  },
+  {
+    "char": "👋🏾",
+    "category": "people"
+  },
+  {
+    "char": "👋🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤙🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤙🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤙🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤙🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤙🏿",
+    "category": "people"
+  },
+  {
+    "char": "👍🏻",
+    "category": "people"
+  },
+  {
+    "char": "👍🏼",
+    "category": "people"
+  },
+  {
+    "char": "👍🏽",
+    "category": "people"
+  },
+  {
+    "char": "👍🏾",
+    "category": "people"
+  },
+  {
+    "char": "👍🏿",
+    "category": "people"
+  },
+  {
+    "char": "👎🏻",
+    "category": "people"
+  },
+  {
+    "char": "👎🏼",
+    "category": "people"
+  },
+  {
+    "char": "👎🏽",
+    "category": "people"
+  },
+  {
+    "char": "👎🏾",
+    "category": "people"
+  },
+  {
+    "char": "👎🏿",
+    "category": "people"
+  },
+  {
+    "char": "👊🏻",
+    "category": "people"
+  },
+  {
+    "char": "👊🏼",
+    "category": "people"
+  },
+  {
+    "char": "👊🏽",
+    "category": "people"
+  },
+  {
+    "char": "👊🏾",
+    "category": "people"
+  },
+  {
+    "char": "👊🏿",
+    "category": "people"
+  },
+  {
+    "char": "✊🏻",
+    "category": "people"
+  },
+  {
+    "char": "✊🏼",
+    "category": "people"
+  },
+  {
+    "char": "✊🏽",
+    "category": "people"
+  },
+  {
+    "char": "✊🏾",
+    "category": "people"
+  },
+  {
+    "char": "✊🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤛🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤛🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤛🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤛🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤛🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤜🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤜🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤜🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤜🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤜🏿",
+    "category": "people"
+  },
+  {
+    "char": "✌🏻",
+    "category": "people"
+  },
+  {
+    "char": "✌🏼",
+    "category": "people"
+  },
+  {
+    "char": "✌🏽",
+    "category": "people"
+  },
+  {
+    "char": "✌🏾",
+    "category": "people"
+  },
+  {
+    "char": "✌🏿",
+    "category": "people"
+  },
+  {
+    "char": "👌🏻",
+    "category": "people"
+  },
+  {
+    "char": "👌🏼",
+    "category": "people"
+  },
+  {
+    "char": "👌🏽",
+    "category": "people"
+  },
+  {
+    "char": "👌🏾",
+    "category": "people"
+  },
+  {
+    "char": "👌🏿",
+    "category": "people"
+  },
+  {
+    "char": "✋🏻",
+    "category": "people"
+  },
+  {
+    "char": "✋🏼",
+    "category": "people"
+  },
+  {
+    "char": "✋🏽",
+    "category": "people"
+  },
+  {
+    "char": "✋🏾",
+    "category": "people"
+  },
+  {
+    "char": "✋🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤚🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤚🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤚🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤚🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤚🏿",
+    "category": "people"
+  },
+  {
+    "char": "👐🏻",
+    "category": "people"
+  },
+  {
+    "char": "👐🏼",
+    "category": "people"
+  },
+  {
+    "char": "👐🏽",
+    "category": "people"
+  },
+  {
+    "char": "👐🏾",
+    "category": "people"
+  },
+  {
+    "char": "👐🏿",
+    "category": "people"
+  },
+  {
+    "char": "💪🏻",
+    "category": "people"
+  },
+  {
+    "char": "💪🏼",
+    "category": "people"
+  },
+  {
+    "char": "💪🏽",
+    "category": "people"
+  },
+  {
+    "char": "💪🏾",
+    "category": "people"
+  },
+  {
+    "char": "💪🏿",
+    "category": "people"
+  },
+  {
+    "char": "🙏🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙏🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙏🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙏🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙏🏿",
+    "category": "people"
+  },
+  {
+    "char": "🦶🏻",
+    "category": "people"
+  },
+  {
+    "char": "🦶🏼",
+    "category": "people"
+  },
+  {
+    "char": "🦶🏽",
+    "category": "people"
+  },
+  {
+    "char": "🦶🏾",
+    "category": "people"
+  },
+  {
+    "char": "🦶🏿",
+    "category": "people"
+  },
+  {
+    "char": "🦵🏻",
+    "category": "people"
+  },
+  {
+    "char": "🦵🏼",
+    "category": "people"
+  },
+  {
+    "char": "🦵🏽",
+    "category": "people"
+  },
+  {
+    "char": "🦵🏾",
+    "category": "people"
+  },
+  {
+    "char": "🦵🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤝",
+    "category": "people"
+  },
+  {
+    "char": "☝🏻",
+    "category": "people"
+  },
+  {
+    "char": "☝🏼",
+    "category": "people"
+  },
+  {
+    "char": "☝🏽",
+    "category": "people"
+  },
+  {
+    "char": "☝🏾",
+    "category": "people"
+  },
+  {
+    "char": "☝🏿",
+    "category": "people"
+  },
+  {
+    "char": "👆🏻",
+    "category": "people"
+  },
+  {
+    "char": "👆🏼",
+    "category": "people"
+  },
+  {
+    "char": "👆🏽",
+    "category": "people"
+  },
+  {
+    "char": "👆🏾",
+    "category": "people"
+  },
+  {
+    "char": "👆🏿",
+    "category": "people"
+  },
+  {
+    "char": "👇🏻",
+    "category": "people"
+  },
+  {
+    "char": "👇🏼",
+    "category": "people"
+  },
+  {
+    "char": "👇🏽",
+    "category": "people"
+  },
+  {
+    "char": "👇🏾",
+    "category": "people"
+  },
+  {
+    "char": "👇🏿",
+    "category": "people"
+  },
+  {
+    "char": "👈🏻",
+    "category": "people"
+  },
+  {
+    "char": "👈🏼",
+    "category": "people"
+  },
+  {
+    "char": "👈🏽",
+    "category": "people"
+  },
+  {
+    "char": "👈🏾",
+    "category": "people"
+  },
+  {
+    "char": "👈🏿",
+    "category": "people"
+  },
+  {
+    "char": "👉🏻",
+    "category": "people"
+  },
+  {
+    "char": "👉🏼",
+    "category": "people"
+  },
+  {
+    "char": "👉🏽",
+    "category": "people"
+  },
+  {
+    "char": "👉🏾",
+    "category": "people"
+  },
+  {
+    "char": "👉🏿",
+    "category": "people"
+  },
+  {
+    "char": "🖕🏻",
+    "category": "people"
+  },
+  {
+    "char": "🖕🏼",
+    "category": "people"
+  },
+  {
+    "char": "🖕🏽",
+    "category": "people"
+  },
+  {
+    "char": "🖕🏾",
+    "category": "people"
+  },
+  {
+    "char": "🖕🏿",
+    "category": "people"
+  },
+  {
+    "char": "🖐🏻",
+    "category": "people"
+  },
+  {
+    "char": "🖐🏼",
+    "category": "people"
+  },
+  {
+    "char": "🖐🏽",
+    "category": "people"
+  },
+  {
+    "char": "🖐🏾",
+    "category": "people"
+  },
+  {
+    "char": "🖐🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤟🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤟🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤟🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤟🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤟🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤘🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤘🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤘🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤘🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤘🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤞🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤞🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤞🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤞🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤞🏿",
+    "category": "people"
+  },
+  {
+    "char": "🖖🏻",
+    "category": "people"
+  },
+  {
+    "char": "🖖🏼",
+    "category": "people"
+  },
+  {
+    "char": "🖖🏽",
+    "category": "people"
+  },
+  {
+    "char": "🖖🏾",
+    "category": "people"
+  },
+  {
+    "char": "🖖🏿",
+    "category": "people"
+  },
+  {
+    "char": "✍🏻",
+    "category": "people"
+  },
+  {
+    "char": "✍🏼",
+    "category": "people"
+  },
+  {
+    "char": "✍🏽",
+    "category": "people"
+  },
+  {
+    "char": "✍🏾",
+    "category": "people"
+  },
+  {
+    "char": "✍🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤳🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤳🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤳🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤳🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤳🏿",
+    "category": "people"
+  },
+  {
+    "char": "💅🏻",
+    "category": "people"
+  },
+  {
+    "char": "💅🏼",
+    "category": "people"
+  },
+  {
+    "char": "💅🏽",
+    "category": "people"
+  },
+  {
+    "char": "💅🏾",
+    "category": "people"
+  },
+  {
+    "char": "💅🏿",
+    "category": "people"
+  },
+  {
+    "char": "👄",
+    "category": "people"
+  },
+  {
+    "char": "🦷",
+    "category": "people"
+  },
+  {
+    "char": "👅",
+    "category": "people"
+  },
+  {
+    "char": "👂🏻",
+    "category": "people"
+  },
+  {
+    "char": "👂🏼",
+    "category": "people"
+  },
+  {
+    "char": "👂🏽",
+    "category": "people"
+  },
+  {
+    "char": "👂🏾",
+    "category": "people"
+  },
+  {
+    "char": "👂🏿",
+    "category": "people"
+  },
+  {
+    "char": "👃🏻",
+    "category": "people"
+  },
+  {
+    "char": "👃🏼",
+    "category": "people"
+  },
+  {
+    "char": "👃🏽",
+    "category": "people"
+  },
+  {
+    "char": "👃🏾",
+    "category": "people"
+  },
+  {
+    "char": "👃🏿",
+    "category": "people"
+  },
+  {
+    "char": "👁",
+    "category": "people"
+  },
+  {
+    "char": "👀",
+    "category": "people"
+  },
+  {
+    "char": "🧠",
+    "category": "people"
+  },
+  {
+    "char": "👤",
+    "category": "people"
+  },
+  {
+    "char": "👥",
+    "category": "people"
+  },
+  {
+    "char": "🗣",
+    "category": "people"
+  },
+  {
+    "char": "👶🏻",
+    "category": "people"
+  },
+  {
+    "char": "👶🏼",
+    "category": "people"
+  },
+  {
+    "char": "👶🏽",
+    "category": "people"
+  },
+  {
+    "char": "👶🏾",
+    "category": "people"
+  },
+  {
+    "char": "👶🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧒🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧒🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧒🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧒🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧒🏿",
+    "category": "people"
+  },
+  {
+    "char": "👦🏻",
+    "category": "people"
+  },
+  {
+    "char": "👦🏼",
+    "category": "people"
+  },
+  {
+    "char": "👦🏽",
+    "category": "people"
+  },
+  {
+    "char": "👦🏾",
+    "category": "people"
+  },
+  {
+    "char": "👦🏿",
+    "category": "people"
+  },
+  {
+    "char": "👧🏻",
+    "category": "people"
+  },
+  {
+    "char": "👧🏼",
+    "category": "people"
+  },
+  {
+    "char": "👧🏽",
+    "category": "people"
+  },
+  {
+    "char": "👧🏾",
+    "category": "people"
+  },
+  {
+    "char": "👧🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧑🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧑🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧑🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧑🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧑🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩🏿",
+    "category": "people"
+  },
+  {
+    "char": "👱‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "👱‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "👱‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "👱‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "👱‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "👱🏻",
+    "category": "people"
+  },
+  {
+    "char": "👱🏼",
+    "category": "people"
+  },
+  {
+    "char": "👱🏽",
+    "category": "people"
+  },
+  {
+    "char": "👱🏾",
+    "category": "people"
+  },
+  {
+    "char": "👱🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧔🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧔🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧔🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧔🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧔🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧓🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧓🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧓🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧓🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧓🏿",
+    "category": "people"
+  },
+  {
+    "char": "👴🏻",
+    "category": "people"
+  },
+  {
+    "char": "👴🏼",
+    "category": "people"
+  },
+  {
+    "char": "👴🏽",
+    "category": "people"
+  },
+  {
+    "char": "👴🏾",
+    "category": "people"
+  },
+  {
+    "char": "👴🏿",
+    "category": "people"
+  },
+  {
+    "char": "👵🏻",
+    "category": "people"
+  },
+  {
+    "char": "👵🏼",
+    "category": "people"
+  },
+  {
+    "char": "👵🏽",
+    "category": "people"
+  },
+  {
+    "char": "👵🏾",
+    "category": "people"
+  },
+  {
+    "char": "👵🏿",
+    "category": "people"
+  },
+  {
+    "char": "👲🏻",
+    "category": "people"
+  },
+  {
+    "char": "👲🏼",
+    "category": "people"
+  },
+  {
+    "char": "👲🏽",
+    "category": "people"
+  },
+  {
+    "char": "👲🏾",
+    "category": "people"
+  },
+  {
+    "char": "👲🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧕🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧕🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧕🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧕🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧕🏿",
+    "category": "people"
+  },
+  {
+    "char": "👳‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "👳‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "👳‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "👳‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "👳‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "👳🏻",
+    "category": "people"
+  },
+  {
+    "char": "👳🏼",
+    "category": "people"
+  },
+  {
+    "char": "👳🏽",
+    "category": "people"
+  },
+  {
+    "char": "👳🏾",
+    "category": "people"
+  },
+  {
+    "char": "👳🏿",
+    "category": "people"
+  },
+  {
+    "char": "👮‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "👮‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "👮‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "👮‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "👮‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "👮🏻",
+    "category": "people"
+  },
+  {
+    "char": "👮🏼",
+    "category": "people"
+  },
+  {
+    "char": "👮🏽",
+    "category": "people"
+  },
+  {
+    "char": "👮🏾",
+    "category": "people"
+  },
+  {
+    "char": "👮🏿",
+    "category": "people"
+  },
+  {
+    "char": "👷‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "👷‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "👷‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "👷‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "👷‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "👷🏻",
+    "category": "people"
+  },
+  {
+    "char": "👷🏼",
+    "category": "people"
+  },
+  {
+    "char": "👷🏽",
+    "category": "people"
+  },
+  {
+    "char": "👷🏾",
+    "category": "people"
+  },
+  {
+    "char": "👷🏿",
+    "category": "people"
+  },
+  {
+    "char": "💂‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "💂‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "💂‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "💂‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "💂‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "💂🏻",
+    "category": "people"
+  },
+  {
+    "char": "💂🏼",
+    "category": "people"
+  },
+  {
+    "char": "💂🏽",
+    "category": "people"
+  },
+  {
+    "char": "💂🏾",
+    "category": "people"
+  },
+  {
+    "char": "💂🏿",
+    "category": "people"
+  },
+  {
+    "char": "🕵️‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🕵️‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🕵️‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🕵️‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🕵️‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🕵🏻",
+    "category": "people"
+  },
+  {
+    "char": "🕵🏼",
+    "category": "people"
+  },
+  {
+    "char": "🕵🏽",
+    "category": "people"
+  },
+  {
+    "char": "🕵🏾",
+    "category": "people"
+  },
+  {
+    "char": "🕵🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍⚕️🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍⚕️🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍⚕️🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍⚕️🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍⚕️🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍⚕️🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍⚕️🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍⚕️🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍⚕️🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍⚕️🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🌾🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🌾🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🌾🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🌾🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🌾🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🌾🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🌾🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🌾🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🌾🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🌾🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🍳🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🍳🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🍳🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🍳🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🍳🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🍳🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🍳🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🍳🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🍳🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🍳🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎓🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎓🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎓🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎓🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎓🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎓🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎓🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎓🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎓🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎓🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎤🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎤🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎤🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎤🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎤🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎤🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎤🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎤🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎤🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎤🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🏫🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🏫🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🏫🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🏫🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🏫🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🏫🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🏫🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🏫🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🏫🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🏫🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🏭🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🏭🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🏭🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🏭🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🏭🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🏭🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🏭🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🏭🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🏭🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🏭🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍💻🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍💻🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍💻🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍💻🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍💻🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍💻🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍💻🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍💻🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍💻🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍💻🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍💼🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍💼🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍💼🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍💼🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍💼🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍💼🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍💼🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍💼🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍💼🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍💼🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🔧🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🔧🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🔧🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🔧🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🔧🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🔧🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🔧🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🔧🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🔧🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🔧🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🔬🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🔬🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🔬🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🔬🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🔬🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🔬🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🔬🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🔬🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🔬🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🔬🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎨🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎨🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎨🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎨🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🎨🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎨🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎨🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎨🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎨🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🎨🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🚒🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🚒🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🚒🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🚒🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🚒🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🚒🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🚒🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🚒🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🚒🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🚒🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍✈️🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍✈️🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍✈️🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍✈️🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍✈️🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍✈️🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍✈️🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍✈️🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍✈️🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍✈️🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🚀🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🚀🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🚀🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🚀🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍🚀🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🚀🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🚀🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🚀🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🚀🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍🚀🏿",
+    "category": "people"
+  },
+  {
+    "char": "👩‍⚖️🏻",
+    "category": "people"
+  },
+  {
+    "char": "👩‍⚖️🏼",
+    "category": "people"
+  },
+  {
+    "char": "👩‍⚖️🏽",
+    "category": "people"
+  },
+  {
+    "char": "👩‍⚖️🏾",
+    "category": "people"
+  },
+  {
+    "char": "👩‍⚖️🏿",
+    "category": "people"
+  },
+  {
+    "char": "👨‍⚖️🏻",
+    "category": "people"
+  },
+  {
+    "char": "👨‍⚖️🏼",
+    "category": "people"
+  },
+  {
+    "char": "👨‍⚖️🏽",
+    "category": "people"
+  },
+  {
+    "char": "👨‍⚖️🏾",
+    "category": "people"
+  },
+  {
+    "char": "👨‍⚖️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🦸‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🦸‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🦸‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🦸‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🦸‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🦸‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🦸‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🦸‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🦸‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🦸‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🦹‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🦹‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🦹‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🦹‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🦹‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🦹‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🦹‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🦹‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🦹‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🦹‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤶🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤶🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤶🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤶🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤶🏿",
+    "category": "people"
+  },
+  {
+    "char": "🎅🏻",
+    "category": "people"
+  },
+  {
+    "char": "🎅🏼",
+    "category": "people"
+  },
+  {
+    "char": "🎅🏽",
+    "category": "people"
+  },
+  {
+    "char": "🎅🏾",
+    "category": "people"
+  },
+  {
+    "char": "🎅🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧙‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧙‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧙‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧙‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧙‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧙‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧙‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧙‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧙‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧙‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧝‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧝‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧝‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧝‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧝‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧝‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧝‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧝‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧝‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧝‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧛‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧛‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧛‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧛‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧛‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧛‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧛‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧛‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧛‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧛‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧟‍♀️",
+    "category": "people"
+  },
+  {
+    "char": "🧟‍♂️",
+    "category": "people"
+  },
+  {
+    "char": "🧞‍♀️",
+    "category": "people"
+  },
+  {
+    "char": "🧞‍♂️",
+    "category": "people"
+  },
+  {
+    "char": "🧜‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧜‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧜‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧜‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧜‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧜‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧜‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧜‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧜‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧜‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧚‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧚‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧚‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧚‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧚‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧚‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧚‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧚‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧚‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧚‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "👼🏻",
+    "category": "people"
+  },
+  {
+    "char": "👼🏼",
+    "category": "people"
+  },
+  {
+    "char": "👼🏽",
+    "category": "people"
+  },
+  {
+    "char": "👼🏾",
+    "category": "people"
+  },
+  {
+    "char": "👼🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤰🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤰🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤰🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤰🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤰🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤱🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤱🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤱🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤱🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤱🏿",
+    "category": "people"
+  },
+  {
+    "char": "👸🏻",
+    "category": "people"
+  },
+  {
+    "char": "👸🏼",
+    "category": "people"
+  },
+  {
+    "char": "👸🏽",
+    "category": "people"
+  },
+  {
+    "char": "👸🏾",
+    "category": "people"
+  },
+  {
+    "char": "👸🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤴🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤴🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤴🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤴🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤴🏿",
+    "category": "people"
+  },
+  {
+    "char": "👰🏻",
+    "category": "people"
+  },
+  {
+    "char": "👰🏼",
+    "category": "people"
+  },
+  {
+    "char": "👰🏽",
+    "category": "people"
+  },
+  {
+    "char": "👰🏾",
+    "category": "people"
+  },
+  {
+    "char": "👰🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤵🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤵🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤵🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤵🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤵🏿",
+    "category": "people"
+  },
+  {
+    "char": "🏃‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🏃‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🏃‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🏃‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🏃‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🏃🏻",
+    "category": "people"
+  },
+  {
+    "char": "🏃🏼",
+    "category": "people"
+  },
+  {
+    "char": "🏃🏽",
+    "category": "people"
+  },
+  {
+    "char": "🏃🏾",
+    "category": "people"
+  },
+  {
+    "char": "🏃🏿",
+    "category": "people"
+  },
+  {
+    "char": "🚶‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🚶‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🚶‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🚶‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🚶‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🚶🏻",
+    "category": "people"
+  },
+  {
+    "char": "🚶🏼",
+    "category": "people"
+  },
+  {
+    "char": "🚶🏽",
+    "category": "people"
+  },
+  {
+    "char": "🚶🏾",
+    "category": "people"
+  },
+  {
+    "char": "🚶🏿",
+    "category": "people"
+  },
+  {
+    "char": "💃🏻",
+    "category": "people"
+  },
+  {
+    "char": "💃🏼",
+    "category": "people"
+  },
+  {
+    "char": "💃🏽",
+    "category": "people"
+  },
+  {
+    "char": "💃🏾",
+    "category": "people"
+  },
+  {
+    "char": "💃🏿",
+    "category": "people"
+  },
+  {
+    "char": "🕺🏻",
+    "category": "people"
+  },
+  {
+    "char": "🕺🏼",
+    "category": "people"
+  },
+  {
+    "char": "🕺🏽",
+    "category": "people"
+  },
+  {
+    "char": "🕺🏾",
+    "category": "people"
+  },
+  {
+    "char": "🕺🏿",
+    "category": "people"
+  },
+  {
+    "char": "👯",
+    "category": "people"
+  },
+  {
+    "char": "👯‍♂️",
+    "category": "people"
+  },
+  {
+    "char": "👫",
+    "category": "people"
+  },
+  {
+    "char": "👬",
+    "category": "people"
+  },
+  {
+    "char": "👭",
+    "category": "people"
+  },
+  {
+    "char": "🙇‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙇‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙇‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙇‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙇‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🙇🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙇🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙇🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙇🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙇🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤦‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤦‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤦‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤦‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤦‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤦‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤦‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤦‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤦‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤦‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤷🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤷🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤷🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤷🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤷🏿",
+    "category": "people"
+  },
+  {
+    "char": "🤷‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🤷‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🤷‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🤷‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🤷‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "💁🏻",
+    "category": "people"
+  },
+  {
+    "char": "💁🏼",
+    "category": "people"
+  },
+  {
+    "char": "💁🏽",
+    "category": "people"
+  },
+  {
+    "char": "💁🏾",
+    "category": "people"
+  },
+  {
+    "char": "💁🏿",
+    "category": "people"
+  },
+  {
+    "char": "💁‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "💁‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "💁‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "💁‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "💁‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🙅🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙅🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙅🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙅🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙅🏿",
+    "category": "people"
+  },
+  {
+    "char": "🙅‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙅‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙅‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙅‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙅‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🙆🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙆🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙆🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙆🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙆🏿",
+    "category": "people"
+  },
+  {
+    "char": "🙆‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙆‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙆‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙆‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙆‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🙋🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙋🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙋🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙋🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙋🏿",
+    "category": "people"
+  },
+  {
+    "char": "🙋‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙋‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙋‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙋‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙋‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🙎🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙎🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙎🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙎🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙎🏿",
+    "category": "people"
+  },
+  {
+    "char": "🙎‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙎‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙎‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙎‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙎‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🙍🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙍🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙍🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙍🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙍🏿",
+    "category": "people"
+  },
+  {
+    "char": "🙍‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🙍‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🙍‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🙍‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🙍‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "💇🏻",
+    "category": "people"
+  },
+  {
+    "char": "💇🏼",
+    "category": "people"
+  },
+  {
+    "char": "💇🏽",
+    "category": "people"
+  },
+  {
+    "char": "💇🏾",
+    "category": "people"
+  },
+  {
+    "char": "💇🏿",
+    "category": "people"
+  },
+  {
+    "char": "💇‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "💇‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "💇‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "💇‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "💇‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "💆🏻",
+    "category": "people"
+  },
+  {
+    "char": "💆🏼",
+    "category": "people"
+  },
+  {
+    "char": "💆🏽",
+    "category": "people"
+  },
+  {
+    "char": "💆🏾",
+    "category": "people"
+  },
+  {
+    "char": "💆🏿",
+    "category": "people"
+  },
+  {
+    "char": "💆‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "💆‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "💆‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "💆‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "💆‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧖‍♀️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧖‍♀️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧖‍♀️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧖‍♀️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧖‍♀️🏿",
+    "category": "people"
+  },
+  {
+    "char": "🧖‍♂️🏻",
+    "category": "people"
+  },
+  {
+    "char": "🧖‍♂️🏼",
+    "category": "people"
+  },
+  {
+    "char": "🧖‍♂️🏽",
+    "category": "people"
+  },
+  {
+    "char": "🧖‍♂️🏾",
+    "category": "people"
+  },
+  {
+    "char": "🧖‍♂️🏿",
+    "category": "people"
+  },
+  {
+    "char": "💑",
+    "category": "people"
+  },
+  {
+    "char": "👩‍❤️‍👩",
+    "category": "people"
+  },
+  {
+    "char": "👨‍❤️‍👨",
+    "category": "people"
+  },
+  {
+    "char": "💏",
+    "category": "people"
+  },
+  {
+    "char": "👩‍❤️‍💋‍👩",
+    "category": "people"
+  },
+  {
+    "char": "👨‍❤️‍💋‍👨",
+    "category": "people"
+  },
+  {
+    "char": "👪",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👩‍👧",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👩‍👧‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👩‍👦‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👩‍👧‍👧",
+    "category": "people"
+  },
+  {
+    "char": "👩‍👩‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👩‍👩‍👧",
+    "category": "people"
+  },
+  {
+    "char": "👩‍👩‍👧‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👩‍👩‍👦‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👩‍👩‍👧‍👧",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👨‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👨‍👧",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👨‍👧‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👨‍👦‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👨‍👧‍👧",
+    "category": "people"
+  },
+  {
+    "char": "👩‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👩‍👧",
+    "category": "people"
+  },
+  {
+    "char": "👩‍👧‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👩‍👦‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👩‍👧‍👧",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👧",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👧‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👦‍👦",
+    "category": "people"
+  },
+  {
+    "char": "👨‍👧‍👧",
+    "category": "people"
+  },
+  {
+    "char": "🧶",
+    "category": "people"
+  },
+  {
+    "char": "🧵",
+    "category": "people"
+  },
+  {
+    "char": "🧥",
+    "category": "people"
+  },
+  {
+    "char": "🥼",
+    "category": "people"
+  },
+  {
+    "char": "👚",
+    "category": "people"
+  },
+  {
+    "char": "👕",
+    "category": "people"
+  },
+  {
+    "char": "👖",
+    "category": "people"
+  },
+  {
+    "char": "👔",
+    "category": "people"
+  },
+  {
+    "char": "👗",
+    "category": "people"
+  },
+  {
+    "char": "👙",
+    "category": "people"
+  },
+  {
+    "char": "👘",
+    "category": "people"
+  },
+  {
+    "char": "💄",
+    "category": "people"
+  },
+  {
+    "char": "💋",
+    "category": "people"
+  },
+  {
+    "char": "👣",
+    "category": "people"
+  },
+  {
+    "char": "🥿",
+    "category": "people"
+  },
+  {
+    "char": "👠",
+    "category": "people"
+  },
+  {
+    "char": "👡",
+    "category": "people"
+  },
+  {
+    "char": "👢",
+    "category": "people"
+  },
+  {
+    "char": "👞",
+    "category": "people"
+  },
+  {
+    "char": "👟",
+    "category": "people"
+  },
+  {
+    "char": "🥾",
+    "category": "people"
+  },
+  {
+    "char": "🧦",
+    "category": "people"
+  },
+  {
+    "char": "🧤",
+    "category": "people"
+  },
+  {
+    "char": "🧣",
+    "category": "people"
+  },
+  {
+    "char": "👒",
+    "category": "people"
+  },
+  {
+    "char": "🎩",
+    "category": "people"
+  },
+  {
+    "char": "🧢",
+    "category": "people"
+  },
+  {
+    "char": "⛑",
+    "category": "people"
+  },
+  {
+    "char": "🎓",
+    "category": "people"
+  },
+  {
+    "char": "👑",
+    "category": "people"
+  },
+  {
+    "char": "🎒",
+    "category": "people"
+  },
+  {
+    "char": "🧳",
+    "category": "people"
+  },
+  {
+    "char": "👝",
+    "category": "people"
+  },
+  {
+    "char": "👛",
+    "category": "people"
+  },
+  {
+    "char": "👜",
+    "category": "people"
+  },
+  {
+    "char": "💼",
+    "category": "people"
+  },
+  {
+    "char": "👓",
+    "category": "people"
+  },
+  {
+    "char": "🕶",
+    "category": "people"
+  },
+  {
+    "char": "🥽",
+    "category": "people"
+  },
+  {
+    "char": "💍",
+    "category": "people"
+  },
+  {
+    "char": "🌂",
+    "category": "people"
+  },
+  {
+    "char": "🐶",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐱",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐭",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐹",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐰",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦊",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐻",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐼",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐨",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐯",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦁",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐮",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐷",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐽",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐸",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦑",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐙",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦐",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐵",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦍",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🙈",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🙉",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🙊",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐒",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐔",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐧",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐦",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐤",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐣",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐥",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦆",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦅",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦉",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦇",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐺",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐗",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐴",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦄",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐝",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐛",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦋",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐌",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐞",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐜",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦗",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🕷",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦂",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦀",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐍",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦎",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦖",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦕",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐢",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐠",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐟",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐡",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐬",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦈",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐳",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐋",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐊",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐆",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦓",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐅",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐃",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐂",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐄",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦌",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐪",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐫",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦒",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐘",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦏",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐐",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐏",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐑",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐎",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐖",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐀",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐁",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐓",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦃",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🕊",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐕",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐩",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐈",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐇",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐿",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦔",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦝",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦙",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦛",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦘",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦡",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦢",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦚",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦜",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦞",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🦟",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐾",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐉",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐲",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌵",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🎄",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌲",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌳",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌴",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌱",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌿",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "☘",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🍀",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🎍",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🎋",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🍃",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🍂",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🍁",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌾",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌺",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌻",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌹",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🥀",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌷",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌼",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌸",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "💐",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🍄",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌰",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🎃",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🐚",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🕸",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌎",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌍",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌏",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌕",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌖",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌗",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌘",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌑",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌒",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌓",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌔",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌚",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌝",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌛",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌜",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌞",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌙",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "⭐",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌟",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "💫",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "✨",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "☄",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "☀️",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌤",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "⛅",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌥",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌦",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "☁️",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌧",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "⛈",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌩",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "⚡",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🔥",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "💥",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "❄️",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌨",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "⛄",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "☃",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌬",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "💨",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌪",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌫",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "☂",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "☔",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "💧",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "💦",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🌊",
+    "category": "animals_and_nature"
+  },
+  {
+    "char": "🍏",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍎",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍐",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍊",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍋",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍌",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍉",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍇",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍓",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍈",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍒",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍑",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍍",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥥",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥝",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥭",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥑",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥦",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍅",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍆",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥒",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥕",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🌶",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥔",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🌽",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥬",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍠",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥜",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍯",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥐",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍞",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥖",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥯",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥨",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🧀",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥚",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥓",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥩",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥞",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍗",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍖",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🦴",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍤",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍳",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍔",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍟",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥙",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🌭",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍕",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥪",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥫",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍝",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🌮",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🌯",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥗",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥘",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍜",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍲",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍥",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥠",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍣",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍱",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍛",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍙",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍚",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍘",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍢",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍡",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍧",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍨",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍦",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥧",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍰",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🧁",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥮",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🎂",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍮",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍬",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍭",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍫",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍿",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥟",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍩",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍪",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥛",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍺",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍻",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥂",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍷",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥃",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍸",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍹",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍾",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍶",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍵",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥤",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "☕",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍼",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🧂",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥄",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍴",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🍽",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥣",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥡",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "🥢",
+    "category": "food_and_drink"
+  },
+  {
+    "char": "⚽",
+    "category": "activity"
+  },
+  {
+    "char": "🏀",
+    "category": "activity"
+  },
+  {
+    "char": "🏈",
+    "category": "activity"
+  },
+  {
+    "char": "⚾",
+    "category": "activity"
+  },
+  {
+    "char": "🥎",
+    "category": "activity"
+  },
+  {
+    "char": "🎾",
+    "category": "activity"
+  },
+  {
+    "char": "🏐",
+    "category": "activity"
+  },
+  {
+    "char": "🏉",
+    "category": "activity"
+  },
+  {
+    "char": "🥏",
+    "category": "activity"
+  },
+  {
+    "char": "🎱",
+    "category": "activity"
+  },
+  {
+    "char": "⛳",
+    "category": "activity"
+  },
+  {
+    "char": "🏌️‍♀️",
+    "category": "activity"
+  },
+  {
+    "char": "🏌🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🏌🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🏌🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🏌🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🏌🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🏓",
+    "category": "activity"
+  },
+  {
+    "char": "🏸",
+    "category": "activity"
+  },
+  {
+    "char": "🥅",
+    "category": "activity"
+  },
+  {
+    "char": "🏒",
+    "category": "activity"
+  },
+  {
+    "char": "🏑",
+    "category": "activity"
+  },
+  {
+    "char": "🥍",
+    "category": "activity"
+  },
+  {
+    "char": "🏏",
+    "category": "activity"
+  },
+  {
+    "char": "🎿",
+    "category": "activity"
+  },
+  {
+    "char": "⛷",
+    "category": "activity"
+  },
+  {
+    "char": "🏂🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🏂🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🏂🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🏂🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🏂🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🤺",
+    "category": "activity"
+  },
+  {
+    "char": "🤼‍♀️",
+    "category": "activity"
+  },
+  {
+    "char": "🤼‍♂️",
+    "category": "activity"
+  },
+  {
+    "char": "🤸‍♀️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🤸‍♀️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🤸‍♀️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🤸‍♀️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🤸‍♀️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🤸‍♂️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🤸‍♂️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🤸‍♂️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🤸‍♂️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🤸‍♂️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🤾‍♀️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🤾‍♀️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🤾‍♀️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🤾‍♀️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🤾‍♀️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🤾‍♂️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🤾‍♂️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🤾‍♂️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🤾‍♂️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🤾‍♂️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "⛸",
+    "category": "activity"
+  },
+  {
+    "char": "🥌",
+    "category": "activity"
+  },
+  {
+    "char": "🛹",
+    "category": "activity"
+  },
+  {
+    "char": "🛷",
+    "category": "activity"
+  },
+  {
+    "char": "🏹",
+    "category": "activity"
+  },
+  {
+    "char": "🎣",
+    "category": "activity"
+  },
+  {
+    "char": "🥊",
+    "category": "activity"
+  },
+  {
+    "char": "🥋",
+    "category": "activity"
+  },
+  {
+    "char": "🚣‍♀️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🚣‍♀️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🚣‍♀️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🚣‍♀️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🚣‍♀️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🚣🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🚣🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🚣🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🚣🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🚣🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🧗‍♀️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🧗‍♀️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🧗‍♀️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🧗‍♀️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🧗‍♀️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🧗‍♂️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🧗‍♂️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🧗‍♂️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🧗‍♂️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🧗‍♂️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🏊‍♀️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🏊‍♀️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🏊‍♀️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🏊‍♀️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🏊‍♀️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🏊🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🏊🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🏊🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🏊🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🏊🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🤽‍♀️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🤽‍♀️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🤽‍♀️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🤽‍♀️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🤽‍♀️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🤽‍♂️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🤽‍♂️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🤽‍♂️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🤽‍♂️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🤽‍♂️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🧘‍♀️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🧘‍♀️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🧘‍♀️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🧘‍♀️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🧘‍♀️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🧘‍♂️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🧘‍♂️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🧘‍♂️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🧘‍♂️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🧘‍♂️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🏄‍♀️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🏄‍♀️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🏄‍♀️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🏄‍♀️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🏄‍♀️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🏄🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🏄🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🏄🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🏄🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🏄🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🛀🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🛀🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🛀🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🛀🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🛀🏿",
+    "category": "activity"
+  },
+  {
+    "char": "⛹️‍♀️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "⛹️‍♀️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "⛹️‍♀️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "⛹️‍♀️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "⛹️‍♀️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "⛹🏻",
+    "category": "activity"
+  },
+  {
+    "char": "⛹🏼",
+    "category": "activity"
+  },
+  {
+    "char": "⛹🏽",
+    "category": "activity"
+  },
+  {
+    "char": "⛹🏾",
+    "category": "activity"
+  },
+  {
+    "char": "⛹🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🏋️‍♀️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🏋️‍♀️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🏋️‍♀️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🏋️‍♀️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🏋️‍♀️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🏋🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🏋🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🏋🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🏋🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🏋🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🚴‍♀️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🚴‍♀️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🚴‍♀️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🚴‍♀️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🚴‍♀️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🚴🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🚴🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🚴🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🚴🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🚴🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🚵‍♀️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🚵‍♀️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🚵‍♀️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🚵‍♀️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🚵‍♀️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🚵🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🚵🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🚵🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🚵🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🚵🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🏇🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🏇🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🏇🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🏇🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🏇🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🕴🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🕴🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🕴🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🕴🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🕴🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🏆",
+    "category": "activity"
+  },
+  {
+    "char": "🎽",
+    "category": "activity"
+  },
+  {
+    "char": "🏅",
+    "category": "activity"
+  },
+  {
+    "char": "🎖",
+    "category": "activity"
+  },
+  {
+    "char": "🥇",
+    "category": "activity"
+  },
+  {
+    "char": "🥈",
+    "category": "activity"
+  },
+  {
+    "char": "🥉",
+    "category": "activity"
+  },
+  {
+    "char": "🎗",
+    "category": "activity"
+  },
+  {
+    "char": "🏵",
+    "category": "activity"
+  },
+  {
+    "char": "🎫",
+    "category": "activity"
+  },
+  {
+    "char": "🎟",
+    "category": "activity"
+  },
+  {
+    "char": "🎭",
+    "category": "activity"
+  },
+  {
+    "char": "🎨",
+    "category": "activity"
+  },
+  {
+    "char": "🎪",
+    "category": "activity"
+  },
+  {
+    "char": "🤹‍♀️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🤹‍♀️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🤹‍♀️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🤹‍♀️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🤹‍♀️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🤹‍♂️🏻",
+    "category": "activity"
+  },
+  {
+    "char": "🤹‍♂️🏼",
+    "category": "activity"
+  },
+  {
+    "char": "🤹‍♂️🏽",
+    "category": "activity"
+  },
+  {
+    "char": "🤹‍♂️🏾",
+    "category": "activity"
+  },
+  {
+    "char": "🤹‍♂️🏿",
+    "category": "activity"
+  },
+  {
+    "char": "🎤",
+    "category": "activity"
+  },
+  {
+    "char": "🎧",
+    "category": "activity"
+  },
+  {
+    "char": "🎼",
+    "category": "activity"
+  },
+  {
+    "char": "🎹",
+    "category": "activity"
+  },
+  {
+    "char": "🥁",
+    "category": "activity"
+  },
+  {
+    "char": "🎷",
+    "category": "activity"
+  },
+  {
+    "char": "🎺",
+    "category": "activity"
+  },
+  {
+    "char": "🎸",
+    "category": "activity"
+  },
+  {
+    "char": "🎻",
+    "category": "activity"
+  },
+  {
+    "char": "🎬",
+    "category": "activity"
+  },
+  {
+    "char": "🎮",
+    "category": "activity"
+  },
+  {
+    "char": "👾",
+    "category": "activity"
+  },
+  {
+    "char": "🎯",
+    "category": "activity"
+  },
+  {
+    "char": "🎲",
+    "category": "activity"
+  },
+  {
+    "char": "♟",
+    "category": "activity"
+  },
+  {
+    "char": "🎰",
+    "category": "activity"
+  },
+  {
+    "char": "🧩",
+    "category": "activity"
+  },
+  {
+    "char": "🎳",
+    "category": "activity"
+  },
+  {
+    "char": "🚗",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚕",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚙",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚌",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚎",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏎",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚓",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚑",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚒",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚐",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚚",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚛",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚜",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🛴",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏍",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚲",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🛵",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚨",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚔",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚍",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚘",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚖",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚡",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚠",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚟",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚃",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚋",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚝",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚄",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚅",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚈",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚞",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚂",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚆",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚇",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚊",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚉",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🛸",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚁",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🛩",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "✈️",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🛫",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🛬",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "⛵",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🛥",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚤",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "⛴",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🛳",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚀",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🛰",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "💺",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🛶",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "⚓",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚧",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "⛽",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚏",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚦",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚥",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏁",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🚢",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🎡",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🎢",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🎠",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏗",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🌁",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🗼",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏭",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "⛲",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🎑",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "⛰",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏔",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🗻",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🌋",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🗾",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏕",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "⛺",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏞",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🛣",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🛤",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🌅",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🌄",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏜",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏖",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏝",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🌇",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🌆",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏙",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🌃",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🌉",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🌌",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🌠",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🎇",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🎆",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🌈",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏘",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏰",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏯",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏟",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🗽",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏠",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏡",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏚",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏢",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏬",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏣",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏤",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏥",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏦",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏨",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏪",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏫",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏩",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "💒",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🏛",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "⛪",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🕌",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🕍",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "🕋",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "⛩",
+    "category": "travel_and_places"
+  },
+  {
+    "char": "⌚",
+    "category": "objects"
+  },
+  {
+    "char": "📱",
+    "category": "objects"
+  },
+  {
+    "char": "📲",
+    "category": "objects"
+  },
+  {
+    "char": "💻",
+    "category": "objects"
+  },
+  {
+    "char": "⌨",
+    "category": "objects"
+  },
+  {
+    "char": "🖥",
+    "category": "objects"
+  },
+  {
+    "char": "🖨",
+    "category": "objects"
+  },
+  {
+    "char": "🖱",
+    "category": "objects"
+  },
+  {
+    "char": "🖲",
+    "category": "objects"
+  },
+  {
+    "char": "🕹",
+    "category": "objects"
+  },
+  {
+    "char": "🗜",
+    "category": "objects"
+  },
+  {
+    "char": "💽",
+    "category": "objects"
+  },
+  {
+    "char": "💾",
+    "category": "objects"
+  },
+  {
+    "char": "💿",
+    "category": "objects"
+  },
+  {
+    "char": "📀",
+    "category": "objects"
+  },
+  {
+    "char": "📼",
+    "category": "objects"
+  },
+  {
+    "char": "📷",
+    "category": "objects"
+  },
+  {
+    "char": "📸",
+    "category": "objects"
+  },
+  {
+    "char": "📹",
+    "category": "objects"
+  },
+  {
+    "char": "🎥",
+    "category": "objects"
+  },
+  {
+    "char": "📽",
+    "category": "objects"
+  },
+  {
+    "char": "🎞",
+    "category": "objects"
+  },
+  {
+    "char": "📞",
+    "category": "objects"
+  },
+  {
+    "char": "☎️",
+    "category": "objects"
+  },
+  {
+    "char": "📟",
+    "category": "objects"
+  },
+  {
+    "char": "📠",
+    "category": "objects"
+  },
+  {
+    "char": "📺",
+    "category": "objects"
+  },
+  {
+    "char": "📻",
+    "category": "objects"
+  },
+  {
+    "char": "🎙",
+    "category": "objects"
+  },
+  {
+    "char": "🎚",
+    "category": "objects"
+  },
+  {
+    "char": "🎛",
+    "category": "objects"
+  },
+  {
+    "char": "🧭",
+    "category": "objects"
+  },
+  {
+    "char": "⏱",
+    "category": "objects"
+  },
+  {
+    "char": "⏲",
+    "category": "objects"
+  },
+  {
+    "char": "⏰",
+    "category": "objects"
+  },
+  {
+    "char": "🕰",
+    "category": "objects"
+  },
+  {
+    "char": "⏳",
+    "category": "objects"
+  },
+  {
+    "char": "⌛",
+    "category": "objects"
+  },
+  {
+    "char": "📡",
+    "category": "objects"
+  },
+  {
+    "char": "🔋",
+    "category": "objects"
+  },
+  {
+    "char": "🔌",
+    "category": "objects"
+  },
+  {
+    "char": "💡",
+    "category": "objects"
+  },
+  {
+    "char": "🔦",
+    "category": "objects"
+  },
+  {
+    "char": "🕯",
+    "category": "objects"
+  },
+  {
+    "char": "🧯",
+    "category": "objects"
+  },
+  {
+    "char": "🗑",
+    "category": "objects"
+  },
+  {
+    "char": "🛢",
+    "category": "objects"
+  },
+  {
+    "char": "💸",
+    "category": "objects"
+  },
+  {
+    "char": "💵",
+    "category": "objects"
+  },
+  {
+    "char": "💴",
+    "category": "objects"
+  },
+  {
+    "char": "💶",
+    "category": "objects"
+  },
+  {
+    "char": "💷",
+    "category": "objects"
+  },
+  {
+    "char": "💰",
+    "category": "objects"
+  },
+  {
+    "char": "💳",
+    "category": "objects"
+  },
+  {
+    "char": "💎",
+    "category": "objects"
+  },
+  {
+    "char": "⚖",
+    "category": "objects"
+  },
+  {
+    "char": "🧰",
+    "category": "objects"
+  },
+  {
+    "char": "🔧",
+    "category": "objects"
+  },
+  {
+    "char": "🔨",
+    "category": "objects"
+  },
+  {
+    "char": "⚒",
+    "category": "objects"
+  },
+  {
+    "char": "🛠",
+    "category": "objects"
+  },
+  {
+    "char": "⛏",
+    "category": "objects"
+  },
+  {
+    "char": "🔩",
+    "category": "objects"
+  },
+  {
+    "char": "⚙",
+    "category": "objects"
+  },
+  {
+    "char": "🧱",
+    "category": "objects"
+  },
+  {
+    "char": "⛓",
+    "category": "objects"
+  },
+  {
+    "char": "🧲",
+    "category": "objects"
+  },
+  {
+    "char": "🔫",
+    "category": "objects"
+  },
+  {
+    "char": "💣",
+    "category": "objects"
+  },
+  {
+    "char": "🧨",
+    "category": "objects"
+  },
+  {
+    "char": "🔪",
+    "category": "objects"
+  },
+  {
+    "char": "🗡",
+    "category": "objects"
+  },
+  {
+    "char": "⚔",
+    "category": "objects"
+  },
+  {
+    "char": "🛡",
+    "category": "objects"
+  },
+  {
+    "char": "🚬",
+    "category": "objects"
+  },
+  {
+    "char": "☠",
+    "category": "objects"
+  },
+  {
+    "char": "⚰",
+    "category": "objects"
+  },
+  {
+    "char": "⚱",
+    "category": "objects"
+  },
+  {
+    "char": "🏺",
+    "category": "objects"
+  },
+  {
+    "char": "🔮",
+    "category": "objects"
+  },
+  {
+    "char": "📿",
+    "category": "objects"
+  },
+  {
+    "char": "🧿",
+    "category": "objects"
+  },
+  {
+    "char": "💈",
+    "category": "objects"
+  },
+  {
+    "char": "⚗",
+    "category": "objects"
+  },
+  {
+    "char": "🔭",
+    "category": "objects"
+  },
+  {
+    "char": "🔬",
+    "category": "objects"
+  },
+  {
+    "char": "🕳",
+    "category": "objects"
+  },
+  {
+    "char": "💊",
+    "category": "objects"
+  },
+  {
+    "char": "💉",
+    "category": "objects"
+  },
+  {
+    "char": "🧬",
+    "category": "objects"
+  },
+  {
+    "char": "🦠",
+    "category": "objects"
+  },
+  {
+    "char": "🧫",
+    "category": "objects"
+  },
+  {
+    "char": "🧪",
+    "category": "objects"
+  },
+  {
+    "char": "🌡",
+    "category": "objects"
+  },
+  {
+    "char": "🧹",
+    "category": "objects"
+  },
+  {
+    "char": "🧺",
+    "category": "objects"
+  },
+  {
+    "char": "🧻",
+    "category": "objects"
+  },
+  {
+    "char": "🏷",
+    "category": "objects"
+  },
+  {
+    "char": "🔖",
+    "category": "objects"
+  },
+  {
+    "char": "🚽",
+    "category": "objects"
+  },
+  {
+    "char": "🚿",
+    "category": "objects"
+  },
+  {
+    "char": "🛁",
+    "category": "objects"
+  },
+  {
+    "char": "🧼",
+    "category": "objects"
+  },
+  {
+    "char": "🧽",
+    "category": "objects"
+  },
+  {
+    "char": "🧴",
+    "category": "objects"
+  },
+  {
+    "char": "🔑",
+    "category": "objects"
+  },
+  {
+    "char": "🗝",
+    "category": "objects"
+  },
+  {
+    "char": "🛋",
+    "category": "objects"
+  },
+  {
+    "char": "🛌🏻",
+    "category": "objects"
+  },
+  {
+    "char": "🛌🏼",
+    "category": "objects"
+  },
+  {
+    "char": "🛌🏽",
+    "category": "objects"
+  },
+  {
+    "char": "🛌🏾",
+    "category": "objects"
+  },
+  {
+    "char": "🛌🏿",
+    "category": "objects"
+  },
+  {
+    "char": "🛏",
+    "category": "objects"
+  },
+  {
+    "char": "🚪",
+    "category": "objects"
+  },
+  {
+    "char": "🛎",
+    "category": "objects"
+  },
+  {
+    "char": "🧸",
+    "category": "objects"
+  },
+  {
+    "char": "🖼",
+    "category": "objects"
+  },
+  {
+    "char": "🗺",
+    "category": "objects"
+  },
+  {
+    "char": "⛱",
+    "category": "objects"
+  },
+  {
+    "char": "🗿",
+    "category": "objects"
+  },
+  {
+    "char": "🛍",
+    "category": "objects"
+  },
+  {
+    "char": "🛒",
+    "category": "objects"
+  },
+  {
+    "char": "🎈",
+    "category": "objects"
+  },
+  {
+    "char": "🎏",
+    "category": "objects"
+  },
+  {
+    "char": "🎀",
+    "category": "objects"
+  },
+  {
+    "char": "🎁",
+    "category": "objects"
+  },
+  {
+    "char": "🎊",
+    "category": "objects"
+  },
+  {
+    "char": "🎉",
+    "category": "objects"
+  },
+  {
+    "char": "🎎",
+    "category": "objects"
+  },
+  {
+    "char": "🎐",
+    "category": "objects"
+  },
+  {
+    "char": "🎌",
+    "category": "objects"
+  },
+  {
+    "char": "🏮",
+    "category": "objects"
+  },
+  {
+    "char": "🧧",
+    "category": "objects"
+  },
+  {
+    "char": "✉️",
+    "category": "objects"
+  },
+  {
+    "char": "📩",
+    "category": "objects"
+  },
+  {
+    "char": "📨",
+    "category": "objects"
+  },
+  {
+    "char": "📧",
+    "category": "objects"
+  },
+  {
+    "char": "💌",
+    "category": "objects"
+  },
+  {
+    "char": "📮",
+    "category": "objects"
+  },
+  {
+    "char": "📪",
+    "category": "objects"
+  },
+  {
+    "char": "📫",
+    "category": "objects"
+  },
+  {
+    "char": "📬",
+    "category": "objects"
+  },
+  {
+    "char": "📭",
+    "category": "objects"
+  },
+  {
+    "char": "📦",
+    "category": "objects"
+  },
+  {
+    "char": "📯",
+    "category": "objects"
+  },
+  {
+    "char": "📥",
+    "category": "objects"
+  },
+  {
+    "char": "📤",
+    "category": "objects"
+  },
+  {
+    "char": "📜",
+    "category": "objects"
+  },
+  {
+    "char": "📃",
+    "category": "objects"
+  },
+  {
+    "char": "📑",
+    "category": "objects"
+  },
+  {
+    "char": "🧾",
+    "category": "objects"
+  },
+  {
+    "char": "📊",
+    "category": "objects"
+  },
+  {
+    "char": "📈",
+    "category": "objects"
+  },
+  {
+    "char": "📉",
+    "category": "objects"
+  },
+  {
+    "char": "📄",
+    "category": "objects"
+  },
+  {
+    "char": "📅",
+    "category": "objects"
+  },
+  {
+    "char": "📆",
+    "category": "objects"
+  },
+  {
+    "char": "🗓",
+    "category": "objects"
+  },
+  {
+    "char": "📇",
+    "category": "objects"
+  },
+  {
+    "char": "🗃",
+    "category": "objects"
+  },
+  {
+    "char": "🗳",
+    "category": "objects"
+  },
+  {
+    "char": "🗄",
+    "category": "objects"
+  },
+  {
+    "char": "📋",
+    "category": "objects"
+  },
+  {
+    "char": "🗒",
+    "category": "objects"
+  },
+  {
+    "char": "📁",
+    "category": "objects"
+  },
+  {
+    "char": "📂",
+    "category": "objects"
+  },
+  {
+    "char": "🗂",
+    "category": "objects"
+  },
+  {
+    "char": "🗞",
+    "category": "objects"
+  },
+  {
+    "char": "📰",
+    "category": "objects"
+  },
+  {
+    "char": "📓",
+    "category": "objects"
+  },
+  {
+    "char": "📕",
+    "category": "objects"
+  },
+  {
+    "char": "📗",
+    "category": "objects"
+  },
+  {
+    "char": "📘",
+    "category": "objects"
+  },
+  {
+    "char": "📙",
+    "category": "objects"
+  },
+  {
+    "char": "📔",
+    "category": "objects"
+  },
+  {
+    "char": "📒",
+    "category": "objects"
+  },
+  {
+    "char": "📚",
+    "category": "objects"
+  },
+  {
+    "char": "📖",
+    "category": "objects"
+  },
+  {
+    "char": "🧷",
+    "category": "objects"
+  },
+  {
+    "char": "🔗",
+    "category": "objects"
+  },
+  {
+    "char": "📎",
+    "category": "objects"
+  },
+  {
+    "char": "🖇",
+    "category": "objects"
+  },
+  {
+    "char": "✂️",
+    "category": "objects"
+  },
+  {
+    "char": "📐",
+    "category": "objects"
+  },
+  {
+    "char": "📏",
+    "category": "objects"
+  },
+  {
+    "char": "🧮",
+    "category": "objects"
+  },
+  {
+    "char": "📌",
+    "category": "objects"
+  },
+  {
+    "char": "📍",
+    "category": "objects"
+  },
+  {
+    "char": "🚩",
+    "category": "objects"
+  },
+  {
+    "char": "🏳",
+    "category": "objects"
+  },
+  {
+    "char": "🏴",
+    "category": "objects"
+  },
+  {
+    "char": "🏳️‍🌈",
+    "category": "objects"
+  },
+  {
+    "char": "🔐",
+    "category": "objects"
+  },
+  {
+    "char": "🔒",
+    "category": "objects"
+  },
+  {
+    "char": "🔓",
+    "category": "objects"
+  },
+  {
+    "char": "🔏",
+    "category": "objects"
+  },
+  {
+    "char": "🖊",
+    "category": "objects"
+  },
+  {
+    "char": "🖋",
+    "category": "objects"
+  },
+  {
+    "char": "✒️",
+    "category": "objects"
+  },
+  {
+    "char": "📝",
+    "category": "objects"
+  },
+  {
+    "char": "✏️",
+    "category": "objects"
+  },
+  {
+    "char": "🖍",
+    "category": "objects"
+  },
+  {
+    "char": "🖌",
+    "category": "objects"
+  },
+  {
+    "char": "🔍",
+    "category": "objects"
+  },
+  {
+    "char": "🔎",
+    "category": "objects"
+  },
+  {
+    "char": "❤️",
+    "category": "symbols"
+  },
+  {
+    "char": "🧡",
+    "category": "symbols"
+  },
+  {
+    "char": "💛",
+    "category": "symbols"
+  },
+  {
+    "char": "💚",
+    "category": "symbols"
+  },
+  {
+    "char": "💙",
+    "category": "symbols"
+  },
+  {
+    "char": "💜",
+    "category": "symbols"
+  },
+  {
+    "char": "🖤",
+    "category": "symbols"
+  },
+  {
+    "char": "💔",
+    "category": "symbols"
+  },
+  {
+    "char": "❣",
+    "category": "symbols"
+  },
+  {
+    "char": "💕",
+    "category": "symbols"
+  },
+  {
+    "char": "💞",
+    "category": "symbols"
+  },
+  {
+    "char": "💓",
+    "category": "symbols"
+  },
+  {
+    "char": "💗",
+    "category": "symbols"
+  },
+  {
+    "char": "💖",
+    "category": "symbols"
+  },
+  {
+    "char": "💘",
+    "category": "symbols"
+  },
+  {
+    "char": "💝",
+    "category": "symbols"
+  },
+  {
+    "char": "💟",
+    "category": "symbols"
+  },
+  {
+    "char": "☮",
+    "category": "symbols"
+  },
+  {
+    "char": "✝",
+    "category": "symbols"
+  },
+  {
+    "char": "☪",
+    "category": "symbols"
+  },
+  {
+    "char": "🕉",
+    "category": "symbols"
+  },
+  {
+    "char": "☸",
+    "category": "symbols"
+  },
+  {
+    "char": "✡",
+    "category": "symbols"
+  },
+  {
+    "char": "🔯",
+    "category": "symbols"
+  },
+  {
+    "char": "🕎",
+    "category": "symbols"
+  },
+  {
+    "char": "☯",
+    "category": "symbols"
+  },
+  {
+    "char": "☦",
+    "category": "symbols"
+  },
+  {
+    "char": "🛐",
+    "category": "symbols"
+  },
+  {
+    "char": "⛎",
+    "category": "symbols"
+  },
+  {
+    "char": "♈",
+    "category": "symbols"
+  },
+  {
+    "char": "♉",
+    "category": "symbols"
+  },
+  {
+    "char": "♊",
+    "category": "symbols"
+  },
+  {
+    "char": "♋",
+    "category": "symbols"
+  },
+  {
+    "char": "♌",
+    "category": "symbols"
+  },
+  {
+    "char": "♍",
+    "category": "symbols"
+  },
+  {
+    "char": "♎",
+    "category": "symbols"
+  },
+  {
+    "char": "♏",
+    "category": "symbols"
+  },
+  {
+    "char": "♐",
+    "category": "symbols"
+  },
+  {
+    "char": "♑",
+    "category": "symbols"
+  },
+  {
+    "char": "♒",
+    "category": "symbols"
+  },
+  {
+    "char": "♓",
+    "category": "symbols"
+  },
+  {
+    "char": "🆔",
+    "category": "symbols"
+  },
+  {
+    "char": "⚛",
+    "category": "symbols"
+  },
+  {
+    "char": "🈳",
+    "category": "symbols"
+  },
+  {
+    "char": "🈹",
+    "category": "symbols"
+  },
+  {
+    "char": "☢",
+    "category": "symbols"
+  },
+  {
+    "char": "☣",
+    "category": "symbols"
+  },
+  {
+    "char": "📴",
+    "category": "symbols"
+  },
+  {
+    "char": "📳",
+    "category": "symbols"
+  },
+  {
+    "char": "🈶",
+    "category": "symbols"
+  },
+  {
+    "char": "🈚",
+    "category": "symbols"
+  },
+  {
+    "char": "🈸",
+    "category": "symbols"
+  },
+  {
+    "char": "🈺",
+    "category": "symbols"
+  },
+  {
+    "char": "🈷️",
+    "category": "symbols"
+  },
+  {
+    "char": "✴️",
+    "category": "symbols"
+  },
+  {
+    "char": "🆚",
+    "category": "symbols"
+  },
+  {
+    "char": "🉑",
+    "category": "symbols"
+  },
+  {
+    "char": "💮",
+    "category": "symbols"
+  },
+  {
+    "char": "🉐",
+    "category": "symbols"
+  },
+  {
+    "char": "㊙️",
+    "category": "symbols"
+  },
+  {
+    "char": "㊗️",
+    "category": "symbols"
+  },
+  {
+    "char": "🈴",
+    "category": "symbols"
+  },
+  {
+    "char": "🈵",
+    "category": "symbols"
+  },
+  {
+    "char": "🈲",
+    "category": "symbols"
+  },
+  {
+    "char": "🅰️",
+    "category": "symbols"
+  },
+  {
+    "char": "🅱️",
+    "category": "symbols"
+  },
+  {
+    "char": "🆎",
+    "category": "symbols"
+  },
+  {
+    "char": "🆑",
+    "category": "symbols"
+  },
+  {
+    "char": "🅾️",
+    "category": "symbols"
+  },
+  {
+    "char": "🆘",
+    "category": "symbols"
+  },
+  {
+    "char": "⛔",
+    "category": "symbols"
+  },
+  {
+    "char": "📛",
+    "category": "symbols"
+  },
+  {
+    "char": "🚫",
+    "category": "symbols"
+  },
+  {
+    "char": "❌",
+    "category": "symbols"
+  },
+  {
+    "char": "⭕",
+    "category": "symbols"
+  },
+  {
+    "char": "🛑",
+    "category": "symbols"
+  },
+  {
+    "char": "💢",
+    "category": "symbols"
+  },
+  {
+    "char": "♨️",
+    "category": "symbols"
+  },
+  {
+    "char": "🚷",
+    "category": "symbols"
+  },
+  {
+    "char": "🚯",
+    "category": "symbols"
+  },
+  {
+    "char": "🚳",
+    "category": "symbols"
+  },
+  {
+    "char": "🚱",
+    "category": "symbols"
+  },
+  {
+    "char": "🔞",
+    "category": "symbols"
+  },
+  {
+    "char": "📵",
+    "category": "symbols"
+  },
+  {
+    "char": "❗",
+    "category": "symbols"
+  },
+  {
+    "char": "❕",
+    "category": "symbols"
+  },
+  {
+    "char": "❓",
+    "category": "symbols"
+  },
+  {
+    "char": "❔",
+    "category": "symbols"
+  },
+  {
+    "char": "‼️",
+    "category": "symbols"
+  },
+  {
+    "char": "⁉️",
+    "category": "symbols"
+  },
+  {
+    "char": "🔅",
+    "category": "symbols"
+  },
+  {
+    "char": "🔆",
+    "category": "symbols"
+  },
+  {
+    "char": "🔱",
+    "category": "symbols"
+  },
+  {
+    "char": "⚜",
+    "category": "symbols"
+  },
+  {
+    "char": "〽️",
+    "category": "symbols"
+  },
+  {
+    "char": "⚠️",
+    "category": "symbols"
+  },
+  {
+    "char": "🚸",
+    "category": "symbols"
+  },
+  {
+    "char": "🔰",
+    "category": "symbols"
+  },
+  {
+    "char": "♻️",
+    "category": "symbols"
+  },
+  {
+    "char": "🈯",
+    "category": "symbols"
+  },
+  {
+    "char": "💹",
+    "category": "symbols"
+  },
+  {
+    "char": "❇️",
+    "category": "symbols"
+  },
+  {
+    "char": "✳️",
+    "category": "symbols"
+  },
+  {
+    "char": "❎",
+    "category": "symbols"
+  },
+  {
+    "char": "✅",
+    "category": "symbols"
+  },
+  {
+    "char": "💠",
+    "category": "symbols"
+  },
+  {
+    "char": "🌀",
+    "category": "symbols"
+  },
+  {
+    "char": "➿",
+    "category": "symbols"
+  },
+  {
+    "char": "🌐",
+    "category": "symbols"
+  },
+  {
+    "char": "Ⓜ️",
+    "category": "symbols"
+  },
+  {
+    "char": "🏧",
+    "category": "symbols"
+  },
+  {
+    "char": "🈂️",
+    "category": "symbols"
+  },
+  {
+    "char": "🛂",
+    "category": "symbols"
+  },
+  {
+    "char": "🛃",
+    "category": "symbols"
+  },
+  {
+    "char": "🛄",
+    "category": "symbols"
+  },
+  {
+    "char": "🛅",
+    "category": "symbols"
+  },
+  {
+    "char": "♿",
+    "category": "symbols"
+  },
+  {
+    "char": "🚭",
+    "category": "symbols"
+  },
+  {
+    "char": "🚾",
+    "category": "symbols"
+  },
+  {
+    "char": "🅿️",
+    "category": "symbols"
+  },
+  {
+    "char": "🚰",
+    "category": "symbols"
+  },
+  {
+    "char": "🚹",
+    "category": "symbols"
+  },
+  {
+    "char": "🚺",
+    "category": "symbols"
+  },
+  {
+    "char": "🚼",
+    "category": "symbols"
+  },
+  {
+    "char": "🚻",
+    "category": "symbols"
+  },
+  {
+    "char": "🚮",
+    "category": "symbols"
+  },
+  {
+    "char": "🎦",
+    "category": "symbols"
+  },
+  {
+    "char": "📶",
+    "category": "symbols"
+  },
+  {
+    "char": "🈁",
+    "category": "symbols"
+  },
+  {
+    "char": "🆖",
+    "category": "symbols"
+  },
+  {
+    "char": "🆗",
+    "category": "symbols"
+  },
+  {
+    "char": "🆙",
+    "category": "symbols"
+  },
+  {
+    "char": "🆒",
+    "category": "symbols"
+  },
+  {
+    "char": "🆕",
+    "category": "symbols"
+  },
+  {
+    "char": "🆓",
+    "category": "symbols"
+  },
+  {
+    "char": "0️⃣",
+    "category": "symbols"
+  },
+  {
+    "char": "1️⃣",
+    "category": "symbols"
+  },
+  {
+    "char": "2️⃣",
+    "category": "symbols"
+  },
+  {
+    "char": "3️⃣",
+    "category": "symbols"
+  },
+  {
+    "char": "4️⃣",
+    "category": "symbols"
+  },
+  {
+    "char": "5️⃣",
+    "category": "symbols"
+  },
+  {
+    "char": "6️⃣",
+    "category": "symbols"
+  },
+  {
+    "char": "7️⃣",
+    "category": "symbols"
+  },
+  {
+    "char": "8️⃣",
+    "category": "symbols"
+  },
+  {
+    "char": "9️⃣",
+    "category": "symbols"
+  },
+  {
+    "char": "🔟",
+    "category": "symbols"
+  },
+  {
+    "char": "*⃣",
+    "category": "symbols"
+  },
+  {
+    "char": "⏏️",
+    "category": "symbols"
+  },
+  {
+    "char": "▶️",
+    "category": "symbols"
+  },
+  {
+    "char": "⏸",
+    "category": "symbols"
+  },
+  {
+    "char": "⏭",
+    "category": "symbols"
+  },
+  {
+    "char": "⏹",
+    "category": "symbols"
+  },
+  {
+    "char": "⏺",
+    "category": "symbols"
+  },
+  {
+    "char": "⏯",
+    "category": "symbols"
+  },
+  {
+    "char": "⏮",
+    "category": "symbols"
+  },
+  {
+    "char": "⏩",
+    "category": "symbols"
+  },
+  {
+    "char": "⏪",
+    "category": "symbols"
+  },
+  {
+    "char": "🔀",
+    "category": "symbols"
+  },
+  {
+    "char": "🔁",
+    "category": "symbols"
+  },
+  {
+    "char": "🔂",
+    "category": "symbols"
+  },
+  {
+    "char": "◀️",
+    "category": "symbols"
+  },
+  {
+    "char": "🔼",
+    "category": "symbols"
+  },
+  {
+    "char": "🔽",
+    "category": "symbols"
+  },
+  {
+    "char": "⏫",
+    "category": "symbols"
+  },
+  {
+    "char": "⏬",
+    "category": "symbols"
+  },
+  {
+    "char": "➡️",
+    "category": "symbols"
+  },
+  {
+    "char": "⬅️",
+    "category": "symbols"
+  },
+  {
+    "char": "⬆️",
+    "category": "symbols"
+  },
+  {
+    "char": "⬇️",
+    "category": "symbols"
+  },
+  {
+    "char": "↗️",
+    "category": "symbols"
+  },
+  {
+    "char": "↘️",
+    "category": "symbols"
+  },
+  {
+    "char": "↙️",
+    "category": "symbols"
+  },
+  {
+    "char": "↖️",
+    "category": "symbols"
+  },
+  {
+    "char": "↕️",
+    "category": "symbols"
+  },
+  {
+    "char": "↔️",
+    "category": "symbols"
+  },
+  {
+    "char": "🔄",
+    "category": "symbols"
+  },
+  {
+    "char": "↪️",
+    "category": "symbols"
+  },
+  {
+    "char": "↩️",
+    "category": "symbols"
+  },
+  {
+    "char": "⤴️",
+    "category": "symbols"
+  },
+  {
+    "char": "⤵️",
+    "category": "symbols"
+  },
+  {
+    "char": "#️⃣",
+    "category": "symbols"
+  },
+  {
+    "char": "ℹ️",
+    "category": "symbols"
+  },
+  {
+    "char": "🔤",
+    "category": "symbols"
+  },
+  {
+    "char": "🔡",
+    "category": "symbols"
+  },
+  {
+    "char": "🔠",
+    "category": "symbols"
+  },
+  {
+    "char": "🔣",
+    "category": "symbols"
+  },
+  {
+    "char": "🎵",
+    "category": "symbols"
+  },
+  {
+    "char": "🎶",
+    "category": "symbols"
+  },
+  {
+    "char": "〰️",
+    "category": "symbols"
+  },
+  {
+    "char": "➰",
+    "category": "symbols"
+  },
+  {
+    "char": "✔️",
+    "category": "symbols"
+  },
+  {
+    "char": "🔃",
+    "category": "symbols"
+  },
+  {
+    "char": "➕",
+    "category": "symbols"
+  },
+  {
+    "char": "➖",
+    "category": "symbols"
+  },
+  {
+    "char": "➗",
+    "category": "symbols"
+  },
+  {
+    "char": "✖️",
+    "category": "symbols"
+  },
+  {
+    "char": "♾",
+    "category": "symbols"
+  },
+  {
+    "char": "💲",
+    "category": "symbols"
+  },
+  {
+    "char": "💱",
+    "category": "symbols"
+  },
+  {
+    "char": "©️",
+    "category": "symbols"
+  },
+  {
+    "char": "®️",
+    "category": "symbols"
+  },
+  {
+    "char": "™️",
+    "category": "symbols"
+  },
+  {
+    "char": "🔚",
+    "category": "symbols"
+  },
+  {
+    "char": "🔙",
+    "category": "symbols"
+  },
+  {
+    "char": "🔛",
+    "category": "symbols"
+  },
+  {
+    "char": "🔝",
+    "category": "symbols"
+  },
+  {
+    "char": "🔜",
+    "category": "symbols"
+  },
+  {
+    "char": "☑️",
+    "category": "symbols"
+  },
+  {
+    "char": "🔘",
+    "category": "symbols"
+  },
+  {
+    "char": "⚪",
+    "category": "symbols"
+  },
+  {
+    "char": "⚫",
+    "category": "symbols"
+  },
+  {
+    "char": "🔴",
+    "category": "symbols"
+  },
+  {
+    "char": "🔵",
+    "category": "symbols"
+  },
+  {
+    "char": "🔸",
+    "category": "symbols"
+  },
+  {
+    "char": "🔹",
+    "category": "symbols"
+  },
+  {
+    "char": "🔶",
+    "category": "symbols"
+  },
+  {
+    "char": "🔷",
+    "category": "symbols"
+  },
+  {
+    "char": "🔺",
+    "category": "symbols"
+  },
+  {
+    "char": "▪️",
+    "category": "symbols"
+  },
+  {
+    "char": "▫️",
+    "category": "symbols"
+  },
+  {
+    "char": "⬛",
+    "category": "symbols"
+  },
+  {
+    "char": "⬜",
+    "category": "symbols"
+  },
+  {
+    "char": "🔻",
+    "category": "symbols"
+  },
+  {
+    "char": "◼️",
+    "category": "symbols"
+  },
+  {
+    "char": "◻️",
+    "category": "symbols"
+  },
+  {
+    "char": "◾",
+    "category": "symbols"
+  },
+  {
+    "char": "◽",
+    "category": "symbols"
+  },
+  {
+    "char": "🔲",
+    "category": "symbols"
+  },
+  {
+    "char": "🔳",
+    "category": "symbols"
+  },
+  {
+    "char": "🔈",
+    "category": "symbols"
+  },
+  {
+    "char": "🔉",
+    "category": "symbols"
+  },
+  {
+    "char": "🔊",
+    "category": "symbols"
+  },
+  {
+    "char": "🔇",
+    "category": "symbols"
+  },
+  {
+    "char": "📣",
+    "category": "symbols"
+  },
+  {
+    "char": "📢",
+    "category": "symbols"
+  },
+  {
+    "char": "🔔",
+    "category": "symbols"
+  },
+  {
+    "char": "🔕",
+    "category": "symbols"
+  },
+  {
+    "char": "🃏",
+    "category": "symbols"
+  },
+  {
+    "char": "🀄",
+    "category": "symbols"
+  },
+  {
+    "char": "♠️",
+    "category": "symbols"
+  },
+  {
+    "char": "♣️",
+    "category": "symbols"
+  },
+  {
+    "char": "♥️",
+    "category": "symbols"
+  },
+  {
+    "char": "♦️",
+    "category": "symbols"
+  },
+  {
+    "char": "🎴",
+    "category": "symbols"
+  },
+  {
+    "char": "💭",
+    "category": "symbols"
+  },
+  {
+    "char": "🗯",
+    "category": "symbols"
+  },
+  {
+    "char": "💬",
+    "category": "symbols"
+  },
+  {
+    "char": "🗨",
+    "category": "symbols"
+  },
+  {
+    "char": "🕐",
+    "category": "symbols"
+  },
+  {
+    "char": "🕑",
+    "category": "symbols"
+  },
+  {
+    "char": "🕒",
+    "category": "symbols"
+  },
+  {
+    "char": "🕓",
+    "category": "symbols"
+  },
+  {
+    "char": "🕔",
+    "category": "symbols"
+  },
+  {
+    "char": "🕕",
+    "category": "symbols"
+  },
+  {
+    "char": "🕖",
+    "category": "symbols"
+  },
+  {
+    "char": "🕗",
+    "category": "symbols"
+  },
+  {
+    "char": "🕘",
+    "category": "symbols"
+  },
+  {
+    "char": "🕙",
+    "category": "symbols"
+  },
+  {
+    "char": "🕚",
+    "category": "symbols"
+  },
+  {
+    "char": "🕛",
+    "category": "symbols"
+  },
+  {
+    "char": "🕜",
+    "category": "symbols"
+  },
+  {
+    "char": "🕝",
+    "category": "symbols"
+  },
+  {
+    "char": "🕞",
+    "category": "symbols"
+  },
+  {
+    "char": "🕟",
+    "category": "symbols"
+  },
+  {
+    "char": "🕠",
+    "category": "symbols"
+  },
+  {
+    "char": "🕡",
+    "category": "symbols"
+  },
+  {
+    "char": "🕢",
+    "category": "symbols"
+  },
+  {
+    "char": "🕣",
+    "category": "symbols"
+  },
+  {
+    "char": "🕤",
+    "category": "symbols"
+  },
+  {
+    "char": "🕥",
+    "category": "symbols"
+  },
+  {
+    "char": "🕦",
+    "category": "symbols"
+  },
+  {
+    "char": "🕧",
+    "category": "symbols"
+  },
+  {
+    "char": "🇦🇫",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇽",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇱",
+    "category": "flags"
+  },
+  {
+    "char": "🇩🇿",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇸",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇩",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇴",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇮",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇶",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇬",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇼",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇺",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇹",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇿",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇸",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇭",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇩",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇧",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇾",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇿",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇯",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇹",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇴",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇶",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇦",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇼",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇮🇴",
+    "category": "flags"
+  },
+  {
+    "char": "🇻🇬",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇳",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇬",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇫",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇮",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇻",
+    "category": "flags"
+  },
+  {
+    "char": "🇰🇭",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇦",
+    "category": "flags"
+  },
+  {
+    "char": "🇮🇨",
+    "category": "flags"
+  },
+  {
+    "char": "🇰🇾",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇫",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇩",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇱",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇳",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇽",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇨",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇴",
+    "category": "flags"
+  },
+  {
+    "char": "🇰🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇬",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇩",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇰",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇭🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇺",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇼",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇾",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇿",
+    "category": "flags"
+  },
+  {
+    "char": "🇩🇰",
+    "category": "flags"
+  },
+  {
+    "char": "🇩🇯",
+    "category": "flags"
+  },
+  {
+    "char": "🇩🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇩🇴",
+    "category": "flags"
+  },
+  {
+    "char": "🇪🇨",
+    "category": "flags"
+  },
+  {
+    "char": "🇪🇬",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇻",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇶",
+    "category": "flags"
+  },
+  {
+    "char": "🇪🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇪🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇪🇹",
+    "category": "flags"
+  },
+  {
+    "char": "🇪🇺",
+    "category": "flags"
+  },
+  {
+    "char": "🇫🇰",
+    "category": "flags"
+  },
+  {
+    "char": "🇫🇴",
+    "category": "flags"
+  },
+  {
+    "char": "🇫🇯",
+    "category": "flags"
+  },
+  {
+    "char": "🇫🇮",
+    "category": "flags"
+  },
+  {
+    "char": "🇫🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇫",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇫",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇫",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇦",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇩🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇭",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇮",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇱",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇩",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇵",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇺",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇹",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇬",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇳",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇼",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇾",
+    "category": "flags"
+  },
+  {
+    "char": "🇭🇹",
+    "category": "flags"
+  },
+  {
+    "char": "🇭🇳",
+    "category": "flags"
+  },
+  {
+    "char": "🇭🇰",
+    "category": "flags"
+  },
+  {
+    "char": "🇭🇺",
+    "category": "flags"
+  },
+  {
+    "char": "🇮🇸",
+    "category": "flags"
+  },
+  {
+    "char": "🇮🇳",
+    "category": "flags"
+  },
+  {
+    "char": "🇮🇩",
+    "category": "flags"
+  },
+  {
+    "char": "🇮🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇮🇶",
+    "category": "flags"
+  },
+  {
+    "char": "🇮🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇮🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇮🇱",
+    "category": "flags"
+  },
+  {
+    "char": "🇮🇹",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇮",
+    "category": "flags"
+  },
+  {
+    "char": "🇯🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇯🇵",
+    "category": "flags"
+  },
+  {
+    "char": "🇯🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇯🇴",
+    "category": "flags"
+  },
+  {
+    "char": "🇰🇿",
+    "category": "flags"
+  },
+  {
+    "char": "🇰🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇰🇮",
+    "category": "flags"
+  },
+  {
+    "char": "🇽🇰",
+    "category": "flags"
+  },
+  {
+    "char": "🇰🇼",
+    "category": "flags"
+  },
+  {
+    "char": "🇰🇬",
+    "category": "flags"
+  },
+  {
+    "char": "🇱🇦",
+    "category": "flags"
+  },
+  {
+    "char": "🇱🇻",
+    "category": "flags"
+  },
+  {
+    "char": "🇱🇧",
+    "category": "flags"
+  },
+  {
+    "char": "🇱🇸",
+    "category": "flags"
+  },
+  {
+    "char": "🇱🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇱🇾",
+    "category": "flags"
+  },
+  {
+    "char": "🇱🇮",
+    "category": "flags"
+  },
+  {
+    "char": "🇱🇹",
+    "category": "flags"
+  },
+  {
+    "char": "🇱🇺",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇴",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇰",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇬",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇼",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇾",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇻",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇱",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇹",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇭",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇶",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇺",
+    "category": "flags"
+  },
+  {
+    "char": "🇾🇹",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇽",
+    "category": "flags"
+  },
+  {
+    "char": "🇫🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇩",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇨",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇳",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇸",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇦",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇿",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇳🇦",
+    "category": "flags"
+  },
+  {
+    "char": "🇳🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇳🇵",
+    "category": "flags"
+  },
+  {
+    "char": "🇳🇱",
+    "category": "flags"
+  },
+  {
+    "char": "🇳🇨",
+    "category": "flags"
+  },
+  {
+    "char": "🇳🇿",
+    "category": "flags"
+  },
+  {
+    "char": "🇳🇮",
+    "category": "flags"
+  },
+  {
+    "char": "🇳🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇳🇬",
+    "category": "flags"
+  },
+  {
+    "char": "🇳🇺",
+    "category": "flags"
+  },
+  {
+    "char": "🇳🇫",
+    "category": "flags"
+  },
+  {
+    "char": "🇲🇵",
+    "category": "flags"
+  },
+  {
+    "char": "🇰🇵",
+    "category": "flags"
+  },
+  {
+    "char": "🇳🇴",
+    "category": "flags"
+  },
+  {
+    "char": "🇴🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇰",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇼",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇸",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇦",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇬",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇾",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇭",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇳",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇱",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇹",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇶🇦",
+    "category": "flags"
+  },
+  {
+    "char": "🇷🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇷🇴",
+    "category": "flags"
+  },
+  {
+    "char": "🇷🇺",
+    "category": "flags"
+  },
+  {
+    "char": "🇷🇼",
+    "category": "flags"
+  },
+  {
+    "char": "🇧🇱",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇭",
+    "category": "flags"
+  },
+  {
+    "char": "🇰🇳",
+    "category": "flags"
+  },
+  {
+    "char": "🇱🇨",
+    "category": "flags"
+  },
+  {
+    "char": "🇵🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇻🇨",
+    "category": "flags"
+  },
+  {
+    "char": "🇼🇸",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇹",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇦",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇳",
+    "category": "flags"
+  },
+  {
+    "char": "🇷🇸",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇨",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇱",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇬",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇽",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇰",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇮",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇧",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇴",
+    "category": "flags"
+  },
+  {
+    "char": "🇿🇦",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇸",
+    "category": "flags"
+  },
+  {
+    "char": "🇰🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇸",
+    "category": "flags"
+  },
+  {
+    "char": "🇪🇸",
+    "category": "flags"
+  },
+  {
+    "char": "🇱🇰",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇩",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇿",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇨🇭",
+    "category": "flags"
+  },
+  {
+    "char": "🇸🇾",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇼",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇯",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇿",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇭",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇱",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇬",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇰",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇴",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇹",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇳",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇷",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇨",
+    "category": "flags"
+  },
+  {
+    "char": "🇹🇻",
+    "category": "flags"
+  },
+  {
+    "char": "🇺🇬",
+    "category": "flags"
+  },
+  {
+    "char": "🇺🇦",
+    "category": "flags"
+  },
+  {
+    "char": "🇦🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇬🇧",
+    "category": "flags"
+  },
+  {
+    "char": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "category": "flags"
+  },
+  {
+    "char": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "category": "flags"
+  },
+  {
+    "char": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "category": "flags"
+  },
+  {
+    "char": "🇺🇸",
+    "category": "flags"
+  },
+  {
+    "char": "🇻🇮",
+    "category": "flags"
+  },
+  {
+    "char": "🇺🇾",
+    "category": "flags"
+  },
+  {
+    "char": "🇺🇿",
+    "category": "flags"
+  },
+  {
+    "char": "🇻🇺",
+    "category": "flags"
+  },
+  {
+    "char": "🇻🇦",
+    "category": "flags"
+  },
+  {
+    "char": "🇻🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇻🇳",
+    "category": "flags"
+  },
+  {
+    "char": "🇼🇫",
+    "category": "flags"
+  },
+  {
+    "char": "🇪🇭",
+    "category": "flags"
+  },
+  {
+    "char": "🇾🇪",
+    "category": "flags"
+  },
+  {
+    "char": "🇿🇲",
+    "category": "flags"
+  },
+  {
+    "char": "🇿🇼",
+    "category": "flags"
+  },
+  {
+    "char": "🇺🇳",
+    "category": "flags"
+  },
+  {
+    "char": "🏴‍☠️",
+    "category": "flags"
+  },
+  {
+    "char": "👦🏻",
+    "category": "person"
+  },
+  {
+    "char": "👦🏼",
+    "category": "person"
+  },
+  {
+    "char": "👦🏽",
+    "category": "person"
+  },
+  {
+    "char": "👦🏾",
+    "category": "person"
+  },
+  {
+    "char": "👦🏿",
+    "category": "person"
+  },
+  {
+    "char": "👧🏻",
+    "category": "person"
+  },
+  {
+    "char": "👧🏼",
+    "category": "person"
+  },
+  {
+    "char": "👧🏽",
+    "category": "person"
+  },
+  {
+    "char": "👧🏾",
+    "category": "person"
+  },
+  {
+    "char": "👧🏿",
+    "category": "person"
+  },
+  {
+    "char": "👩🏻",
+    "category": "person"
+  },
+  {
+    "char": "👩🏼",
+    "category": "person"
+  },
+  {
+    "char": "👩🏽",
+    "category": "person"
+  },
+  {
+    "char": "👩🏾",
+    "category": "person"
+  },
+  {
+    "char": "👩🏿",
+    "category": "person"
+  },
+  {
+    "char": "👱‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "👱‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "👱‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "👱‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "👱‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "👱🏻",
+    "category": "person"
+  },
+  {
+    "char": "👱🏼",
+    "category": "person"
+  },
+  {
+    "char": "👱🏽",
+    "category": "person"
+  },
+  {
+    "char": "👱🏾",
+    "category": "person"
+  },
+  {
+    "char": "👱🏿",
+    "category": "person"
+  },
+  {
+    "char": "👴🏻",
+    "category": "person"
+  },
+  {
+    "char": "👴🏼",
+    "category": "person"
+  },
+  {
+    "char": "👴🏽",
+    "category": "person"
+  },
+  {
+    "char": "👴🏾",
+    "category": "person"
+  },
+  {
+    "char": "👴🏿",
+    "category": "person"
+  },
+  {
+    "char": "👵🏻",
+    "category": "person"
+  },
+  {
+    "char": "👵🏼",
+    "category": "person"
+  },
+  {
+    "char": "👵🏽",
+    "category": "person"
+  },
+  {
+    "char": "👵🏾",
+    "category": "person"
+  },
+  {
+    "char": "👵🏿",
+    "category": "person"
+  },
+  {
+    "char": "👲🏻",
+    "category": "person"
+  },
+  {
+    "char": "👲🏼",
+    "category": "person"
+  },
+  {
+    "char": "👲🏽",
+    "category": "person"
+  },
+  {
+    "char": "👲🏾",
+    "category": "person"
+  },
+  {
+    "char": "👲🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧕🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧕🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧕🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧕🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧕🏿",
+    "category": "person"
+  },
+  {
+    "char": "👳‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "👳‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "👳‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "👳‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "👳‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "👳🏻",
+    "category": "person"
+  },
+  {
+    "char": "👳🏼",
+    "category": "person"
+  },
+  {
+    "char": "👳🏽",
+    "category": "person"
+  },
+  {
+    "char": "👳🏾",
+    "category": "person"
+  },
+  {
+    "char": "👳🏿",
+    "category": "person"
+  },
+  {
+    "char": "👮‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "👮‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "👮‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "👮‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "👮‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "👷‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "👷‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "👷‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "👷‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "👷‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "👷🏻",
+    "category": "person"
+  },
+  {
+    "char": "👷🏼",
+    "category": "person"
+  },
+  {
+    "char": "👷🏽",
+    "category": "person"
+  },
+  {
+    "char": "👷🏾",
+    "category": "person"
+  },
+  {
+    "char": "👷🏿",
+    "category": "person"
+  },
+  {
+    "char": "💂‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "💂‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "💂‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "💂‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "💂‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "💂🏻",
+    "category": "person"
+  },
+  {
+    "char": "💂🏼",
+    "category": "person"
+  },
+  {
+    "char": "💂🏽",
+    "category": "person"
+  },
+  {
+    "char": "💂🏾",
+    "category": "person"
+  },
+  {
+    "char": "💂🏿",
+    "category": "person"
+  },
+  {
+    "char": "🕵️‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🕵️‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🕵️‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🕵️‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🕵️‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🦸‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🦸‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🦸‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🦸‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🦸‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🦸‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🦸‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🦸‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🦸‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🦸‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🦹‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🦹‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🦹‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🦹‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🦹‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🦹‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🦹‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🦹‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🦹‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🦹‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🤶🏻",
+    "category": "person"
+  },
+  {
+    "char": "🤶🏼",
+    "category": "person"
+  },
+  {
+    "char": "🤶🏽",
+    "category": "person"
+  },
+  {
+    "char": "🤶🏾",
+    "category": "person"
+  },
+  {
+    "char": "🤶🏿",
+    "category": "person"
+  },
+  {
+    "char": "🎅🏻",
+    "category": "person"
+  },
+  {
+    "char": "🎅🏼",
+    "category": "person"
+  },
+  {
+    "char": "🎅🏽",
+    "category": "person"
+  },
+  {
+    "char": "🎅🏾",
+    "category": "person"
+  },
+  {
+    "char": "🎅🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧙‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧙‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧙‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧙‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧙‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧙‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧙‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧙‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧙‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧙‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧝‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧝‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧝‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧝‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧝‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧝‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧝‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧝‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧝‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧝‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧛‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧛‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧛‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧛‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧛‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧛‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧛‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧛‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧛‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧛‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧟‍♀️",
+    "category": "person"
+  },
+  {
+    "char": "🧟‍♂️",
+    "category": "person"
+  },
+  {
+    "char": "🧞‍♀️",
+    "category": "person"
+  },
+  {
+    "char": "🧞‍♂️",
+    "category": "person"
+  },
+  {
+    "char": "🧜‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧜‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧜‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧜‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧜‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧜‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧜‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧜‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧜‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧜‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧚‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧚‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧚‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧚‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧚‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧚‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧚‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧚‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧚‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧚‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "👸🏻",
+    "category": "person"
+  },
+  {
+    "char": "👸🏼",
+    "category": "person"
+  },
+  {
+    "char": "👸🏽",
+    "category": "person"
+  },
+  {
+    "char": "👸🏾",
+    "category": "person"
+  },
+  {
+    "char": "👸🏿",
+    "category": "person"
+  },
+  {
+    "char": "🤴🏻",
+    "category": "person"
+  },
+  {
+    "char": "🤴🏼",
+    "category": "person"
+  },
+  {
+    "char": "🤴🏽",
+    "category": "person"
+  },
+  {
+    "char": "🤴🏾",
+    "category": "person"
+  },
+  {
+    "char": "🤴🏿",
+    "category": "person"
+  },
+  {
+    "char": "🏃‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🏃‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🏃‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🏃‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🏃‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🚶‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🚶‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🚶‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🚶‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🚶‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "💃🏻",
+    "category": "person"
+  },
+  {
+    "char": "💃🏼",
+    "category": "person"
+  },
+  {
+    "char": "💃🏽",
+    "category": "person"
+  },
+  {
+    "char": "💃🏾",
+    "category": "person"
+  },
+  {
+    "char": "💃🏿",
+    "category": "person"
+  },
+  {
+    "char": "🕺🏻",
+    "category": "person"
+  },
+  {
+    "char": "🕺🏼",
+    "category": "person"
+  },
+  {
+    "char": "🕺🏽",
+    "category": "person"
+  },
+  {
+    "char": "🕺🏾",
+    "category": "person"
+  },
+  {
+    "char": "🕺🏿",
+    "category": "person"
+  },
+  {
+    "char": "👯",
+    "category": "person"
+  },
+  {
+    "char": "👯‍♂️",
+    "category": "person"
+  },
+  {
+    "char": "👭",
+    "category": "person"
+  },
+  {
+    "char": "🙇‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🙇‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🙇‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🙇‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🙇‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🙇🏻",
+    "category": "person"
+  },
+  {
+    "char": "🙇🏼",
+    "category": "person"
+  },
+  {
+    "char": "🙇🏽",
+    "category": "person"
+  },
+  {
+    "char": "🙇🏾",
+    "category": "person"
+  },
+  {
+    "char": "🙇🏿",
+    "category": "person"
+  },
+  {
+    "char": "🤦‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🤦‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🤦‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🤦‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🤦‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🤦‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🤦‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🤦‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🤦‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🤦‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🤷🏻",
+    "category": "person"
+  },
+  {
+    "char": "🤷🏼",
+    "category": "person"
+  },
+  {
+    "char": "🤷🏽",
+    "category": "person"
+  },
+  {
+    "char": "🤷🏾",
+    "category": "person"
+  },
+  {
+    "char": "🤷🏿",
+    "category": "person"
+  },
+  {
+    "char": "🤷‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🤷‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🤷‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🤷‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🤷‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "💁🏻",
+    "category": "person"
+  },
+  {
+    "char": "💁🏼",
+    "category": "person"
+  },
+  {
+    "char": "💁🏽",
+    "category": "person"
+  },
+  {
+    "char": "💁🏾",
+    "category": "person"
+  },
+  {
+    "char": "💁🏿",
+    "category": "person"
+  },
+  {
+    "char": "💁‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "💁‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "💁‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "💁‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "💁‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🙅🏻",
+    "category": "person"
+  },
+  {
+    "char": "🙅🏼",
+    "category": "person"
+  },
+  {
+    "char": "🙅🏽",
+    "category": "person"
+  },
+  {
+    "char": "🙅🏾",
+    "category": "person"
+  },
+  {
+    "char": "🙅🏿",
+    "category": "person"
+  },
+  {
+    "char": "🙅‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🙅‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🙅‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🙅‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🙅‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🙆🏻",
+    "category": "person"
+  },
+  {
+    "char": "🙆🏼",
+    "category": "person"
+  },
+  {
+    "char": "🙆🏽",
+    "category": "person"
+  },
+  {
+    "char": "🙆🏾",
+    "category": "person"
+  },
+  {
+    "char": "🙆🏿",
+    "category": "person"
+  },
+  {
+    "char": "🙆‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🙆‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🙆‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🙆‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🙆‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🙋🏻",
+    "category": "person"
+  },
+  {
+    "char": "🙋🏼",
+    "category": "person"
+  },
+  {
+    "char": "🙋🏽",
+    "category": "person"
+  },
+  {
+    "char": "🙋🏾",
+    "category": "person"
+  },
+  {
+    "char": "🙋🏿",
+    "category": "person"
+  },
+  {
+    "char": "🙋‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🙋‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🙋‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🙋‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🙋‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🙎🏻",
+    "category": "person"
+  },
+  {
+    "char": "🙎🏼",
+    "category": "person"
+  },
+  {
+    "char": "🙎🏽",
+    "category": "person"
+  },
+  {
+    "char": "🙎🏾",
+    "category": "person"
+  },
+  {
+    "char": "🙎🏿",
+    "category": "person"
+  },
+  {
+    "char": "🙎‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🙎‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🙎‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🙎‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🙎‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🙍🏻",
+    "category": "person"
+  },
+  {
+    "char": "🙍🏼",
+    "category": "person"
+  },
+  {
+    "char": "🙍🏽",
+    "category": "person"
+  },
+  {
+    "char": "🙍🏾",
+    "category": "person"
+  },
+  {
+    "char": "🙍🏿",
+    "category": "person"
+  },
+  {
+    "char": "🙍‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🙍‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🙍‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🙍‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🙍‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "💇🏻",
+    "category": "person"
+  },
+  {
+    "char": "💇🏼",
+    "category": "person"
+  },
+  {
+    "char": "💇🏽",
+    "category": "person"
+  },
+  {
+    "char": "💇🏾",
+    "category": "person"
+  },
+  {
+    "char": "💇🏿",
+    "category": "person"
+  },
+  {
+    "char": "💇‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "💇‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "💇‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "💇‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "💇‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "💆🏻",
+    "category": "person"
+  },
+  {
+    "char": "💆🏼",
+    "category": "person"
+  },
+  {
+    "char": "💆🏽",
+    "category": "person"
+  },
+  {
+    "char": "💆🏾",
+    "category": "person"
+  },
+  {
+    "char": "💆🏿",
+    "category": "person"
+  },
+  {
+    "char": "💆‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "💆‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "💆‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "💆‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "💆‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧖‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧖‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧖‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧖‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧖‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧖‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧖‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧖‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧖‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧖‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "👚",
+    "category": "person"
+  },
+  {
+    "char": "👙",
+    "category": "person"
+  },
+  {
+    "char": "👘",
+    "category": "person"
+  },
+  {
+    "char": "💄",
+    "category": "person"
+  },
+  {
+    "char": "👠",
+    "category": "person"
+  },
+  {
+    "char": "👞",
+    "category": "person"
+  },
+  {
+    "char": "👒",
+    "category": "person"
+  },
+  {
+    "char": "🏌️‍♀️",
+    "category": "person"
+  },
+  {
+    "char": "🚣‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🚣‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🚣‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🚣‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🚣‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧗‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧗‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧗‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧗‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧗‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧗‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧗‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧗‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧗‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧗‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🏊‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🏊‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🏊‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🏊‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🏊‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧘‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧘‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧘‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧘‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧘‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🧘‍♂️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🧘‍♂️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🧘‍♂️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🧘‍♂️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🧘‍♂️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🏄‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🏄‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🏄‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🏄‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🏄‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "⛹️‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "⛹️‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "⛹️‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "⛹️‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "⛹️‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🏋️‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🏋️‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🏋️‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🏋️‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🏋️‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🚴‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🚴‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🚴‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🚴‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🚴‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🚵‍♀️🏻",
+    "category": "person"
+  },
+  {
+    "char": "🚵‍♀️🏼",
+    "category": "person"
+  },
+  {
+    "char": "🚵‍♀️🏽",
+    "category": "person"
+  },
+  {
+    "char": "🚵‍♀️🏾",
+    "category": "person"
+  },
+  {
+    "char": "🚵‍♀️🏿",
+    "category": "person"
+  },
+  {
+    "char": "🚹",
+    "category": "person"
+  },
+  {
+    "char": "🚺",
+    "category": "person"
+  }
+]
