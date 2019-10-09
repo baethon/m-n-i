@@ -1,65 +1,53 @@
 'use strict'
 
-const https = require('https')
-const skinTone = require('skin-tone')
+const library = require('emojilib/emojis.json')
+const toolkit = require('emoji-toolkit')
 
-const libUrl = 'https://raw.githubusercontent.com/muan/emojilib/master/emojis.json'
-const skinTonesList = ['none', 'white', 'creamWhite', 'lightBrown', 'brown', 'darkBrown']
-
-const getLibrary = () => {
-  return new Promise((resolve) => {
-    https.get(libUrl, (response) => {
-      let body = ''
-
-      response.on('data', (chunk) => {
-        body += chunk
-      })
-
-      response.on('end', () => {
-        resolve(JSON.parse(body))
-      })
-    })
-  })
-}
+const skinTonesList = Array(5).fill('').map((_, i) => `tone${i + 1}`)
 
 const expandByFitzpatrickScale = (carry, item) => {
-  const { char, fitzpatrick_scale: fitzpatrickScale, category, keywords } = item
-  return (fitzpatrickScale === false)
-    ? carry.concat([{ char, category, keywords }])
-    : carry.concat(skinTonesList.map((tone) => ({
-      char: skinTone(char, tone),
-      category,
-      keywords
+  const { fitzpatrick_scale: fitzpatrickScale, category, keywords, shortcode } = item
+  const base = { category, keywords, shortcode }
+  const updatedList = carry.concat([base])
+
+  return (!fitzpatrickScale)
+    ? updatedList
+    : updatedList.concat(skinTonesList.map((tone) => ({
+      ...base,
+      shortcode: shortcode.replace(/:$/, `_${tone}:`)
     })))
 }
 
-const addPersonCategory = (list) => {
-  const persons = list.filter(({ keywords }) => keywords.includes('female') || keywords.includes('male'))
-
-  return list.concat(persons.map((item) => ({
-    ...item,
-    category: 'person'
-  })))
-}
-
-const stripKeywords = (list) => list.map(({ keywords, ...item }) => item)
-const splitByCategory = (list) => list.reduce(
-  (carry, { category, char }) => ({
-    ...carry,
-    [category]: (carry[category] || []).concat(char)
-  }),
-  {}
+const filterByKeywords = (keywords) => (list) => list.filter((item) =>
+  item.keywords.some((singleKeyword) => keywords.includes(singleKeyword))
 )
 
-getLibrary()
-  .then((data) => {
-    const mappedList = Object.values(data)
-      .reduce(expandByFitzpatrickScale, [])
+const rejectByKeywords = (keywords) => (list) => list.filter((item) =>
+  item.keywords.every((singleKeyword) => !keywords.includes(singleKeyword))
+)
 
-    return mappedList
-  })
-  .then(addPersonCategory)
-  .then(stripKeywords)
-  .then(splitByCategory)
+const filterByCategory = (categories) => (list) => list.filter(
+  ({ category }) => categories.includes(category)
+)
+
+const mapList = (list) => list.map(({ shortcode, keywords }) => ({
+  shortcode,
+  unicode: toolkit.shortnameToUnicode(shortcode),
+  keywords
+}))
+
+const mapEmojilib = (data) => Object.keys(data)
+  .map((name) => ({
+    shortcode: `:${name}:`,
+    ...data[name]
+  }))
+  .reduce(expandByFitzpatrickScale, [])
+
+Promise.resolve(library)
+  .then(mapEmojilib)
+  .then(filterByCategory(['people']))
+  .then(filterByKeywords(['female', 'male']))
+  .then(rejectByKeywords(['fashion']))
+  .then(mapList)
   .then((list) => JSON.stringify(list, null, 2))
   .then(console.log)

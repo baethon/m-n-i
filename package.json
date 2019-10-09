@@ -11,7 +11,8 @@
     "build": "node build > emojilib.json"
   },
   "devDependencies": {
-    "skin-tone": "^2.0.0",
+    "emoji-toolkit": "^5.0.5",
+    "emojilib": "^2.4.0",
     "standard": "^14.3.1"
   }
 }
