@@ -1,20 +1,20 @@
 'use strict'
 
 const library = require('emojilib/emojis.json')
-const toolkit = require('emoji-toolkit')
+const skinTone = require('skin-tone')
 
-const skinTonesList = Array(5).fill('').map((_, i) => `tone${i + 1}`)
+const skinTonesList = ['white', 'creamWhite', 'lightBrown', 'brown', 'darkBrown']
 
 const expandByFitzpatrickScale = (carry, item) => {
-  const { fitzpatrick_scale: fitzpatrickScale, category, keywords, shortcode } = item
-  const base = { category, keywords, shortcode }
+  const { fitzpatrick_scale: fitzpatrickScale, category, keywords, char } = item
+  const base = { category, keywords, char }
   const updatedList = carry.concat([base])
 
   return (!fitzpatrickScale)
     ? updatedList
     : updatedList.concat(skinTonesList.map((tone) => ({
       ...base,
-      shortcode: shortcode.replace(/:$/, `_${tone}:`)
+      char: skinTone(char, tone)
     })))
 }
 
@@ -30,17 +30,12 @@ const filterByCategory = (categories) => (list) => list.filter(
   ({ category }) => categories.includes(category)
 )
 
-const mapList = (list) => list.map(({ shortcode, keywords }) => ({
-  shortcode,
-  unicode: toolkit.shortnameToUnicode(shortcode),
-  keywords
+const mapList = (list) => list.map(({ char, keywords }) => ({
+  char,
+  keywords,
 }))
 
-const mapEmojilib = (data) => Object.keys(data)
-  .map((name) => ({
-    shortcode: `:${name}:`,
-    ...data[name]
-  }))
+const mapEmojilib = (data) => Object.values(data)
   .reduce(expandByFitzpatrickScale, [])
 
 Promise.resolve(library)

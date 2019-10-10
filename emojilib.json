@@ -1,7 +1,6 @@
 [
   {
-    "shortcode": ":boy:",
-    "unicode": "👦",
+    "char": "👦",
     "keywords": [
       "man",
       "male",
@@ -10,8 +9,7 @@
     ]
   },
   {
-    "shortcode": ":boy_tone1:",
-    "unicode": "👦🏻",
+    "char": "👦🏻",
     "keywords": [
       "man",
       "male",
@@ -20,8 +18,7 @@
     ]
   },
   {
-    "shortcode": ":boy_tone2:",
-    "unicode": "👦🏼",
+    "char": "👦🏼",
     "keywords": [
       "man",
       "male",
@@ -30,8 +27,7 @@
     ]
   },
   {
-    "shortcode": ":boy_tone3:",
-    "unicode": "👦🏽",
+    "char": "👦🏽",
     "keywords": [
       "man",
       "male",
@@ -40,8 +36,7 @@
     ]
   },
   {
-    "shortcode": ":boy_tone4:",
-    "unicode": "👦🏾",
+    "char": "👦🏾",
     "keywords": [
       "man",
       "male",
@@ -50,8 +45,7 @@
     ]
   },
   {
-    "shortcode": ":boy_tone5:",
-    "unicode": "👦🏿",
+    "char": "👦🏿",
     "keywords": [
       "man",
       "male",
@@ -60,8 +54,7 @@
     ]
   },
   {
-    "shortcode": ":girl:",
-    "unicode": "👧",
+    "char": "👧",
     "keywords": [
       "female",
       "woman",
@@ -69,8 +62,7 @@
     ]
   },
   {
-    "shortcode": ":girl_tone1:",
-    "unicode": "👧🏻",
+    "char": "👧🏻",
     "keywords": [
       "female",
       "woman",
@@ -78,8 +70,7 @@
     ]
   },
   {
-    "shortcode": ":girl_tone2:",
-    "unicode": "👧🏼",
+    "char": "👧🏼",
     "keywords": [
       "female",
       "woman",
@@ -87,8 +78,7 @@
     ]
   },
   {
-    "shortcode": ":girl_tone3:",
-    "unicode": "👧🏽",
+    "char": "👧🏽",
     "keywords": [
       "female",
       "woman",
@@ -96,8 +86,7 @@
     ]
   },
   {
-    "shortcode": ":girl_tone4:",
-    "unicode": "👧🏾",
+    "char": "👧🏾",
     "keywords": [
       "female",
       "woman",
@@ -105,8 +94,7 @@
     ]
   },
   {
-    "shortcode": ":girl_tone5:",
-    "unicode": "👧🏿",
+    "char": "👧🏿",
     "keywords": [
       "female",
       "woman",
@@ -114,8 +102,7 @@
     ]
   },
   {
-    "shortcode": ":woman:",
-    "unicode": "👩",
+    "char": "👩",
     "keywords": [
       "female",
       "girls",
@@ -123,8 +110,7 @@
     ]
   },
   {
-    "shortcode": ":woman_tone1:",
-    "unicode": "👩🏻",
+    "char": "👩🏻",
     "keywords": [
       "female",
       "girls",
@@ -132,8 +118,7 @@
     ]
   },
   {
-    "shortcode": ":woman_tone2:",
-    "unicode": "👩🏼",
+    "char": "👩🏼",
     "keywords": [
       "female",
       "girls",
@@ -141,8 +126,7 @@
     ]
   },
   {
-    "shortcode": ":woman_tone3:",
-    "unicode": "👩🏽",
+    "char": "👩🏽",
     "keywords": [
       "female",
       "girls",
@@ -150,8 +134,7 @@
     ]
   },
   {
-    "shortcode": ":woman_tone4:",
-    "unicode": "👩🏾",
+    "char": "👩🏾",
     "keywords": [
       "female",
       "girls",
@@ -159,8 +142,7 @@
     ]
   },
   {
-    "shortcode": ":woman_tone5:",
-    "unicode": "👩🏿",
+    "char": "👩🏿",
     "keywords": [
       "female",
       "girls",
@@ -168,8 +150,7 @@
     ]
   },
   {
-    "shortcode": ":blonde_woman:",
-    "unicode": ":blonde_woman:",
+    "char": "👱‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -179,8 +160,7 @@
     ]
   },
   {
-    "shortcode": ":blonde_woman_tone1:",
-    "unicode": ":blonde_woman_tone1:",
+    "char": "👱‍♀️🏻",
     "keywords": [
       "woman",
       "female",
@@ -190,8 +170,7 @@
     ]
   },
   {
-    "shortcode": ":blonde_woman_tone2:",
-    "unicode": ":blonde_woman_tone2:",
+    "char": "👱‍♀️🏼",
     "keywords": [
       "woman",
       "female",
@@ -201,8 +180,7 @@
     ]
   },
   {
-    "shortcode": ":blonde_woman_tone3:",
-    "unicode": ":blonde_woman_tone3:",
+    "char": "👱‍♀️🏽",
     "keywords": [
       "woman",
       "female",
@@ -212,8 +190,7 @@
     ]
   },
   {
-    "shortcode": ":blonde_woman_tone4:",
-    "unicode": ":blonde_woman_tone4:",
+    "char": "👱‍♀️🏾",
     "keywords": [
       "woman",
       "female",
@@ -223,8 +200,7 @@
     ]
   },
   {
-    "shortcode": ":blonde_woman_tone5:",
-    "unicode": ":blonde_woman_tone5:",
+    "char": "👱‍♀️🏿",
     "keywords": [
       "woman",
       "female",
@@ -234,8 +210,7 @@
     ]
   },
   {
-    "shortcode": ":blonde_man:",
-    "unicode": ":blonde_man:",
+    "char": "👱",
     "keywords": [
       "man",
       "male",
@@ -246,8 +221,7 @@
     ]
   },
   {
-    "shortcode": ":blonde_man_tone1:",
-    "unicode": ":blonde_man_tone1:",
+    "char": "👱🏻",
     "keywords": [
       "man",
       "male",
@@ -258,8 +232,7 @@
     ]
   },
   {
-    "shortcode": ":blonde_man_tone2:",
-    "unicode": ":blonde_man_tone2:",
+    "char": "👱🏼",
     "keywords": [
       "man",
       "male",
@@ -270,8 +243,7 @@
     ]
   },
   {
-    "shortcode": ":blonde_man_tone3:",
-    "unicode": ":blonde_man_tone3:",
+    "char": "👱🏽",
     "keywords": [
       "man",
       "male",
@@ -282,8 +254,7 @@
     ]
   },
   {
-    "shortcode": ":blonde_man_tone4:",
-    "unicode": ":blonde_man_tone4:",
+    "char": "👱🏾",
     "keywords": [
       "man",
       "male",
@@ -294,8 +265,7 @@
     ]
   },
   {
-    "shortcode": ":blonde_man_tone5:",
-    "unicode": ":blonde_man_tone5:",
+    "char": "👱🏿",
     "keywords": [
       "man",
       "male",
@@ -306,8 +276,7 @@
     ]
   },
   {
-    "shortcode": ":older_man:",
-    "unicode": "👴",
+    "char": "👴",
     "keywords": [
       "human",
       "male",
@@ -318,8 +287,7 @@
     ]
   },
   {
-    "shortcode": ":older_man_tone1:",
-    "unicode": "👴🏻",
+    "char": "👴🏻",
     "keywords": [
       "human",
       "male",
@@ -330,8 +298,7 @@
     ]
   },
   {
-    "shortcode": ":older_man_tone2:",
-    "unicode": "👴🏼",
+    "char": "👴🏼",
     "keywords": [
       "human",
       "male",
@@ -342,8 +309,7 @@
     ]
   },
   {
-    "shortcode": ":older_man_tone3:",
-    "unicode": "👴🏽",
+    "char": "👴🏽",
     "keywords": [
       "human",
       "male",
@@ -354,8 +320,7 @@
     ]
   },
   {
-    "shortcode": ":older_man_tone4:",
-    "unicode": "👴🏾",
+    "char": "👴🏾",
     "keywords": [
       "human",
       "male",
@@ -366,8 +331,7 @@
     ]
   },
   {
-    "shortcode": ":older_man_tone5:",
-    "unicode": "👴🏿",
+    "char": "👴🏿",
     "keywords": [
       "human",
       "male",
@@ -378,8 +342,7 @@
     ]
   },
   {
-    "shortcode": ":older_woman:",
-    "unicode": "👵",
+    "char": "👵",
     "keywords": [
       "human",
       "female",
@@ -391,8 +354,7 @@
     ]
   },
   {
-    "shortcode": ":older_woman_tone1:",
-    "unicode": "👵🏻",
+    "char": "👵🏻",
     "keywords": [
       "human",
       "female",
@@ -404,8 +366,7 @@
     ]
   },
   {
-    "shortcode": ":older_woman_tone2:",
-    "unicode": "👵🏼",
+    "char": "👵🏼",
     "keywords": [
       "human",
       "female",
@@ -417,8 +378,7 @@
     ]
   },
   {
-    "shortcode": ":older_woman_tone3:",
-    "unicode": "👵🏽",
+    "char": "👵🏽",
     "keywords": [
       "human",
       "female",
@@ -430,8 +390,7 @@
     ]
   },
   {
-    "shortcode": ":older_woman_tone4:",
-    "unicode": "👵🏾",
+    "char": "👵🏾",
     "keywords": [
       "human",
       "female",
@@ -443,8 +402,7 @@
     ]
   },
   {
-    "shortcode": ":older_woman_tone5:",
-    "unicode": "👵🏿",
+    "char": "👵🏿",
     "keywords": [
       "human",
       "female",
@@ -456,8 +414,7 @@
     ]
   },
   {
-    "shortcode": ":man_with_gua_pi_mao:",
-    "unicode": "👲",
+    "char": "👲",
     "keywords": [
       "male",
       "boy",
@@ -465,8 +422,7 @@
     ]
   },
   {
-    "shortcode": ":man_with_gua_pi_mao_tone1:",
-    "unicode": "👲🏻",
+    "char": "👲🏻",
     "keywords": [
       "male",
       "boy",
@@ -474,8 +430,7 @@
     ]
   },
   {
-    "shortcode": ":man_with_gua_pi_mao_tone2:",
-    "unicode": "👲🏼",
+    "char": "👲🏼",
     "keywords": [
       "male",
       "boy",
@@ -483,8 +438,7 @@
     ]
   },
   {
-    "shortcode": ":man_with_gua_pi_mao_tone3:",
-    "unicode": "👲🏽",
+    "char": "👲🏽",
     "keywords": [
       "male",
       "boy",
@@ -492,8 +446,7 @@
     ]
   },
   {
-    "shortcode": ":man_with_gua_pi_mao_tone4:",
-    "unicode": "👲🏾",
+    "char": "👲🏾",
     "keywords": [
       "male",
       "boy",
@@ -501,8 +454,7 @@
     ]
   },
   {
-    "shortcode": ":man_with_gua_pi_mao_tone5:",
-    "unicode": "👲🏿",
+    "char": "👲🏿",
     "keywords": [
       "male",
       "boy",
@@ -510,8 +462,7 @@
     ]
   },
   {
-    "shortcode": ":woman_with_headscarf:",
-    "unicode": "🧕",
+    "char": "🧕",
     "keywords": [
       "female",
       "hijab",
@@ -520,8 +471,7 @@
     ]
   },
   {
-    "shortcode": ":woman_with_headscarf_tone1:",
-    "unicode": "🧕🏻",
+    "char": "🧕",
     "keywords": [
       "female",
       "hijab",
@@ -530,8 +480,7 @@
     ]
   },
   {
-    "shortcode": ":woman_with_headscarf_tone2:",
-    "unicode": "🧕🏼",
+    "char": "🧕",
     "keywords": [
       "female",
       "hijab",
@@ -540,8 +489,7 @@
     ]
   },
   {
-    "shortcode": ":woman_with_headscarf_tone3:",
-    "unicode": "🧕🏽",
+    "char": "🧕",
     "keywords": [
       "female",
       "hijab",
@@ -550,8 +498,7 @@
     ]
   },
   {
-    "shortcode": ":woman_with_headscarf_tone4:",
-    "unicode": "🧕🏾",
+    "char": "🧕",
     "keywords": [
       "female",
       "hijab",
@@ -560,8 +507,7 @@
     ]
   },
   {
-    "shortcode": ":woman_with_headscarf_tone5:",
-    "unicode": "🧕🏿",
+    "char": "🧕",
     "keywords": [
       "female",
       "hijab",
@@ -570,8 +516,7 @@
     ]
   },
   {
-    "shortcode": ":woman_with_turban:",
-    "unicode": ":woman_with_turban:",
+    "char": "👳‍♀️",
     "keywords": [
       "female",
       "indian",
@@ -581,8 +526,7 @@
     ]
   },
   {
-    "shortcode": ":woman_with_turban_tone1:",
-    "unicode": ":woman_with_turban_tone1:",
+    "char": "👳‍♀️🏻",
     "keywords": [
       "female",
       "indian",
@@ -592,8 +536,7 @@
     ]
   },
   {
-    "shortcode": ":woman_with_turban_tone2:",
-    "unicode": ":woman_with_turban_tone2:",
+    "char": "👳‍♀️🏼",
     "keywords": [
       "female",
       "indian",
@@ -603,8 +546,7 @@
     ]
   },
   {
-    "shortcode": ":woman_with_turban_tone3:",
-    "unicode": ":woman_with_turban_tone3:",
+    "char": "👳‍♀️🏽",
     "keywords": [
       "female",
       "indian",
@@ -614,8 +556,7 @@
     ]
   },
   {
-    "shortcode": ":woman_with_turban_tone4:",
-    "unicode": ":woman_with_turban_tone4:",
+    "char": "👳‍♀️🏾",
     "keywords": [
       "female",
       "indian",
@@ -625,8 +566,7 @@
     ]
   },
   {
-    "shortcode": ":woman_with_turban_tone5:",
-    "unicode": ":woman_with_turban_tone5:",
+    "char": "👳‍♀️🏿",
     "keywords": [
       "female",
       "indian",
@@ -636,8 +576,7 @@
     ]
   },
   {
-    "shortcode": ":man_with_turban:",
-    "unicode": "👳",
+    "char": "👳",
     "keywords": [
       "male",
       "indian",
@@ -646,8 +585,7 @@
     ]
   },
   {
-    "shortcode": ":man_with_turban_tone1:",
-    "unicode": "👳🏻",
+    "char": "👳🏻",
     "keywords": [
       "male",
       "indian",
@@ -656,8 +594,7 @@
     ]
   },
   {
-    "shortcode": ":man_with_turban_tone2:",
-    "unicode": "👳🏼",
+    "char": "👳🏼",
     "keywords": [
       "male",
       "indian",
@@ -666,8 +603,7 @@
     ]
   },
   {
-    "shortcode": ":man_with_turban_tone3:",
-    "unicode": "👳🏽",
+    "char": "👳🏽",
     "keywords": [
       "male",
       "indian",
@@ -676,8 +612,7 @@
     ]
   },
   {
-    "shortcode": ":man_with_turban_tone4:",
-    "unicode": "👳🏾",
+    "char": "👳🏾",
     "keywords": [
       "male",
       "indian",
@@ -686,8 +621,7 @@
     ]
   },
   {
-    "shortcode": ":man_with_turban_tone5:",
-    "unicode": "👳🏿",
+    "char": "👳🏿",
     "keywords": [
       "male",
       "indian",
@@ -696,8 +630,7 @@
     ]
   },
   {
-    "shortcode": ":policewoman:",
-    "unicode": ":policewoman:",
+    "char": "👮‍♀️",
     "keywords": [
       "woman",
       "police",
@@ -710,8 +643,7 @@
     ]
   },
   {
-    "shortcode": ":policewoman_tone1:",
-    "unicode": ":policewoman_tone1:",
+    "char": "👮‍♀️🏻",
     "keywords": [
       "woman",
       "police",
@@ -724,8 +656,7 @@
     ]
   },
   {
-    "shortcode": ":policewoman_tone2:",
-    "unicode": ":policewoman_tone2:",
+    "char": "👮‍♀️🏼",
     "keywords": [
       "woman",
       "police",
@@ -738,8 +669,7 @@
     ]
   },
   {
-    "shortcode": ":policewoman_tone3:",
-    "unicode": ":policewoman_tone3:",
+    "char": "👮‍♀️🏽",
     "keywords": [
       "woman",
       "police",
@@ -752,8 +682,7 @@
     ]
   },
   {
-    "shortcode": ":policewoman_tone4:",
-    "unicode": ":policewoman_tone4:",
+    "char": "👮‍♀️🏾",
     "keywords": [
       "woman",
       "police",
@@ -766,8 +695,7 @@
     ]
   },
   {
-    "shortcode": ":policewoman_tone5:",
-    "unicode": ":policewoman_tone5:",
+    "char": "👮‍♀️🏿",
     "keywords": [
       "woman",
       "police",
@@ -780,8 +708,7 @@
     ]
   },
   {
-    "shortcode": ":construction_worker_woman:",
-    "unicode": ":construction_worker_woman:",
+    "char": "👷‍♀️",
     "keywords": [
       "female",
       "human",
@@ -794,8 +721,7 @@
     ]
   },
   {
-    "shortcode": ":construction_worker_woman_tone1:",
-    "unicode": ":construction_worker_woman_tone1:",
+    "char": "👷‍♀️🏻",
     "keywords": [
       "female",
       "human",
@@ -808,8 +734,7 @@
     ]
   },
   {
-    "shortcode": ":construction_worker_woman_tone2:",
-    "unicode": ":construction_worker_woman_tone2:",
+    "char": "👷‍♀️🏼",
     "keywords": [
       "female",
       "human",
@@ -822,8 +747,7 @@
     ]
   },
   {
-    "shortcode": ":construction_worker_woman_tone3:",
-    "unicode": ":construction_worker_woman_tone3:",
+    "char": "👷‍♀️🏽",
     "keywords": [
       "female",
       "human",
@@ -836,8 +760,7 @@
     ]
   },
   {
-    "shortcode": ":construction_worker_woman_tone4:",
-    "unicode": ":construction_worker_woman_tone4:",
+    "char": "👷‍♀️🏾",
     "keywords": [
       "female",
       "human",
@@ -850,8 +773,7 @@
     ]
   },
   {
-    "shortcode": ":construction_worker_woman_tone5:",
-    "unicode": ":construction_worker_woman_tone5:",
+    "char": "👷‍♀️🏿",
     "keywords": [
       "female",
       "human",
@@ -864,8 +786,7 @@
     ]
   },
   {
-    "shortcode": ":construction_worker_man:",
-    "unicode": ":construction_worker_man:",
+    "char": "👷",
     "keywords": [
       "male",
       "human",
@@ -878,8 +799,7 @@
     ]
   },
   {
-    "shortcode": ":construction_worker_man_tone1:",
-    "unicode": ":construction_worker_man_tone1:",
+    "char": "👷🏻",
     "keywords": [
       "male",
       "human",
@@ -892,8 +812,7 @@
     ]
   },
   {
-    "shortcode": ":construction_worker_man_tone2:",
-    "unicode": ":construction_worker_man_tone2:",
+    "char": "👷🏼",
     "keywords": [
       "male",
       "human",
@@ -906,8 +825,7 @@
     ]
   },
   {
-    "shortcode": ":construction_worker_man_tone3:",
-    "unicode": ":construction_worker_man_tone3:",
+    "char": "👷🏽",
     "keywords": [
       "male",
       "human",
@@ -920,8 +838,7 @@
     ]
   },
   {
-    "shortcode": ":construction_worker_man_tone4:",
-    "unicode": ":construction_worker_man_tone4:",
+    "char": "👷🏾",
     "keywords": [
       "male",
       "human",
@@ -934,8 +851,7 @@
     ]
   },
   {
-    "shortcode": ":construction_worker_man_tone5:",
-    "unicode": ":construction_worker_man_tone5:",
+    "char": "👷🏿",
     "keywords": [
       "male",
       "human",
@@ -948,8 +864,7 @@
     ]
   },
   {
-    "shortcode": ":guardswoman:",
-    "unicode": ":guardswoman:",
+    "char": "💂‍♀️",
     "keywords": [
       "uk",
       "gb",
@@ -960,8 +875,7 @@
     ]
   },
   {
-    "shortcode": ":guardswoman_tone1:",
-    "unicode": ":guardswoman_tone1:",
+    "char": "💂‍♀️🏻",
     "keywords": [
       "uk",
       "gb",
@@ -972,8 +886,7 @@
     ]
   },
   {
-    "shortcode": ":guardswoman_tone2:",
-    "unicode": ":guardswoman_tone2:",
+    "char": "💂‍♀️🏼",
     "keywords": [
       "uk",
       "gb",
@@ -984,8 +897,7 @@
     ]
   },
   {
-    "shortcode": ":guardswoman_tone3:",
-    "unicode": ":guardswoman_tone3:",
+    "char": "💂‍♀️🏽",
     "keywords": [
       "uk",
       "gb",
@@ -996,8 +908,7 @@
     ]
   },
   {
-    "shortcode": ":guardswoman_tone4:",
-    "unicode": ":guardswoman_tone4:",
+    "char": "💂‍♀️🏾",
     "keywords": [
       "uk",
       "gb",
@@ -1008,8 +919,7 @@
     ]
   },
   {
-    "shortcode": ":guardswoman_tone5:",
-    "unicode": ":guardswoman_tone5:",
+    "char": "💂‍♀️🏿",
     "keywords": [
       "uk",
       "gb",
@@ -1020,8 +930,7 @@
     ]
   },
   {
-    "shortcode": ":guardsman:",
-    "unicode": "💂",
+    "char": "💂",
     "keywords": [
       "uk",
       "gb",
@@ -1032,8 +941,7 @@
     ]
   },
   {
-    "shortcode": ":guardsman_tone1:",
-    "unicode": "💂🏻",
+    "char": "💂🏻",
     "keywords": [
       "uk",
       "gb",
@@ -1044,8 +952,7 @@
     ]
   },
   {
-    "shortcode": ":guardsman_tone2:",
-    "unicode": "💂🏼",
+    "char": "💂🏼",
     "keywords": [
       "uk",
       "gb",
@@ -1056,8 +963,7 @@
     ]
   },
   {
-    "shortcode": ":guardsman_tone3:",
-    "unicode": "💂🏽",
+    "char": "💂🏽",
     "keywords": [
       "uk",
       "gb",
@@ -1068,8 +974,7 @@
     ]
   },
   {
-    "shortcode": ":guardsman_tone4:",
-    "unicode": "💂🏾",
+    "char": "💂🏾",
     "keywords": [
       "uk",
       "gb",
@@ -1080,8 +985,7 @@
     ]
   },
   {
-    "shortcode": ":guardsman_tone5:",
-    "unicode": "💂🏿",
+    "char": "💂🏿",
     "keywords": [
       "uk",
       "gb",
@@ -1092,8 +996,7 @@
     ]
   },
   {
-    "shortcode": ":female_detective:",
-    "unicode": ":female_detective:",
+    "char": "🕵️‍♀️",
     "keywords": [
       "human",
       "spy",
@@ -1103,8 +1006,7 @@
     ]
   },
   {
-    "shortcode": ":female_detective_tone1:",
-    "unicode": ":female_detective_tone1:",
+    "char": "🕵️‍♀️🏻",
     "keywords": [
       "human",
       "spy",
@@ -1114,8 +1016,7 @@
     ]
   },
   {
-    "shortcode": ":female_detective_tone2:",
-    "unicode": ":female_detective_tone2:",
+    "char": "🕵️‍♀️🏼",
     "keywords": [
       "human",
       "spy",
@@ -1125,8 +1026,7 @@
     ]
   },
   {
-    "shortcode": ":female_detective_tone3:",
-    "unicode": ":female_detective_tone3:",
+    "char": "🕵️‍♀️🏽",
     "keywords": [
       "human",
       "spy",
@@ -1136,8 +1036,7 @@
     ]
   },
   {
-    "shortcode": ":female_detective_tone4:",
-    "unicode": ":female_detective_tone4:",
+    "char": "🕵️‍♀️🏾",
     "keywords": [
       "human",
       "spy",
@@ -1147,8 +1046,7 @@
     ]
   },
   {
-    "shortcode": ":female_detective_tone5:",
-    "unicode": ":female_detective_tone5:",
+    "char": "🕵️‍♀️🏿",
     "keywords": [
       "human",
       "spy",
@@ -1158,8 +1056,7 @@
     ]
   },
   {
-    "shortcode": ":woman_superhero:",
-    "unicode": "🦸‍♀️",
+    "char": "🦸‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1169,8 +1066,7 @@
     ]
   },
   {
-    "shortcode": ":woman_superhero_tone1:",
-    "unicode": "🦸🏻‍♀️",
+    "char": "🦸‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1180,8 +1076,7 @@
     ]
   },
   {
-    "shortcode": ":woman_superhero_tone2:",
-    "unicode": "🦸🏼‍♀️",
+    "char": "🦸‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1191,8 +1086,7 @@
     ]
   },
   {
-    "shortcode": ":woman_superhero_tone3:",
-    "unicode": "🦸🏽‍♀️",
+    "char": "🦸‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1202,8 +1096,7 @@
     ]
   },
   {
-    "shortcode": ":woman_superhero_tone4:",
-    "unicode": "🦸🏾‍♀️",
+    "char": "🦸‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1213,8 +1106,7 @@
     ]
   },
   {
-    "shortcode": ":woman_superhero_tone5:",
-    "unicode": "🦸🏿‍♀️",
+    "char": "🦸‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1224,8 +1116,7 @@
     ]
   },
   {
-    "shortcode": ":man_superhero:",
-    "unicode": "🦸‍♂️",
+    "char": "🦸‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1235,8 +1126,7 @@
     ]
   },
   {
-    "shortcode": ":man_superhero_tone1:",
-    "unicode": "🦸🏻‍♂️",
+    "char": "🦸‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1246,8 +1136,7 @@
     ]
   },
   {
-    "shortcode": ":man_superhero_tone2:",
-    "unicode": "🦸🏼‍♂️",
+    "char": "🦸‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1257,8 +1146,7 @@
     ]
   },
   {
-    "shortcode": ":man_superhero_tone3:",
-    "unicode": "🦸🏽‍♂️",
+    "char": "🦸‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1268,8 +1156,7 @@
     ]
   },
   {
-    "shortcode": ":man_superhero_tone4:",
-    "unicode": "🦸🏾‍♂️",
+    "char": "🦸‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1279,8 +1166,7 @@
     ]
   },
   {
-    "shortcode": ":man_superhero_tone5:",
-    "unicode": "🦸🏿‍♂️",
+    "char": "🦸‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1290,8 +1176,7 @@
     ]
   },
   {
-    "shortcode": ":woman_supervillain:",
-    "unicode": "🦹‍♀️",
+    "char": "🦹‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1303,8 +1188,7 @@
     ]
   },
   {
-    "shortcode": ":woman_supervillain_tone1:",
-    "unicode": "🦹🏻‍♀️",
+    "char": "🦹‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1316,8 +1200,7 @@
     ]
   },
   {
-    "shortcode": ":woman_supervillain_tone2:",
-    "unicode": "🦹🏼‍♀️",
+    "char": "🦹‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1329,8 +1212,7 @@
     ]
   },
   {
-    "shortcode": ":woman_supervillain_tone3:",
-    "unicode": "🦹🏽‍♀️",
+    "char": "🦹‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1342,8 +1224,7 @@
     ]
   },
   {
-    "shortcode": ":woman_supervillain_tone4:",
-    "unicode": "🦹🏾‍♀️",
+    "char": "🦹‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1355,8 +1236,7 @@
     ]
   },
   {
-    "shortcode": ":woman_supervillain_tone5:",
-    "unicode": "🦹🏿‍♀️",
+    "char": "🦹‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1368,8 +1248,7 @@
     ]
   },
   {
-    "shortcode": ":man_supervillain:",
-    "unicode": "🦹‍♂️",
+    "char": "🦹‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1381,8 +1260,7 @@
     ]
   },
   {
-    "shortcode": ":man_supervillain_tone1:",
-    "unicode": "🦹🏻‍♂️",
+    "char": "🦹‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1394,8 +1272,7 @@
     ]
   },
   {
-    "shortcode": ":man_supervillain_tone2:",
-    "unicode": "🦹🏼‍♂️",
+    "char": "🦹‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1407,8 +1284,7 @@
     ]
   },
   {
-    "shortcode": ":man_supervillain_tone3:",
-    "unicode": "🦹🏽‍♂️",
+    "char": "🦹‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1420,8 +1296,7 @@
     ]
   },
   {
-    "shortcode": ":man_supervillain_tone4:",
-    "unicode": "🦹🏾‍♂️",
+    "char": "🦹‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1433,8 +1308,7 @@
     ]
   },
   {
-    "shortcode": ":man_supervillain_tone5:",
-    "unicode": "🦹🏿‍♂️",
+    "char": "🦹‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1446,8 +1320,7 @@
     ]
   },
   {
-    "shortcode": ":mrs_claus:",
-    "unicode": "🤶",
+    "char": "🤶",
     "keywords": [
       "woman",
       "female",
@@ -1456,8 +1329,7 @@
     ]
   },
   {
-    "shortcode": ":mrs_claus_tone1:",
-    "unicode": "🤶🏻",
+    "char": "🤶🏻",
     "keywords": [
       "woman",
       "female",
@@ -1466,8 +1338,7 @@
     ]
   },
   {
-    "shortcode": ":mrs_claus_tone2:",
-    "unicode": "🤶🏼",
+    "char": "🤶🏼",
     "keywords": [
       "woman",
       "female",
@@ -1476,8 +1347,7 @@
     ]
   },
   {
-    "shortcode": ":mrs_claus_tone3:",
-    "unicode": "🤶🏽",
+    "char": "🤶🏽",
     "keywords": [
       "woman",
       "female",
@@ -1486,8 +1356,7 @@
     ]
   },
   {
-    "shortcode": ":mrs_claus_tone4:",
-    "unicode": "🤶🏾",
+    "char": "🤶🏾",
     "keywords": [
       "woman",
       "female",
@@ -1496,8 +1365,7 @@
     ]
   },
   {
-    "shortcode": ":mrs_claus_tone5:",
-    "unicode": "🤶🏿",
+    "char": "🤶🏿",
     "keywords": [
       "woman",
       "female",
@@ -1506,8 +1374,7 @@
     ]
   },
   {
-    "shortcode": ":santa:",
-    "unicode": "🎅",
+    "char": "🎅",
     "keywords": [
       "festival",
       "man",
@@ -1517,8 +1384,7 @@
     ]
   },
   {
-    "shortcode": ":santa_tone1:",
-    "unicode": "🎅🏻",
+    "char": "🎅🏻",
     "keywords": [
       "festival",
       "man",
@@ -1528,8 +1394,7 @@
     ]
   },
   {
-    "shortcode": ":santa_tone2:",
-    "unicode": "🎅🏼",
+    "char": "🎅🏼",
     "keywords": [
       "festival",
       "man",
@@ -1539,8 +1404,7 @@
     ]
   },
   {
-    "shortcode": ":santa_tone3:",
-    "unicode": "🎅🏽",
+    "char": "🎅🏽",
     "keywords": [
       "festival",
       "man",
@@ -1550,8 +1414,7 @@
     ]
   },
   {
-    "shortcode": ":santa_tone4:",
-    "unicode": "🎅🏾",
+    "char": "🎅🏾",
     "keywords": [
       "festival",
       "man",
@@ -1561,8 +1424,7 @@
     ]
   },
   {
-    "shortcode": ":santa_tone5:",
-    "unicode": "🎅🏿",
+    "char": "🎅🏿",
     "keywords": [
       "festival",
       "man",
@@ -1572,8 +1434,7 @@
     ]
   },
   {
-    "shortcode": ":sorceress:",
-    "unicode": ":sorceress:",
+    "char": "🧙‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1582,8 +1443,7 @@
     ]
   },
   {
-    "shortcode": ":sorceress_tone1:",
-    "unicode": ":sorceress_tone1:",
+    "char": "🧙‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1592,8 +1452,7 @@
     ]
   },
   {
-    "shortcode": ":sorceress_tone2:",
-    "unicode": ":sorceress_tone2:",
+    "char": "🧙‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1602,8 +1461,7 @@
     ]
   },
   {
-    "shortcode": ":sorceress_tone3:",
-    "unicode": ":sorceress_tone3:",
+    "char": "🧙‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1612,8 +1470,7 @@
     ]
   },
   {
-    "shortcode": ":sorceress_tone4:",
-    "unicode": ":sorceress_tone4:",
+    "char": "🧙‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1622,8 +1479,7 @@
     ]
   },
   {
-    "shortcode": ":sorceress_tone5:",
-    "unicode": ":sorceress_tone5:",
+    "char": "🧙‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1632,8 +1488,7 @@
     ]
   },
   {
-    "shortcode": ":wizard:",
-    "unicode": ":wizard:",
+    "char": "🧙‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1642,8 +1497,7 @@
     ]
   },
   {
-    "shortcode": ":wizard_tone1:",
-    "unicode": ":wizard_tone1:",
+    "char": "🧙‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1652,8 +1506,7 @@
     ]
   },
   {
-    "shortcode": ":wizard_tone2:",
-    "unicode": ":wizard_tone2:",
+    "char": "🧙‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1662,8 +1515,7 @@
     ]
   },
   {
-    "shortcode": ":wizard_tone3:",
-    "unicode": ":wizard_tone3:",
+    "char": "🧙‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1672,8 +1524,7 @@
     ]
   },
   {
-    "shortcode": ":wizard_tone4:",
-    "unicode": ":wizard_tone4:",
+    "char": "🧙‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1682,8 +1533,7 @@
     ]
   },
   {
-    "shortcode": ":wizard_tone5:",
-    "unicode": ":wizard_tone5:",
+    "char": "🧙‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1692,152 +1542,133 @@
     ]
   },
   {
-    "shortcode": ":woman_elf:",
-    "unicode": "🧝‍♀️",
+    "char": "🧝‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_elf_tone1:",
-    "unicode": "🧝🏻‍♀️",
+    "char": "🧝‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_elf_tone2:",
-    "unicode": "🧝🏼‍♀️",
+    "char": "🧝‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_elf_tone3:",
-    "unicode": "🧝🏽‍♀️",
+    "char": "🧝‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_elf_tone4:",
-    "unicode": "🧝🏾‍♀️",
+    "char": "🧝‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_elf_tone5:",
-    "unicode": "🧝🏿‍♀️",
+    "char": "🧝‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":man_elf:",
-    "unicode": "🧝‍♂️",
+    "char": "🧝‍♂️",
     "keywords": [
       "man",
       "male"
     ]
   },
   {
-    "shortcode": ":man_elf_tone1:",
-    "unicode": "🧝🏻‍♂️",
+    "char": "🧝‍♂️",
     "keywords": [
       "man",
       "male"
     ]
   },
   {
-    "shortcode": ":man_elf_tone2:",
-    "unicode": "🧝🏼‍♂️",
+    "char": "🧝‍♂️",
     "keywords": [
       "man",
       "male"
     ]
   },
   {
-    "shortcode": ":man_elf_tone3:",
-    "unicode": "🧝🏽‍♂️",
+    "char": "🧝‍♂️",
     "keywords": [
       "man",
       "male"
     ]
   },
   {
-    "shortcode": ":man_elf_tone4:",
-    "unicode": "🧝🏾‍♂️",
+    "char": "🧝‍♂️",
     "keywords": [
       "man",
       "male"
     ]
   },
   {
-    "shortcode": ":man_elf_tone5:",
-    "unicode": "🧝🏿‍♂️",
+    "char": "🧝‍♂️",
     "keywords": [
       "man",
       "male"
     ]
   },
   {
-    "shortcode": ":woman_vampire:",
-    "unicode": "🧛‍♀️",
+    "char": "🧛‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_vampire_tone1:",
-    "unicode": "🧛🏻‍♀️",
+    "char": "🧛‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_vampire_tone2:",
-    "unicode": "🧛🏼‍♀️",
+    "char": "🧛‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_vampire_tone3:",
-    "unicode": "🧛🏽‍♀️",
+    "char": "🧛‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_vampire_tone4:",
-    "unicode": "🧛🏾‍♀️",
+    "char": "🧛‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_vampire_tone5:",
-    "unicode": "🧛🏿‍♀️",
+    "char": "🧛‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":man_vampire:",
-    "unicode": "🧛‍♂️",
+    "char": "🧛‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1845,8 +1676,7 @@
     ]
   },
   {
-    "shortcode": ":man_vampire_tone1:",
-    "unicode": "🧛🏻‍♂️",
+    "char": "🧛‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1854,8 +1684,7 @@
     ]
   },
   {
-    "shortcode": ":man_vampire_tone2:",
-    "unicode": "🧛🏼‍♂️",
+    "char": "🧛‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1863,8 +1692,7 @@
     ]
   },
   {
-    "shortcode": ":man_vampire_tone3:",
-    "unicode": "🧛🏽‍♂️",
+    "char": "🧛‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1872,8 +1700,7 @@
     ]
   },
   {
-    "shortcode": ":man_vampire_tone4:",
-    "unicode": "🧛🏾‍♂️",
+    "char": "🧛‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1881,8 +1708,7 @@
     ]
   },
   {
-    "shortcode": ":man_vampire_tone5:",
-    "unicode": "🧛🏿‍♂️",
+    "char": "🧛‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1890,8 +1716,7 @@
     ]
   },
   {
-    "shortcode": ":woman_zombie:",
-    "unicode": "🧟‍♀️",
+    "char": "🧟‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1900,8 +1725,7 @@
     ]
   },
   {
-    "shortcode": ":man_zombie:",
-    "unicode": "🧟‍♂️",
+    "char": "🧟‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1911,24 +1735,21 @@
     ]
   },
   {
-    "shortcode": ":woman_genie:",
-    "unicode": "🧞‍♀️",
+    "char": "🧞‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":man_genie:",
-    "unicode": "🧞‍♂️",
+    "char": "🧞‍♂️",
     "keywords": [
       "man",
       "male"
     ]
   },
   {
-    "shortcode": ":mermaid:",
-    "unicode": "🧜‍♀️",
+    "char": "🧜‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1937,8 +1758,7 @@
     ]
   },
   {
-    "shortcode": ":mermaid_tone1:",
-    "unicode": "🧜🏻‍♀️",
+    "char": "🧜‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1947,8 +1767,7 @@
     ]
   },
   {
-    "shortcode": ":mermaid_tone2:",
-    "unicode": "🧜🏼‍♀️",
+    "char": "🧜‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1957,8 +1776,7 @@
     ]
   },
   {
-    "shortcode": ":mermaid_tone3:",
-    "unicode": "🧜🏽‍♀️",
+    "char": "🧜‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1967,8 +1785,7 @@
     ]
   },
   {
-    "shortcode": ":mermaid_tone4:",
-    "unicode": "🧜🏾‍♀️",
+    "char": "🧜‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1977,8 +1794,7 @@
     ]
   },
   {
-    "shortcode": ":mermaid_tone5:",
-    "unicode": "🧜🏿‍♀️",
+    "char": "🧜‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -1987,8 +1803,7 @@
     ]
   },
   {
-    "shortcode": ":merman:",
-    "unicode": "🧜‍♂️",
+    "char": "🧜‍♂️",
     "keywords": [
       "man",
       "male",
@@ -1996,8 +1811,7 @@
     ]
   },
   {
-    "shortcode": ":merman_tone1:",
-    "unicode": "🧜🏻‍♂️",
+    "char": "🧜‍♂️",
     "keywords": [
       "man",
       "male",
@@ -2005,8 +1819,7 @@
     ]
   },
   {
-    "shortcode": ":merman_tone2:",
-    "unicode": "🧜🏼‍♂️",
+    "char": "🧜‍♂️",
     "keywords": [
       "man",
       "male",
@@ -2014,8 +1827,7 @@
     ]
   },
   {
-    "shortcode": ":merman_tone3:",
-    "unicode": "🧜🏽‍♂️",
+    "char": "🧜‍♂️",
     "keywords": [
       "man",
       "male",
@@ -2023,8 +1835,7 @@
     ]
   },
   {
-    "shortcode": ":merman_tone4:",
-    "unicode": "🧜🏾‍♂️",
+    "char": "🧜‍♂️",
     "keywords": [
       "man",
       "male",
@@ -2032,8 +1843,7 @@
     ]
   },
   {
-    "shortcode": ":merman_tone5:",
-    "unicode": "🧜🏿‍♂️",
+    "char": "🧜‍♂️",
     "keywords": [
       "man",
       "male",
@@ -2041,104 +1851,91 @@
     ]
   },
   {
-    "shortcode": ":woman_fairy:",
-    "unicode": "🧚‍♀️",
+    "char": "🧚‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_fairy_tone1:",
-    "unicode": "🧚🏻‍♀️",
+    "char": "🧚‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_fairy_tone2:",
-    "unicode": "🧚🏼‍♀️",
+    "char": "🧚‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_fairy_tone3:",
-    "unicode": "🧚🏽‍♀️",
+    "char": "🧚‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_fairy_tone4:",
-    "unicode": "🧚🏾‍♀️",
+    "char": "🧚‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":woman_fairy_tone5:",
-    "unicode": "🧚🏿‍♀️",
+    "char": "🧚‍♀️",
     "keywords": [
       "woman",
       "female"
     ]
   },
   {
-    "shortcode": ":man_fairy:",
-    "unicode": "🧚‍♂️",
+    "char": "🧚‍♂️",
     "keywords": [
       "man",
       "male"
     ]
   },
   {
-    "shortcode": ":man_fairy_tone1:",
-    "unicode": "🧚🏻‍♂️",
+    "char": "🧚‍♂️",
     "keywords": [
       "man",
       "male"
     ]
   },
   {
-    "shortcode": ":man_fairy_tone2:",
-    "unicode": "🧚🏼‍♂️",
+    "char": "🧚‍♂️",
     "keywords": [
       "man",
       "male"
     ]
   },
   {
-    "shortcode": ":man_fairy_tone3:",
-    "unicode": "🧚🏽‍♂️",
+    "char": "🧚‍♂️",
     "keywords": [
       "man",
       "male"
     ]
   },
   {
-    "shortcode": ":man_fairy_tone4:",
-    "unicode": "🧚🏾‍♂️",
+    "char": "🧚‍♂️",
     "keywords": [
       "man",
       "male"
     ]
   },
   {
-    "shortcode": ":man_fairy_tone5:",
-    "unicode": "🧚🏿‍♂️",
+    "char": "🧚‍♂️",
     "keywords": [
       "man",
       "male"
     ]
   },
   {
-    "shortcode": ":princess:",
-    "unicode": "👸",
+    "char": "👸",
     "keywords": [
       "girl",
       "woman",
@@ -2150,8 +1947,7 @@
     ]
   },
   {
-    "shortcode": ":princess_tone1:",
-    "unicode": "👸🏻",
+    "char": "👸🏻",
     "keywords": [
       "girl",
       "woman",
@@ -2163,8 +1959,7 @@
     ]
   },
   {
-    "shortcode": ":princess_tone2:",
-    "unicode": "👸🏼",
+    "char": "👸🏼",
     "keywords": [
       "girl",
       "woman",
@@ -2176,8 +1971,7 @@
     ]
   },
   {
-    "shortcode": ":princess_tone3:",
-    "unicode": "👸🏽",
+    "char": "👸🏽",
     "keywords": [
       "girl",
       "woman",
@@ -2189,8 +1983,7 @@
     ]
   },
   {
-    "shortcode": ":princess_tone4:",
-    "unicode": "👸🏾",
+    "char": "👸🏾",
     "keywords": [
       "girl",
       "woman",
@@ -2202,8 +1995,7 @@
     ]
   },
   {
-    "shortcode": ":princess_tone5:",
-    "unicode": "👸🏿",
+    "char": "👸🏿",
     "keywords": [
       "girl",
       "woman",
@@ -2215,8 +2007,7 @@
     ]
   },
   {
-    "shortcode": ":prince:",
-    "unicode": "🤴",
+    "char": "🤴",
     "keywords": [
       "boy",
       "man",
@@ -2227,8 +2018,7 @@
     ]
   },
   {
-    "shortcode": ":prince_tone1:",
-    "unicode": "🤴🏻",
+    "char": "🤴🏻",
     "keywords": [
       "boy",
       "man",
@@ -2239,8 +2029,7 @@
     ]
   },
   {
-    "shortcode": ":prince_tone2:",
-    "unicode": "🤴🏼",
+    "char": "🤴🏼",
     "keywords": [
       "boy",
       "man",
@@ -2251,8 +2040,7 @@
     ]
   },
   {
-    "shortcode": ":prince_tone3:",
-    "unicode": "🤴🏽",
+    "char": "🤴🏽",
     "keywords": [
       "boy",
       "man",
@@ -2263,8 +2051,7 @@
     ]
   },
   {
-    "shortcode": ":prince_tone4:",
-    "unicode": "🤴🏾",
+    "char": "🤴🏾",
     "keywords": [
       "boy",
       "man",
@@ -2275,8 +2062,7 @@
     ]
   },
   {
-    "shortcode": ":prince_tone5:",
-    "unicode": "🤴🏿",
+    "char": "🤴🏿",
     "keywords": [
       "boy",
       "man",
@@ -2287,8 +2073,7 @@
     ]
   },
   {
-    "shortcode": ":running_woman:",
-    "unicode": ":running_woman:",
+    "char": "🏃‍♀️",
     "keywords": [
       "woman",
       "walking",
@@ -2299,8 +2084,7 @@
     ]
   },
   {
-    "shortcode": ":running_woman_tone1:",
-    "unicode": ":running_woman_tone1:",
+    "char": "🏃‍♀️🏻",
     "keywords": [
       "woman",
       "walking",
@@ -2311,8 +2095,7 @@
     ]
   },
   {
-    "shortcode": ":running_woman_tone2:",
-    "unicode": ":running_woman_tone2:",
+    "char": "🏃‍♀️🏼",
     "keywords": [
       "woman",
       "walking",
@@ -2323,8 +2106,7 @@
     ]
   },
   {
-    "shortcode": ":running_woman_tone3:",
-    "unicode": ":running_woman_tone3:",
+    "char": "🏃‍♀️🏽",
     "keywords": [
       "woman",
       "walking",
@@ -2335,8 +2117,7 @@
     ]
   },
   {
-    "shortcode": ":running_woman_tone4:",
-    "unicode": ":running_woman_tone4:",
+    "char": "🏃‍♀️🏾",
     "keywords": [
       "woman",
       "walking",
@@ -2347,8 +2128,7 @@
     ]
   },
   {
-    "shortcode": ":running_woman_tone5:",
-    "unicode": ":running_woman_tone5:",
+    "char": "🏃‍♀️🏿",
     "keywords": [
       "woman",
       "walking",
@@ -2359,8 +2139,7 @@
     ]
   },
   {
-    "shortcode": ":walking_woman:",
-    "unicode": ":walking_woman:",
+    "char": "🚶‍♀️",
     "keywords": [
       "human",
       "feet",
@@ -2370,8 +2149,7 @@
     ]
   },
   {
-    "shortcode": ":walking_woman_tone1:",
-    "unicode": ":walking_woman_tone1:",
+    "char": "🚶‍♀️🏻",
     "keywords": [
       "human",
       "feet",
@@ -2381,8 +2159,7 @@
     ]
   },
   {
-    "shortcode": ":walking_woman_tone2:",
-    "unicode": ":walking_woman_tone2:",
+    "char": "🚶‍♀️🏼",
     "keywords": [
       "human",
       "feet",
@@ -2392,8 +2169,7 @@
     ]
   },
   {
-    "shortcode": ":walking_woman_tone3:",
-    "unicode": ":walking_woman_tone3:",
+    "char": "🚶‍♀️🏽",
     "keywords": [
       "human",
       "feet",
@@ -2403,8 +2179,7 @@
     ]
   },
   {
-    "shortcode": ":walking_woman_tone4:",
-    "unicode": ":walking_woman_tone4:",
+    "char": "🚶‍♀️🏾",
     "keywords": [
       "human",
       "feet",
@@ -2414,8 +2189,7 @@
     ]
   },
   {
-    "shortcode": ":walking_woman_tone5:",
-    "unicode": ":walking_woman_tone5:",
+    "char": "🚶‍♀️🏿",
     "keywords": [
       "human",
       "feet",
@@ -2425,8 +2199,7 @@
     ]
   },
   {
-    "shortcode": ":dancer:",
-    "unicode": "💃",
+    "char": "💃",
     "keywords": [
       "female",
       "girl",
@@ -2435,8 +2208,7 @@
     ]
   },
   {
-    "shortcode": ":dancer_tone1:",
-    "unicode": "💃🏻",
+    "char": "💃🏻",
     "keywords": [
       "female",
       "girl",
@@ -2445,8 +2217,7 @@
     ]
   },
   {
-    "shortcode": ":dancer_tone2:",
-    "unicode": "💃🏼",
+    "char": "💃🏼",
     "keywords": [
       "female",
       "girl",
@@ -2455,8 +2226,7 @@
     ]
   },
   {
-    "shortcode": ":dancer_tone3:",
-    "unicode": "💃🏽",
+    "char": "💃🏽",
     "keywords": [
       "female",
       "girl",
@@ -2465,8 +2235,7 @@
     ]
   },
   {
-    "shortcode": ":dancer_tone4:",
-    "unicode": "💃🏾",
+    "char": "💃🏾",
     "keywords": [
       "female",
       "girl",
@@ -2475,8 +2244,7 @@
     ]
   },
   {
-    "shortcode": ":dancer_tone5:",
-    "unicode": "💃🏿",
+    "char": "💃🏿",
     "keywords": [
       "female",
       "girl",
@@ -2485,8 +2253,7 @@
     ]
   },
   {
-    "shortcode": ":man_dancing:",
-    "unicode": "🕺",
+    "char": "🕺",
     "keywords": [
       "male",
       "boy",
@@ -2495,8 +2262,7 @@
     ]
   },
   {
-    "shortcode": ":man_dancing_tone1:",
-    "unicode": "🕺🏻",
+    "char": "🕺🏻",
     "keywords": [
       "male",
       "boy",
@@ -2505,8 +2271,7 @@
     ]
   },
   {
-    "shortcode": ":man_dancing_tone2:",
-    "unicode": "🕺🏼",
+    "char": "🕺🏼",
     "keywords": [
       "male",
       "boy",
@@ -2515,8 +2280,7 @@
     ]
   },
   {
-    "shortcode": ":man_dancing_tone3:",
-    "unicode": "🕺🏽",
+    "char": "🕺🏽",
     "keywords": [
       "male",
       "boy",
@@ -2525,8 +2289,7 @@
     ]
   },
   {
-    "shortcode": ":man_dancing_tone4:",
-    "unicode": "🕺🏾",
+    "char": "🕺🏾",
     "keywords": [
       "male",
       "boy",
@@ -2535,8 +2298,7 @@
     ]
   },
   {
-    "shortcode": ":man_dancing_tone5:",
-    "unicode": "🕺🏿",
+    "char": "🕺🏿",
     "keywords": [
       "male",
       "boy",
@@ -2545,8 +2307,7 @@
     ]
   },
   {
-    "shortcode": ":dancing_women:",
-    "unicode": ":dancing_women:",
+    "char": "👯",
     "keywords": [
       "female",
       "bunny",
@@ -2555,8 +2316,7 @@
     ]
   },
   {
-    "shortcode": ":dancing_men:",
-    "unicode": ":dancing_men:",
+    "char": "👯‍♂️",
     "keywords": [
       "male",
       "bunny",
@@ -2565,8 +2325,7 @@
     ]
   },
   {
-    "shortcode": ":two_women_holding_hands:",
-    "unicode": "👭",
+    "char": "👭",
     "keywords": [
       "pair",
       "friendship",
@@ -2579,8 +2338,7 @@
     ]
   },
   {
-    "shortcode": ":bowing_woman:",
-    "unicode": ":bowing_woman:",
+    "char": "🙇‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -2588,8 +2346,7 @@
     ]
   },
   {
-    "shortcode": ":bowing_woman_tone1:",
-    "unicode": ":bowing_woman_tone1:",
+    "char": "🙇‍♀️🏻",
     "keywords": [
       "woman",
       "female",
@@ -2597,8 +2354,7 @@
     ]
   },
   {
-    "shortcode": ":bowing_woman_tone2:",
-    "unicode": ":bowing_woman_tone2:",
+    "char": "🙇‍♀️🏼",
     "keywords": [
       "woman",
       "female",
@@ -2606,8 +2362,7 @@
     ]
   },
   {
-    "shortcode": ":bowing_woman_tone3:",
-    "unicode": ":bowing_woman_tone3:",
+    "char": "🙇‍♀️🏽",
     "keywords": [
       "woman",
       "female",
@@ -2615,8 +2370,7 @@
     ]
   },
   {
-    "shortcode": ":bowing_woman_tone4:",
-    "unicode": ":bowing_woman_tone4:",
+    "char": "🙇‍♀️🏾",
     "keywords": [
       "woman",
       "female",
@@ -2624,8 +2378,7 @@
     ]
   },
   {
-    "shortcode": ":bowing_woman_tone5:",
-    "unicode": ":bowing_woman_tone5:",
+    "char": "🙇‍♀️🏿",
     "keywords": [
       "woman",
       "female",
@@ -2633,8 +2386,7 @@
     ]
   },
   {
-    "shortcode": ":bowing_man:",
-    "unicode": ":bowing_man:",
+    "char": "🙇",
     "keywords": [
       "man",
       "male",
@@ -2642,8 +2394,7 @@
     ]
   },
   {
-    "shortcode": ":bowing_man_tone1:",
-    "unicode": ":bowing_man_tone1:",
+    "char": "🙇🏻",
     "keywords": [
       "man",
       "male",
@@ -2651,8 +2402,7 @@
     ]
   },
   {
-    "shortcode": ":bowing_man_tone2:",
-    "unicode": ":bowing_man_tone2:",
+    "char": "🙇🏼",
     "keywords": [
       "man",
       "male",
@@ -2660,8 +2410,7 @@
     ]
   },
   {
-    "shortcode": ":bowing_man_tone3:",
-    "unicode": ":bowing_man_tone3:",
+    "char": "🙇🏽",
     "keywords": [
       "man",
       "male",
@@ -2669,8 +2418,7 @@
     ]
   },
   {
-    "shortcode": ":bowing_man_tone4:",
-    "unicode": ":bowing_man_tone4:",
+    "char": "🙇🏾",
     "keywords": [
       "man",
       "male",
@@ -2678,8 +2426,7 @@
     ]
   },
   {
-    "shortcode": ":bowing_man_tone5:",
-    "unicode": ":bowing_man_tone5:",
+    "char": "🙇🏿",
     "keywords": [
       "man",
       "male",
@@ -2687,8 +2434,7 @@
     ]
   },
   {
-    "shortcode": ":man_facepalming:",
-    "unicode": "🤦‍♂️",
+    "char": "🤦‍♂️",
     "keywords": [
       "man",
       "male",
@@ -2697,8 +2443,7 @@
     ]
   },
   {
-    "shortcode": ":man_facepalming_tone1:",
-    "unicode": "🤦🏻‍♂️",
+    "char": "🤦‍♂️🏻",
     "keywords": [
       "man",
       "male",
@@ -2707,8 +2452,7 @@
     ]
   },
   {
-    "shortcode": ":man_facepalming_tone2:",
-    "unicode": "🤦🏼‍♂️",
+    "char": "🤦‍♂️🏼",
     "keywords": [
       "man",
       "male",
@@ -2717,8 +2461,7 @@
     ]
   },
   {
-    "shortcode": ":man_facepalming_tone3:",
-    "unicode": "🤦🏽‍♂️",
+    "char": "🤦‍♂️🏽",
     "keywords": [
       "man",
       "male",
@@ -2727,8 +2470,7 @@
     ]
   },
   {
-    "shortcode": ":man_facepalming_tone4:",
-    "unicode": "🤦🏾‍♂️",
+    "char": "🤦‍♂️🏾",
     "keywords": [
       "man",
       "male",
@@ -2737,8 +2479,7 @@
     ]
   },
   {
-    "shortcode": ":man_facepalming_tone5:",
-    "unicode": "🤦🏿‍♂️",
+    "char": "🤦‍♂️🏿",
     "keywords": [
       "man",
       "male",
@@ -2747,8 +2488,7 @@
     ]
   },
   {
-    "shortcode": ":woman_facepalming:",
-    "unicode": "🤦‍♀️",
+    "char": "🤦‍♀️",
     "keywords": [
       "woman",
       "female",
@@ -2757,8 +2497,7 @@
     ]
   },
   {
-    "shortcode": ":woman_facepalming_tone1:",
-    "unicode": "🤦🏻‍♀️",
+    "char": "🤦‍♀️🏻",
     "keywords": [
       "woman",
       "female",
@@ -2767,8 +2506,7 @@
     ]
   },
   {
-    "shortcode": ":woman_facepalming_tone2:",
-    "unicode": "🤦🏼‍♀️",
+    "char": "🤦‍♀️🏼",
     "keywords": [
       "woman",
       "female",
@@ -2777,8 +2515,7 @@
     ]
   },
   {
-    "shortcode": ":woman_facepalming_tone3:",
-    "unicode": "🤦🏽‍♀️",
+    "char": "🤦‍♀️🏽",
     "keywords": [
       "woman",
       "female",
@@ -2787,8 +2524,7 @@
     ]
   },
   {
-    "shortcode": ":woman_facepalming_tone4:",
-    "unicode": "🤦🏾‍♀️",
+    "char": "🤦‍♀️🏾",
     "keywords": [
       "woman",
       "female",
@@ -2797,8 +2533,7 @@
     ]
   },
   {
-    "shortcode": ":woman_facepalming_tone5:",
-    "unicode": "🤦🏿‍♀️",
+    "char": "🤦‍♀️🏿",
     "keywords": [
       "woman",
       "female",
@@ -2807,8 +2542,7 @@
     ]
   },
   {
-    "shortcode": ":woman_shrugging:",
-    "unicode": "🤷‍♀️",
+    "char": "🤷",
     "keywords": [
       "woman",
       "female",
@@ -2819,8 +2553,7 @@
     ]
   },
   {
-    "shortcode": ":woman_shrugging_tone1:",
-    "unicode": "🤷🏻‍♀️",
+    "char": "🤷🏻",
     "keywords": [
       "woman",
       "female",
@@ -2831,8 +2564,7 @@
     ]
   },
   {
-    "shortcode": ":woman_shrugging_tone2:",
-    "unicode": "🤷🏼‍♀️",
+    "char": "🤷🏼",
     "keywords": [
       "woman",
       "female",
@@ -2843,8 +2575,7 @@
     ]
   },
   {
-    "shortcode": ":woman_shrugging_tone3:",
-    "unicode": "🤷🏽‍♀️",
+    "char": "🤷🏽",
     "keywords": [
       "woman",
       "female",
@@ -2855,8 +2586,7 @@
     ]
   },
   {
-    "shortcode": ":woman_shrugging_tone4:",
-    "unicode": "🤷🏾‍♀️",
+    "char": "🤷🏾",
     "keywords": [
       "woman",
       "female",
@@ -2867,8 +2597,7 @@
     ]
   },
   {
-    "shortcode": ":woman_shrugging_tone5:",
-    "unicode": "🤷🏿‍♀️",
+    "char": "🤷🏿",
     "keywords": [
       "woman",
       "female",
@@ -2879,8 +2608,7 @@
     ]
   },
   {
-    "shortcode": ":man_shrugging:",
-    "unicode": "🤷‍♂️",
+    "char": "🤷‍♂️",
     "keywords": [
       "man",
       "male",
@@ -2891,8 +2619,7 @@
     ]
   },
   {
-    "shortcode": ":man_shrugging_tone1:",
-    "unicode": "🤷🏻‍♂️",
+    "char": "🤷‍♂️🏻",
     "keywords": [
       "man",
       "male",
@@ -2903,8 +2630,7 @@
     ]
   },
   {
-    "shortcode": ":man_shrugging_tone2:",
-    "unicode": "🤷🏼‍♂️",
+    "char": "🤷‍♂️🏼",
     "keywords": [
       "man",
       "male",
@@ -2915,8 +2641,7 @@
     ]
   },
   {
-    "shortcode": ":man_shrugging_tone3:",
-    "unicode": "🤷🏽‍♂️",
+    "char": "🤷‍♂️🏽",
     "keywords": [
       "man",
       "male",
@@ -2927,8 +2652,7 @@
     ]
   },
   {
-    "shortcode": ":man_shrugging_tone4:",
-    "unicode": "🤷🏾‍♂️",
+    "char": "🤷‍♂️🏾",
     "keywords": [
       "man",
       "male",
@@ -2939,8 +2663,7 @@
     ]
   },
   {
-    "shortcode": ":man_shrugging_tone5:",
-    "unicode": "🤷🏿‍♂️",
+    "char": "🤷‍♂️🏿",
     "keywords": [
       "man",
       "male",
@@ -2951,8 +2674,7 @@
     ]
   },
   {
-    "shortcode": ":tipping_hand_woman:",
-    "unicode": ":tipping_hand_woman:",
+    "char": "💁",
     "keywords": [
       "female",
       "girl",
@@ -2962,8 +2684,7 @@
     ]
   },
   {
-    "shortcode": ":tipping_hand_woman_tone1:",
-    "unicode": ":tipping_hand_woman_tone1:",
+    "char": "💁🏻",
     "keywords": [
       "female",
       "girl",
@@ -2973,8 +2694,7 @@
     ]
   },
   {
-    "shortcode": ":tipping_hand_woman_tone2:",
-    "unicode": ":tipping_hand_woman_tone2:",
+    "char": "💁🏼",
     "keywords": [
       "female",
       "girl",
@@ -2984,8 +2704,7 @@
     ]
   },
   {
-    "shortcode": ":tipping_hand_woman_tone3:",
-    "unicode": ":tipping_hand_woman_tone3:",
+    "char": "💁🏽",
     "keywords": [
       "female",
       "girl",
@@ -2995,8 +2714,7 @@
     ]
   },
   {
-    "shortcode": ":tipping_hand_woman_tone4:",
-    "unicode": ":tipping_hand_woman_tone4:",
+    "char": "💁🏾",
     "keywords": [
       "female",
       "girl",
@@ -3006,8 +2724,7 @@
     ]
   },
   {
-    "shortcode": ":tipping_hand_woman_tone5:",
-    "unicode": ":tipping_hand_woman_tone5:",
+    "char": "💁🏿",
     "keywords": [
       "female",
       "girl",
@@ -3017,8 +2734,7 @@
     ]
   },
   {
-    "shortcode": ":tipping_hand_man:",
-    "unicode": ":tipping_hand_man:",
+    "char": "💁‍♂️",
     "keywords": [
       "male",
       "boy",
@@ -3028,8 +2744,7 @@
     ]
   },
   {
-    "shortcode": ":tipping_hand_man_tone1:",
-    "unicode": ":tipping_hand_man_tone1:",
+    "char": "💁‍♂️🏻",
     "keywords": [
       "male",
       "boy",
@@ -3039,8 +2754,7 @@
     ]
   },
   {
-    "shortcode": ":tipping_hand_man_tone2:",
-    "unicode": ":tipping_hand_man_tone2:",
+    "char": "💁‍♂️🏼",
     "keywords": [
       "male",
       "boy",
@@ -3050,8 +2764,7 @@
     ]
   },
   {
-    "shortcode": ":tipping_hand_man_tone3:",
-    "unicode": ":tipping_hand_man_tone3:",
+    "char": "💁‍♂️🏽",
     "keywords": [
       "male",
       "boy",
@@ -3061,8 +2774,7 @@
     ]
   },
   {
-    "shortcode": ":tipping_hand_man_tone4:",
-    "unicode": ":tipping_hand_man_tone4:",
+    "char": "💁‍♂️🏾",
     "keywords": [
       "male",
       "boy",
@@ -3072,8 +2784,7 @@
     ]
   },
   {
-    "shortcode": ":tipping_hand_man_tone5:",
-    "unicode": ":tipping_hand_man_tone5:",
+    "char": "💁‍♂️🏿",
     "keywords": [
       "male",
       "boy",
@@ -3083,8 +2794,7 @@
     ]
   },
   {
-    "shortcode": ":no_good_woman:",
-    "unicode": ":no_good_woman:",
+    "char": "🙅",
     "keywords": [
       "female",
       "girl",
@@ -3093,8 +2803,7 @@
     ]
   },
   {
-    "shortcode": ":no_good_woman_tone1:",
-    "unicode": ":no_good_woman_tone1:",
+    "char": "🙅🏻",
     "keywords": [
       "female",
       "girl",
@@ -3103,8 +2812,7 @@
     ]
   },
   {
-    "shortcode": ":no_good_woman_tone2:",
-    "unicode": ":no_good_woman_tone2:",
+    "char": "🙅🏼",
     "keywords": [
       "female",
       "girl",
@@ -3113,8 +2821,7 @@
     ]
   },
   {
-    "shortcode": ":no_good_woman_tone3:",
-    "unicode": ":no_good_woman_tone3:",
+    "char": "🙅🏽",
     "keywords": [
       "female",
       "girl",
@@ -3123,8 +2830,7 @@
     ]
   },
   {
-    "shortcode": ":no_good_woman_tone4:",
-    "unicode": ":no_good_woman_tone4:",
+    "char": "🙅🏾",
     "keywords": [
       "female",
       "girl",
@@ -3133,8 +2839,7 @@
     ]
   },
   {
-    "shortcode": ":no_good_woman_tone5:",
-    "unicode": ":no_good_woman_tone5:",
+    "char": "🙅🏿",
     "keywords": [
       "female",
       "girl",
@@ -3143,8 +2848,7 @@
     ]
   },
   {
-    "shortcode": ":no_good_man:",
-    "unicode": ":no_good_man:",
+    "char": "🙅‍♂️",
     "keywords": [
       "male",
       "boy",
@@ -3153,8 +2857,7 @@
     ]
   },
   {
-    "shortcode": ":no_good_man_tone1:",
-    "unicode": ":no_good_man_tone1:",
+    "char": "🙅‍♂️🏻",
     "keywords": [
       "male",
       "boy",
@@ -3163,8 +2866,7 @@
     ]
   },
   {
-    "shortcode": ":no_good_man_tone2:",
-    "unicode": ":no_good_man_tone2:",
+    "char": "🙅‍♂️🏼",
     "keywords": [
       "male",
       "boy",
@@ -3173,8 +2875,7 @@
     ]
   },
   {
-    "shortcode": ":no_good_man_tone3:",
-    "unicode": ":no_good_man_tone3:",
+    "char": "🙅‍♂️🏽",
     "keywords": [
       "male",
       "boy",
@@ -3183,8 +2884,7 @@
     ]
   },
   {
-    "shortcode": ":no_good_man_tone4:",
-    "unicode": ":no_good_man_tone4:",
+    "char": "🙅‍♂️🏾",
     "keywords": [
       "male",
       "boy",
@@ -3193,8 +2893,7 @@
     ]
   },
   {
-    "shortcode": ":no_good_man_tone5:",
-    "unicode": ":no_good_man_tone5:",
+    "char": "🙅‍♂️🏿",
     "keywords": [
       "male",
       "boy",
@@ -3203,8 +2902,7 @@
     ]
   },
   {
-    "shortcode": ":ok_woman:",
-    "unicode": "🙆",
+    "char": "🙆",
     "keywords": [
       "women",
       "girl",
@@ -3215,8 +2913,7 @@
     ]
   },
   {
-    "shortcode": ":ok_woman_tone1:",
-    "unicode": "🙆🏻",
+    "char": "🙆🏻",
     "keywords": [
       "women",
       "girl",
@@ -3227,8 +2924,7 @@
     ]
   },
   {
-    "shortcode": ":ok_woman_tone2:",
-    "unicode": "🙆🏼",
+    "char": "🙆🏼",
     "keywords": [
       "women",
       "girl",
@@ -3239,8 +2935,7 @@
     ]
   },
   {
-    "shortcode": ":ok_woman_tone3:",
-    "unicode": "🙆🏽",
+    "char": "🙆🏽",
     "keywords": [
       "women",
       "girl",
@@ -3251,8 +2946,7 @@
     ]
   },
   {
-    "shortcode": ":ok_woman_tone4:",
-    "unicode": "🙆🏾",
+    "char": "🙆🏾",
     "keywords": [
       "women",
       "girl",
@@ -3263,8 +2957,7 @@
     ]
   },
   {
-    "shortcode": ":ok_woman_tone5:",
-    "unicode": "🙆🏿",
+    "char": "🙆🏿",
     "keywords": [
       "women",
       "girl",
@@ -3275,8 +2968,7 @@
     ]
   },
   {
-    "shortcode": ":ok_man:",
-    "unicode": ":ok_man:",
+    "char": "🙆‍♂️",
     "keywords": [
       "men",
       "boy",
@@ -3287,8 +2979,7 @@
     ]
   },
   {
-    "shortcode": ":ok_man_tone1:",
-    "unicode": ":ok_man_tone1:",
+    "char": "🙆‍♂️🏻",
     "keywords": [
       "men",
       "boy",
@@ -3299,8 +2990,7 @@
     ]
   },
   {
-    "shortcode": ":ok_man_tone2:",
-    "unicode": ":ok_man_tone2:",
+    "char": "🙆‍♂️🏼",
     "keywords": [
       "men",
       "boy",
@@ -3311,8 +3001,7 @@
     ]
   },
   {
-    "shortcode": ":ok_man_tone3:",
-    "unicode": ":ok_man_tone3:",
+    "char": "🙆‍♂️🏽",
     "keywords": [
       "men",
       "boy",
@@ -3323,8 +3012,7 @@
     ]
   },
   {
-    "shortcode": ":ok_man_tone4:",
-    "unicode": ":ok_man_tone4:",
+    "char": "🙆‍♂️🏾",
     "keywords": [
       "men",
       "boy",
@@ -3335,8 +3023,7 @@
     ]
   },
   {
-    "shortcode": ":ok_man_tone5:",
-    "unicode": ":ok_man_tone5:",
+    "char": "🙆‍♂️🏿",
     "keywords": [
       "men",
       "boy",
@@ -3347,8 +3034,7 @@
     ]
   },
   {
-    "shortcode": ":raising_hand_woman:",
-    "unicode": ":raising_hand_woman:",
+    "char": "🙋",
     "keywords": [
       "female",
       "girl",
@@ -3356,8 +3042,7 @@
     ]
   },
   {
-    "shortcode": ":raising_hand_woman_tone1:",
-    "unicode": ":raising_hand_woman_tone1:",
+    "char": "🙋🏻",
     "keywords": [
       "female",
       "girl",
@@ -3365,8 +3050,7 @@
     ]
   },
   {
-    "shortcode": ":raising_hand_woman_tone2:",
-    "unicode": ":raising_hand_woman_tone2:",
+    "char": "🙋🏼",
     "keywords": [
       "female",
       "girl",
@@ -3374,8 +3058,7 @@
     ]
   },
   {
-    "shortcode": ":raising_hand_woman_tone3:",
-    "unicode": ":raising_hand_woman_tone3:",
+    "char": "🙋🏽",
     "keywords": [
       "female",
       "girl",
@@ -3383,8 +3066,7 @@
     ]
   },
   {
-    "shortcode": ":raising_hand_woman_tone4:",
-    "unicode": ":raising_hand_woman_tone4:",
+    "char": "🙋🏾",
     "keywords": [
       "female",
       "girl",
@@ -3392,8 +3074,7 @@
     ]
   },
   {
-    "shortcode": ":raising_hand_woman_tone5:",
-    "unicode": ":raising_hand_woman_tone5:",
+    "char": "🙋🏿",
     "keywords": [
       "female",
       "girl",
@@ -3401,8 +3082,7 @@
     ]
   },
   {
-    "shortcode": ":raising_hand_man:",
-    "unicode": ":raising_hand_man:",
+    "char": "🙋‍♂️",
     "keywords": [
       "male",
       "boy",
@@ -3410,8 +3090,7 @@
     ]
   },
   {
-    "shortcode": ":raising_hand_man_tone1:",
-    "unicode": ":raising_hand_man_tone1:",
+    "char": "🙋‍♂️🏻",
     "keywords": [
       "male",
       "boy",
@@ -3419,8 +3098,7 @@
     ]
   },
   {
-    "shortcode": ":raising_hand_man_tone2:",
-    "unicode": ":raising_hand_man_tone2:",
+    "char": "🙋‍♂️🏼",
     "keywords": [
       "male",
       "boy",
@@ -3428,8 +3106,7 @@
     ]
   },
   {
-    "shortcode": ":raising_hand_man_tone3:",
-    "unicode": ":raising_hand_man_tone3:",
+    "char": "🙋‍♂️🏽",
     "keywords": [
       "male",
       "boy",
@@ -3437,8 +3114,7 @@
     ]
   },
   {
-    "shortcode": ":raising_hand_man_tone4:",
-    "unicode": ":raising_hand_man_tone4:",
+    "char": "🙋‍♂️🏾",
     "keywords": [
       "male",
       "boy",
@@ -3446,8 +3122,7 @@
     ]
   },
   {
-    "shortcode": ":raising_hand_man_tone5:",
-    "unicode": ":raising_hand_man_tone5:",
+    "char": "🙋‍♂️🏿",
     "keywords": [
       "male",
       "boy",
@@ -3455,8 +3130,7 @@
     ]
   },
   {
-    "shortcode": ":pouting_woman:",
-    "unicode": ":pouting_woman:",
+    "char": "🙎",
     "keywords": [
       "female",
       "girl",
@@ -3464,8 +3138,7 @@
     ]
   },
   {
-    "shortcode": ":pouting_woman_tone1:",
-    "unicode": ":pouting_woman_tone1:",
+    "char": "🙎🏻",
     "keywords": [
       "female",
       "girl",
@@ -3473,8 +3146,7 @@
     ]
   },
   {
-    "shortcode": ":pouting_woman_tone2:",
-    "unicode": ":pouting_woman_tone2:",
+    "char": "🙎🏼",
     "keywords": [
       "female",
       "girl",
@@ -3482,8 +3154,7 @@
     ]
   },
   {
-    "shortcode": ":pouting_woman_tone3:",
-    "unicode": ":pouting_woman_tone3:",
+    "char": "🙎🏽",
     "keywords": [
       "female",
       "girl",
@@ -3491,8 +3162,7 @@
     ]
   },
   {
-    "shortcode": ":pouting_woman_tone4:",
-    "unicode": ":pouting_woman_tone4:",
+    "char": "🙎🏾",
     "keywords": [
       "female",
       "girl",
@@ -3500,8 +3170,7 @@
     ]
   },
   {
-    "shortcode": ":pouting_woman_tone5:",
-    "unicode": ":pouting_woman_tone5:",
+    "char": "🙎🏿",
     "keywords": [
       "female",
       "girl",
@@ -3509,8 +3178,7 @@
     ]
   },
   {
-    "shortcode": ":pouting_man:",
-    "unicode": ":pouting_man:",
+    "char": "🙎‍♂️",
     "keywords": [
       "male",
       "boy",
@@ -3518,8 +3186,7 @@
     ]
   },
   {
-    "shortcode": ":pouting_man_tone1:",
-    "unicode": ":pouting_man_tone1:",
+    "char": "🙎‍♂️🏻",
     "keywords": [
       "male",
       "boy",
@@ -3527,8 +3194,7 @@
     ]
   },
   {
-    "shortcode": ":pouting_man_tone2:",
-    "unicode": ":pouting_man_tone2:",
+    "char": "🙎‍♂️🏼",
     "keywords": [
       "male",
       "boy",
@@ -3536,8 +3202,7 @@
     ]
   },
   {
-    "shortcode": ":pouting_man_tone3:",
-    "unicode": ":pouting_man_tone3:",
+    "char": "🙎‍♂️🏽",
     "keywords": [
       "male",
       "boy",
@@ -3545,8 +3210,7 @@
     ]
   },
   {
-    "shortcode": ":pouting_man_tone4:",
-    "unicode": ":pouting_man_tone4:",
+    "char": "🙎‍♂️🏾",
     "keywords": [
       "male",
       "boy",
@@ -3554,8 +3218,7 @@
     ]
   },
   {
-    "shortcode": ":pouting_man_tone5:",
-    "unicode": ":pouting_man_tone5:",
+    "char": "🙎‍♂️🏿",
     "keywords": [
       "male",
       "boy",
@@ -3563,8 +3226,7 @@
     ]
   },
   {
-    "shortcode": ":frowning_woman:",
-    "unicode": ":frowning_woman:",
+    "char": "🙍",
     "keywords": [
       "female",
       "girl",
@@ -3576,8 +3238,7 @@
     ]
   },
   {
-    "shortcode": ":frowning_woman_tone1:",
-    "unicode": ":frowning_woman_tone1:",
+    "char": "🙍🏻",
     "keywords": [
       "female",
       "girl",
@@ -3589,8 +3250,7 @@
     ]
   },
   {
-    "shortcode": ":frowning_woman_tone2:",
-    "unicode": ":frowning_woman_tone2:",
+    "char": "🙍🏼",
     "keywords": [
       "female",
       "girl",
@@ -3602,8 +3262,7 @@
     ]
   },
   {
-    "shortcode": ":frowning_woman_tone3:",
-    "unicode": ":frowning_woman_tone3:",
+    "char": "🙍🏽",
     "keywords": [
       "female",
       "girl",
@@ -3615,8 +3274,7 @@
     ]
   },
   {
-    "shortcode": ":frowning_woman_tone4:",
-    "unicode": ":frowning_woman_tone4:",
+    "char": "🙍🏾",
     "keywords": [
       "female",
       "girl",
@@ -3628,8 +3286,7 @@
     ]
   },
   {
-    "shortcode": ":frowning_woman_tone5:",
-    "unicode": ":frowning_woman_tone5:",
+    "char": "🙍🏿",
     "keywords": [
       "female",
       "girl",
@@ -3641,8 +3298,7 @@
     ]
   },
   {
-    "shortcode": ":frowning_man:",
-    "unicode": ":frowning_man:",
+    "char": "🙍‍♂️",
     "keywords": [
       "male",
       "boy",
@@ -3654,8 +3310,7 @@
     ]
   },
   {
-    "shortcode": ":frowning_man_tone1:",
-    "unicode": ":frowning_man_tone1:",
+    "char": "🙍‍♂️🏻",
     "keywords": [
       "male",
       "boy",
@@ -3667,8 +3322,7 @@
     ]
   },
   {
-    "shortcode": ":frowning_man_tone2:",
-    "unicode": ":frowning_man_tone2:",
+    "char": "🙍‍♂️🏼",
     "keywords": [
       "male",
       "boy",
@@ -3680,8 +3334,7 @@
     ]
   },
   {
-    "shortcode": ":frowning_man_tone3:",
-    "unicode": ":frowning_man_tone3:",
+    "char": "🙍‍♂️🏽",
     "keywords": [
       "male",
       "boy",
@@ -3693,8 +3346,7 @@
     ]
   },
   {
-    "shortcode": ":frowning_man_tone4:",
-    "unicode": ":frowning_man_tone4:",
+    "char": "🙍‍♂️🏾",
     "keywords": [
       "male",
       "boy",
@@ -3706,8 +3358,7 @@
     ]
   },
   {
-    "shortcode": ":frowning_man_tone5:",
-    "unicode": ":frowning_man_tone5:",
+    "char": "🙍‍♂️🏿",
     "keywords": [
       "male",
       "boy",
@@ -3719,8 +3370,7 @@
     ]
   },
   {
-    "shortcode": ":haircut_woman:",
-    "unicode": ":haircut_woman:",
+    "char": "💇",
     "keywords": [
       "female",
       "girl",
@@ -3728,8 +3378,7 @@
     ]
   },
   {
-    "shortcode": ":haircut_woman_tone1:",
-    "unicode": ":haircut_woman_tone1:",
+    "char": "💇🏻",
     "keywords": [
       "female",
       "girl",
@@ -3737,8 +3386,7 @@
     ]
   },
   {
-    "shortcode": ":haircut_woman_tone2:",
-    "unicode": ":haircut_woman_tone2:",
+    "char": "💇🏼",
     "keywords": [
       "female",
       "girl",
@@ -3746,8 +3394,7 @@
     ]
   },
   {
-    "shortcode": ":haircut_woman_tone3:",
-    "unicode": ":haircut_woman_tone3:",
+    "char": "💇🏽",
     "keywords": [
       "female",
       "girl",
@@ -3755,8 +3402,7 @@
     ]
   },
   {
-    "shortcode": ":haircut_woman_tone4:",
-    "unicode": ":haircut_woman_tone4:",
+    "char": "💇🏾",
     "keywords": [
       "female",
       "girl",
@@ -3764,8 +3410,7 @@
     ]
   },
   {
-    "shortcode": ":haircut_woman_tone5:",
-    "unicode": ":haircut_woman_tone5:",
+    "char": "💇🏿",
     "keywords": [
       "female",
       "girl",
@@ -3773,8 +3418,7 @@
     ]
   },
   {
-    "shortcode": ":haircut_man:",
-    "unicode": ":haircut_man:",
+    "char": "💇‍♂️",
     "keywords": [
       "male",
       "boy",
@@ -3782,8 +3426,7 @@
     ]
   },
   {
-    "shortcode": ":haircut_man_tone1:",
-    "unicode": ":haircut_man_tone1:",
+    "char": "💇‍♂️🏻",
     "keywords": [
       "male",
       "boy",
@@ -3791,8 +3434,7 @@
     ]
   },
   {
-    "shortcode": ":haircut_man_tone2:",
-    "unicode": ":haircut_man_tone2:",
+    "char": "💇‍♂️🏼",
     "keywords": [
       "male",
       "boy",
@@ -3800,8 +3442,7 @@
     ]
   },
   {
-    "shortcode": ":haircut_man_tone3:",
-    "unicode": ":haircut_man_tone3:",
+    "char": "💇‍♂️🏽",
     "keywords": [
       "male",
       "boy",
@@ -3809,8 +3450,7 @@
     ]
   },
   {
-    "shortcode": ":haircut_man_tone4:",
-    "unicode": ":haircut_man_tone4:",
+    "char": "💇‍♂️🏾",
     "keywords": [
       "male",
       "boy",
@@ -3818,8 +3458,7 @@
     ]
   },
   {
-    "shortcode": ":haircut_man_tone5:",
-    "unicode": ":haircut_man_tone5:",
+    "char": "💇‍♂️🏿",
     "keywords": [
       "male",
       "boy",
@@ -3827,8 +3466,7 @@
     ]
   },
   {
-    "shortcode": ":massage_woman:",
-    "unicode": ":massage_woman:",
+    "char": "💆",
     "keywords": [
       "female",
       "girl",
@@ -3837,8 +3475,7 @@
     ]
   },
   {
-    "shortcode": ":massage_woman_tone1:",
-    "unicode": ":massage_woman_tone1:",
+    "char": "💆🏻",
     "keywords": [
       "female",
       "girl",
@@ -3847,8 +3484,7 @@
     ]
   },
   {
-    "shortcode": ":massage_woman_tone2:",
-    "unicode": ":massage_woman_tone2:",
+    "char": "💆🏼",
     "keywords": [
       "female",
       "girl",
@@ -3857,8 +3493,7 @@
     ]
   },
   {
-    "shortcode": ":massage_woman_tone3:",
-    "unicode": ":massage_woman_tone3:",
+    "char": "💆🏽",
     "keywords": [
       "female",
       "girl",
@@ -3867,8 +3502,7 @@
     ]
   },
   {
-    "shortcode": ":massage_woman_tone4:",
-    "unicode": ":massage_woman_tone4:",
+    "char": "💆🏾",
     "keywords": [
       "female",
       "girl",
@@ -3877,8 +3511,7 @@
     ]
   },
   {
-    "shortcode": ":massage_woman_tone5:",
-    "unicode": ":massage_woman_tone5:",
+    "char": "💆🏿",
     "keywords": [
       "female",
       "girl",
@@ -3887,8 +3520,7 @@
     ]
   },
   {
-    "shortcode": ":massage_man:",
-    "unicode": ":massage_man:",
+    "char": "💆‍♂️",
     "keywords": [
       "male",
       "boy",
@@ -3897,8 +3529,7 @@
     ]
   },
   {
-    "shortcode": ":massage_man_tone1:",
-    "unicode": ":massage_man_tone1:",
+    "char": "💆‍♂️🏻",
     "keywords": [
       "male",
       "boy",
@@ -3907,8 +3538,7 @@
     ]
   },
   {
-    "shortcode": ":massage_man_tone2:",
-    "unicode": ":massage_man_tone2:",
+    "char": "💆‍♂️🏼",
     "keywords": [
       "male",
       "boy",
@@ -3917,8 +3547,7 @@
     ]
   },
   {
-    "shortcode": ":massage_man_tone3:",
-    "unicode": ":massage_man_tone3:",
+    "char": "💆‍♂️🏽",
     "keywords": [
       "male",
       "boy",
@@ -3927,8 +3556,7 @@
     ]
   },
   {
-    "shortcode": ":massage_man_tone4:",
-    "unicode": ":massage_man_tone4:",
+    "char": "💆‍♂️🏾",
     "keywords": [
       "male",
       "boy",
@@ -3937,8 +3565,7 @@
     ]
   },
   {
-    "shortcode": ":massage_man_tone5:",
-    "unicode": ":massage_man_tone5:",
+    "char": "💆‍♂️🏿",
     "keywords": [
       "male",
       "boy",
@@ -3947,8 +3574,7 @@
     ]
   },
   {
-    "shortcode": ":woman_in_steamy_room:",
-    "unicode": "🧖‍♀️",
+    "char": "🧖‍♀️",
     "keywords": [
       "female",
       "woman",
@@ -3958,8 +3584,7 @@
     ]
   },
   {
-    "shortcode": ":woman_in_steamy_room_tone1:",
-    "unicode": "🧖🏻‍♀️",
+    "char": "🧖‍♀️",
     "keywords": [
       "female",
       "woman",
@@ -3969,8 +3594,7 @@
     ]
   },
   {
-    "shortcode": ":woman_in_steamy_room_tone2:",
-    "unicode": "🧖🏼‍♀️",
+    "char": "🧖‍♀️",
     "keywords": [
       "female",
       "woman",
@@ -3980,8 +3604,7 @@
     ]
   },
   {
-    "shortcode": ":woman_in_steamy_room_tone3:",
-    "unicode": "🧖🏽‍♀️",
+    "char": "🧖‍♀️",
     "keywords": [
       "female",
       "woman",
@@ -3991,8 +3614,7 @@
     ]
   },
   {
-    "shortcode": ":woman_in_steamy_room_tone4:",
-    "unicode": "🧖🏾‍♀️",
+    "char": "🧖‍♀️",
     "keywords": [
       "female",
       "woman",
@@ -4002,8 +3624,7 @@
     ]
   },
   {
-    "shortcode": ":woman_in_steamy_room_tone5:",
-    "unicode": "🧖🏿‍♀️",
+    "char": "🧖‍♀️",
     "keywords": [
       "female",
       "woman",
@@ -4013,8 +3634,7 @@
     ]
   },
   {
-    "shortcode": ":man_in_steamy_room:",
-    "unicode": "🧖‍♂️",
+    "char": "🧖‍♂️",
     "keywords": [
       "male",
       "man",
@@ -4024,8 +3644,7 @@
     ]
   },
   {
-    "shortcode": ":man_in_steamy_room_tone1:",
-    "unicode": "🧖🏻‍♂️",
+    "char": "🧖‍♂️",
     "keywords": [
       "male",
       "man",
@@ -4035,8 +3654,7 @@
     ]
   },
   {
-    "shortcode": ":man_in_steamy_room_tone2:",
-    "unicode": "🧖🏼‍♂️",
+    "char": "🧖‍♂️",
     "keywords": [
       "male",
       "man",
@@ -4046,8 +3664,7 @@
     ]
   },
   {
-    "shortcode": ":man_in_steamy_room_tone3:",
-    "unicode": "🧖🏽‍♂️",
+    "char": "🧖‍♂️",
     "keywords": [
       "male",
       "man",
@@ -4057,8 +3674,7 @@
     ]
   },
   {
-    "shortcode": ":man_in_steamy_room_tone4:",
-    "unicode": "🧖🏾‍♂️",
+    "char": "🧖‍♂️",
     "keywords": [
       "male",
       "man",
@@ -4068,8 +3684,7 @@
     ]
   },
   {
-    "shortcode": ":man_in_steamy_room_tone5:",
-    "unicode": "🧖🏿‍♂️",
+    "char": "🧖‍♂️",
     "keywords": [
       "male",
       "man",

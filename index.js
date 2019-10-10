@@ -27,7 +27,6 @@ const getEmoji = (property) => (string) => {
   return lib[stringHash % lib.length][property]
 }
 
-const toEmoji = getEmoji('unicode')
-toEmoji.shortcode = getEmoji('shortcode')
+const toEmoji = getEmoji('char')
 
 module.exports = toEmoji

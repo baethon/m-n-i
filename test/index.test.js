@@ -3,22 +3,21 @@
 /* global describe, it */
 
 const { expect } = require('chai')
-const toolkit = require('emoji-toolkit')
+const emojiRegex = require('emoji-regex')
 const toEmoji = require('..')
 const testSuite = require('./test_suite.json')
 
 describe('string-to-emoji', () => {
   const testString = 'john@acme.com'
+  const regex = emojiRegex()
 
   it('converts string to emoji', () => {
     const emoji = toEmoji(testString)
-    const shortcode = toEmoji.shortcode(testString)
 
-    // When toShort() receives non-emoji it won't be able
-    // to convert it to shortcode. This simple check
-    // should be enough to determine if we received
-    // the actual emoji.
-    expect(toolkit.toShort(emoji)).to.equal(shortcode)
+    expect(regex.test(emoji)).to.equal(true)
+
+    // make sure that function returned only the emoji
+    expect(emoji.replace(regex, '')).to.equal('')
   })
 
   it('returns same emoji for given string', () => {
@@ -26,10 +25,9 @@ describe('string-to-emoji', () => {
   })
 
   describe('Integration tests', () => {
-    testSuite.forEach(({string, unicode, shortcode}, i) => {
+    testSuite.forEach(({string, char}, i) => {
       it(`Passes test suite #${i + 1}`, () => {
-        expect(toEmoji(string)).to.equal(unicode)
-        expect(toEmoji.shortcode(string)).to.equal(shortcode)
+        expect(toEmoji(string)).to.equal(char)
       })
     })
   })
