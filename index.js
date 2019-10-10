@@ -22,11 +22,9 @@ const hash = (str) => {
   return hash
 }
 
-const getEmoji = (property) => (string) => {
+const getEmoji = (string) => {
   const stringHash = Math.abs(hash(string))
-  return lib[stringHash % lib.length][property]
+  return lib[stringHash % lib.length]
 }
 
-const toEmoji = getEmoji('char')
-
-module.exports = toEmoji
+module.exports = getEmoji

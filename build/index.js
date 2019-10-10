@@ -30,10 +30,7 @@ const filterByCategory = (categories) => (list) => list.filter(
   ({ category }) => categories.includes(category)
 )
 
-const mapList = (list) => list.map(({ char, keywords }) => ({
-  char,
-  keywords,
-}))
+const mapList = (list) => list.map(({char}) => char)
 
 const mapEmojilib = (data) => Object.values(data)
   .reduce(expandByFitzpatrickScale, [])
@@ -44,5 +41,5 @@ Promise.resolve(library)
   .then(filterByKeywords(['female', 'male']))
   .then(rejectByKeywords(['fashion']))
   .then(mapList)
-  .then((list) => JSON.stringify(list, null, 2))
+  .then(JSON.stringify)
   .then(console.log)
