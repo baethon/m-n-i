@@ -9,12 +9,14 @@
     "lint": "standard",
     "lint:fix": "standard --fix",
     "build": "node build > emojilib.json",
+    "build:test-suite": "node build/testSuite > test/test_suite.json",
     "test": "mocha"
   },
   "devDependencies": {
     "chai": "^4.2.0",
     "emoji-toolkit": "^5.0.5",
     "emojilib": "^2.4.0",
+    "faker": "^4.1.0",
     "mocha": "^6.2.1",
     "standard": "^14.3.1"
   }
