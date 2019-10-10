@@ -30,7 +30,7 @@ const filterByCategory = (categories) => (list) => list.filter(
   ({ category }) => categories.includes(category)
 )
 
-const mapList = (list) => list.map(({char}) => char)
+const mapList = (list) => list.map(({ char }) => char)
 
 const mapEmojilib = (data) => Object.values(data)
   .reduce(expandByFitzpatrickScale, [])

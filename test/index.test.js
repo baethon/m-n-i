@@ -25,7 +25,7 @@ describe('string-to-emoji', () => {
   })
 
   describe('Integration tests', () => {
-    testSuite.forEach(({string, char}, i) => {
+    testSuite.forEach(({ string, char }, i) => {
       it(`Passes test suite #${i + 1}`, () => {
         expect(toEmoji(string)).to.equal(char)
       })

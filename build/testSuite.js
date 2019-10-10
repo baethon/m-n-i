@@ -21,7 +21,7 @@ const testData = Array(100)
     const email = faker.internet.email()
     return {
       string: email,
-      char: toEmoji(email),
+      char: toEmoji(email)
     }
   })
 
