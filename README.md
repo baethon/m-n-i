@@ -1,4 +1,4 @@
-# 🖤💛 Mùnči
+# 🖤💛 Mùnči [![Build status](https://api.travis-ci.org/baethon/munci.svg?branch=master)](https://travis-ci.org/baethon/munci)
 
 ![example usage](https://raw.githubusercontent.com/baethon/munci/master/munci.png)
 
