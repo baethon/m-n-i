@@ -1,5 +1,7 @@
 # 🖤💛 Mùnči
 
+![example usage](https://raw.githubusercontent.com/baethon/munci/master/munci.png)
+
 ## Installation
 
 ```
