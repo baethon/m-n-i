@@ -1,7 +1,7 @@
 {
-  "name": "@baethon/string-to-emoji",
+  "name": "@baethon/munci",
   "version": "1.0.0",
-  "description": "Convert string to emoji",
+  "description": "Convert string to emoji face",
   "main": "index.js",
   "author": "Radoslaw Mejer <radmen@baethon.com>",
   "license": "MIT",
