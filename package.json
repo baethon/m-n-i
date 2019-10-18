@@ -2,23 +2,31 @@
   "name": "@baethon/munci",
   "version": "1.0.0",
   "description": "Convert string to emoji face",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "Radoslaw Mejer <radmen@baethon.com>",
   "license": "MIT",
   "scripts": {
     "lint": "standard",
     "lint:fix": "standard --fix",
-    "build": "node build > emojilib.json",
+    "build": "webpack -p",
+    "build:emojilib": "node build > emojilib.json",
     "build:test-suite": "node build/testSuite > test/test_suite.json",
+    "prepublish": "npm run build",
     "test": "mocha"
   },
   "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "babel-loader": "^8.0.6",
     "chai": "^4.2.0",
     "emoji-regex": "^8.0.0",
     "emojilib": "^2.4.0",
     "faker": "^4.1.0",
     "mocha": "^6.2.1",
     "skin-tone": "^2.0.0",
-    "standard": "^14.3.1"
-  }
+    "standard": "^14.3.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "dependencies": {}
 }
