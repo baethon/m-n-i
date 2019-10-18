@@ -86,6 +86,9 @@ public/
 # vuepress build output
 .vuepress/dist
 
+# webpack build output
+dist/
+
 # Serverless directories
 .serverless/
 
