@@ -22,9 +22,15 @@ const hash = (str) => {
   return hash
 }
 
-const getEmoji = (string) => {
+/**
+ * Create an emoji face using the given string
+ *
+ * @param {String} input The input string
+ * @return {String}
+ */
+const munci = (string) => {
   const stringHash = Math.abs(hash(string))
   return lib[stringHash % lib.length]
 }
 
-module.exports = getEmoji
+module.exports = munci
