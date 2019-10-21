@@ -2,11 +2,6 @@
 	export let name;
 </script>
 
-<style type="text/scss">
-  $color: green;
-	h1 {
-		color: $color;
-	}
-</style>
+<style src="./App.scss"></style>
 
 <h1>Hello {name}!</h1>
